@@ -96,8 +96,15 @@ function loadFile(filePath: string): CurriculumDataFileOutput | null {
 // Main load function — call once at startup
 // ─────────────────────────────────────────────
 
-export function loadAllData(dataDir?: string): DataIndex {
+export interface LoadOptions {
+  /** If true (default), throw on any parse/validation failure instead of skipping. */
+  strict?: boolean;
+}
+
+export function loadAllData(dataDir?: string, opts?: LoadOptions): DataIndex {
   if (_index !== null) return _index;
+
+  const strict = opts?.strict ?? (process.env.NODE_ENV !== "development");
 
   // Resolve data/ relative to this file's package root
   const pkgRoot = fileURLToPath(new URL("../../../", import.meta.url));
@@ -113,10 +120,17 @@ export function loadAllData(dataDir?: string): DataIndex {
   }
 
   _index = new Map<string, CurriculumDataFileOutput>();
+  const errors: string[] = [];
 
   for (const filePath of files) {
     const data = loadFile(filePath);
-    if (!data) continue;
+    if (!data) {
+      errors.push(filePath);
+      if (strict) {
+        throw new Error(`[loader] STRICT MODE: failed to load ${filePath} — fix or remove the file`);
+      }
+      continue;
+    }
 
     const key = indexKey(data.board, data.subject, data.level);
     if (_index.has(key)) {
@@ -128,8 +142,15 @@ export function loadAllData(dataDir?: string): DataIndex {
   }
 
   _loadedAt = new Date();
+
+  if (errors.length > 0) {
+    console.error(
+      `[loader] ⚠ ${errors.length} file(s) failed to load: ${errors.join(", ")}`,
+    );
+  }
+
   console.error(
-    `[loader] Loaded ${_index.size} curriculum record(s) from ${resolvedDir} at ${_loadedAt.toISOString()}`,
+    `[loader] Loaded ${_index.size}/${files.length} curriculum record(s) from ${resolvedDir} at ${_loadedAt.toISOString()}`,
   );
 
   return _index;
