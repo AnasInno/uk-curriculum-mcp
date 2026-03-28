@@ -21,7 +21,7 @@
       {
         "id": "topic-1",
         "title": "Number",
-        "description": "Number",
+        "description": "Structure and calculation; fractions, decimals and percentages; measures and accuracy",
         "subtopics": [],
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
@@ -35,7 +35,7 @@
       {
         "id": "topic-2",
         "title": "Algebra",
-        "description": "Weighting: ~30%% Higher, ~20%% Foundation",
+        "description": "Notation, vocabulary and manipulation; graphs; solving equations and inequalities; sequences",
         "subtopics": [],
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
@@ -49,7 +49,7 @@
       {
         "id": "topic-3",
         "title": "Ratio, proportion and rates of change",
-        "description": "Ratio, proportion and rates of change",
+        "description": "Ratio, proportion, rates of change, and compound measures",
         "subtopics": [],
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
@@ -63,7 +63,7 @@
       {
         "id": "topic-4",
         "title": "Geometry and measures",
-        "description": "Weighting: ~25%% Higher, ~25%% Foundation",
+        "description": "Properties and constructions; mensuration and calculation; vectors",
         "subtopics": [],
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
@@ -77,7 +77,7 @@
       {
         "id": "topic-5",
         "title": "Probability",
-        "description": "Probability",
+        "description": "Recording, describing and analysing probability",
         "subtopics": [],
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
@@ -91,7 +91,7 @@
       {
         "id": "topic-6",
         "title": "Statistics",
-        "description": "Statistics",
+        "description": "Collecting, representing and interpreting data",
         "subtopics": [],
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
@@ -238,8 +238,8 @@
         "id": "AO1",
         "title": "Use and apply standard techniques",
         "description": "Accurately recall facts, terminology and definitions; use and interpret notation correctly; accurately carry out routine procedures or set tasks requiring multi-step solutions.",
-        "weightingMin": 50,
-        "weightingMax": 40,
+        "weightingMin": 40,
+        "weightingMax": 50,
         "_meta": {
           "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
           "pageRef": "Specification at a glance",

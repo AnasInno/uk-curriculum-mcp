@@ -26,7 +26,10 @@ export const MetaSchema = z.object({
   tier: z.enum(["authoritative", "derived"], {
     error: '_meta.tier must be "authoritative" or "derived"',
   }),
-});
+}).refine(
+  (meta) => meta.tier !== "authoritative" || (meta.pageRef != null && meta.pageRef.length > 0),
+  { message: "_meta.pageRef is required when tier is 'authoritative'" }
+);
 
 export type MetaInput = z.input<typeof MetaSchema>;
 export type MetaOutput = z.output<typeof MetaSchema>;
@@ -124,7 +127,10 @@ export const AssessmentObjectiveSchema = z.object({
   weightingMin: z.number().min(0).max(100).optional(),
   weightingMax: z.number().min(0).max(100).optional(),
   _meta: MetaSchema,
-});
+}).refine(
+  (ao) => ao.weightingMin == null || ao.weightingMax == null || ao.weightingMin <= ao.weightingMax,
+  { message: "assessmentObjective: weightingMin must be <= weightingMax" }
+);
 
 // ─────────────────────────────────────────────
 // Assessment Objectives (container)

@@ -87,7 +87,7 @@ async function main() {
   }
 
   const filename = basename(pdfPath);
-  const today = new Date().toISOString().split("T")[0];
+  const today: string = new Date().toISOString().split("T")[0] ?? "2026-01-01";
 
   const prompt = SCHEMA_PROMPT
     .replace(/<filename>/g, filename)

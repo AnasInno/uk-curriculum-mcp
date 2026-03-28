@@ -78,9 +78,9 @@ server.tool(
 
 server.tool(
   "get_specification",
-  "Get the full topic specification for a subject. " +
-  "Returns the topic hierarchy (topic areas → subtopics) with key terms and provenance metadata. " +
-  "All content comes directly from the official specification document.",
+  "Get the topic specification for a subject. " +
+  "Returns the topic hierarchy (topic areas → subtopics) with provenance metadata. " +
+  "Check each item's _meta.confidence and _meta.tier to assess data quality.",
   GetSpecificationParamsSchema,
   async (params) => {
     const result = handleGetSpecification(params);
@@ -101,9 +101,9 @@ server.tool(
 
 server.tool(
   "get_paper_structure",
-  "Get the assessment/paper structure for a subject. " +
-  "Returns information about each exam paper: duration, marks, percentage weighting, " +
-  "calculator/open-book status, and section breakdown. " +
+  "Get the paper structure for a subject. " +
+  "Returns each exam paper: duration, marks, percentage weighting, " +
+  "calculator/open-book status. Check _meta for source and confidence. " +
   "Optionally filter to a specific paper by its id.",
   GetPaperStructureParamsSchema,
   async (params) => {
@@ -127,7 +127,7 @@ server.tool(
   "get_assessment_objectives",
   "Get the assessment objectives (AOs) for a subject. " +
   "Returns each objective with its title, description, and percentage weighting range. " +
-  "Assessment objectives define the skills and knowledge that examiners assess.",
+  "Check _meta for source and confidence level.",
   GetAssessmentObjectivesParamsSchema,
   async (params) => {
     const result = handleGetAssessmentObjectives(params);
