@@ -1,0 +1,36 @@
+{
+  "name": "uk-curriculum-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for UK curriculum data (GCSE, A-Level) — specifications, papers, objectives, and grade boundaries",
+  "type": "module",
+  "main": "dist/src/index.js",
+  "bin": {
+    "uk-curriculum-mcp": "dist/src/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "validate": "npx tsx scripts/validate-data.ts",
+    "start": "node dist/src/index.js",
+    "typecheck": "tsc --noEmit",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "mcp",
+    "uk-curriculum",
+    "gcse",
+    "a-level",
+    "education",
+    "aqa",
+    "edexcel",
+    "ocr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.28.0",
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2",
+    "zod": "^4.3.6"
+  }
+}

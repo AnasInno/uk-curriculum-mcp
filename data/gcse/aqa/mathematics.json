@@ -1,0 +1,293 @@
+{
+  "board": "AQA",
+  "subject": "Mathematics",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+    "pageRef": "Specification at a glance",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-28",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "code": "8300",
+    "title": "GCSE Mathematics",
+    "firstExamYear": 2017,
+    "topics": [
+      {
+        "id": "topic-1",
+        "title": "Number",
+        "description": "Number",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-2",
+        "title": "Algebra",
+        "description": "Weighting: ~30%% Higher, ~20%% Foundation",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-3",
+        "title": "Ratio, proportion and rates of change",
+        "description": "Ratio, proportion and rates of change",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-4",
+        "title": "Geometry and measures",
+        "description": "Weighting: ~25%% Higher, ~25%% Foundation",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-5",
+        "title": "Probability",
+        "description": "Probability",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-6",
+        "title": "Statistics",
+        "description": "Statistics",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+      "pageRef": "Specification at a glance",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "papers": [
+      {
+        "id": "8300/1F",
+        "title": "Paper 1: Non-Calculator",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.3,
+        "calculator": false,
+        "sections": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "8300/1H",
+        "title": "Paper 1: Non-Calculator",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.3,
+        "calculator": false,
+        "sections": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "8300/2F",
+        "title": "Paper 2: Calculator",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.3,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "8300/2H",
+        "title": "Paper 2: Calculator",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.3,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "8300/3F",
+        "title": "Paper 3: Calculator",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.3,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "8300/3H",
+        "title": "Paper 3: Calculator",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.3,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+      "pageRef": "Specification at a glance",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "Use and apply standard techniques",
+        "description": "Accurately recall facts, terminology and definitions; use and interpret notation correctly; accurately carry out routine procedures or set tasks requiring multi-step solutions.",
+        "weightingMin": 50,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "Reason, interpret and communicate mathematically",
+        "description": "Make deductions, inferences and draw conclusions from mathematical information; construct chains of reasoning to achieve a given result; interpret and communicate information accurately; present arguments and proofs; assess the validity of an argument.",
+        "weightingMin": 25,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "Solve problems within mathematics and in other contexts",
+        "description": "Translate problems in mathematical or non-mathematical contexts into a process or a series of mathematical processes; make and use connections between different parts of mathematics; interpret results in the context of the given problem; evaluate methods used and results obtained; evaluate solutions to identify how they may have been affected by assumptions made.",
+        "weightingMin": 25,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300",
+      "pageRef": "Specification at a glance",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "gradeBoundaries": []
+}
