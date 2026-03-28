@@ -13,7 +13,7 @@
     "validate": "npx tsx scripts/validate-data.ts",
     "start": "node dist/src/index.js",
     "typecheck": "tsc --noEmit",
-    "test": "echo \"No tests yet\" && exit 0"
+    "test": "vitest run"
   },
   "keywords": [
     "mcp",
@@ -32,5 +32,8 @@
     "@types/node": "^25.5.0",
     "typescript": "^6.0.2",
     "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.2"
   }
 }
