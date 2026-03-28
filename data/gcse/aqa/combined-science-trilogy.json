@@ -1,0 +1,1453 @@
+{
+  "board": "AQA",
+  "subject": "Combined Science: Trilogy",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+    "pageRef": "Section 7.0–7.3",
+    "confidence": "high",
+    "verifiedDate": "2026-03-28",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Combined Science: Trilogy",
+    "level": "GCSE",
+    "code": "8464",
+    "title": "AQA GCSE Combined Science: Trilogy",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+      "pageRef": "Section 2.0 Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "biology-cell-biology",
+        "title": "Cell Biology",
+        "description": "Topic 1: Cell biology — cells, microscopy, cell division, stem cells, transport in cells",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-organisation",
+        "title": "Organisation",
+        "description": "Topic 2: Organisation — cell organisation, digestive system, heart and blood vessels, health and disease, plant organisation",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-infection-and-response",
+        "title": "Infection and Response",
+        "description": "Topic 3: Infection and response — communicable diseases, monoclonal antibodies, vaccines and medicines",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-bioenergetics",
+        "title": "Bioenergetics",
+        "description": "Topic 4: Bioenergetics — photosynthesis, respiration",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-homeostasis-and-response",
+        "title": "Homeostasis and Response",
+        "description": "Topic 5: Homeostasis and response — nervous system, hormonal coordination, maintaining internal environments",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-inheritance-variation-evolution",
+        "title": "Inheritance, Variation and Evolution",
+        "description": "Topic 6: Inheritance, variation and evolution — reproduction, genetics, natural selection and genetic modification",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-ecology",
+        "title": "Ecology",
+        "description": "Topic 7: Ecology — ecosystems, cycles in nature, biodiversity and the effect of human activities",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Biology",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-atomic-structure",
+        "title": "Atomic Structure and the Periodic Table",
+        "description": "Topic 8: Atomic structure and the periodic table — atoms, elements, compounds, the periodic table, properties of metals and non-metals",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-bonding-structure",
+        "title": "Bonding, Structure, and the Properties of Matter",
+        "description": "Topic 9: Bonding, structure, and the properties of matter — chemical bonds, ionic, covalent and metallic compounds, bulk and surface properties",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-quantitative-chemistry",
+        "title": "Quantitative Chemistry",
+        "description": "Topic 10: Quantitative chemistry — relative atomic mass, moles, concentration, yield and atom economy",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-chemical-changes",
+        "title": "Chemical Changes",
+        "description": "Topic 11: Chemical changes — reactivity series, extraction of metals, electrolysis, acid-base chemistry",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-energy-changes",
+        "title": "Energy Changes",
+        "description": "Topic 12: Energy changes — exothermic and endothermic reactions, reaction profiles, bond energies",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-rate-and-extent",
+        "title": "The Rate and Extent of Chemical Change",
+        "description": "Topic 13: The rate and extent of chemical change — rates of reaction, reversible reactions and equilibrium",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-organic-chemistry",
+        "title": "Organic Chemistry",
+        "description": "Topic 14: Organic chemistry — hydrocarbons, fractional distillation, combustion, polymers, alcohols and carboxylic acids",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-chemical-analysis",
+        "title": "Chemical Analysis",
+        "description": "Topic 15: Chemical analysis — pure substances and mixtures, chromatography, tests for common gases and ions",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-atmosphere",
+        "title": "Chemistry of the Atmosphere",
+        "description": "Topic 16: Chemistry of the atmosphere — Earth's early atmosphere, greenhouse gases, climate change, carbon footprint",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-using-resources",
+        "title": "Using Resources",
+        "description": "Topic 17: Using resources — finite and renewable resources, water treatment, life cycle assessment, recycling",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Chemistry",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-energy",
+        "title": "Energy",
+        "description": "Topic 18: Energy — energy stores and transfers, energy efficiency, national and global energy resources",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-electricity",
+        "title": "Electricity",
+        "description": "Topic 19: Electricity — circuit diagrams, current, resistance, potential difference, series and parallel circuits, mains electricity",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-particle-model",
+        "title": "Particle Model of Matter",
+        "description": "Topic 20: Particle model of matter — states of matter, changes of state, internal energy, particle model and pressure",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-atomic-structure",
+        "title": "Atomic Structure",
+        "description": "Topic 21: Atomic structure — atoms and isotopes, radioactive decay, nuclear radiation, fission and fusion",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-forces",
+        "title": "Forces",
+        "description": "Topic 22: Forces — scalar and vector quantities, contact and non-contact forces, gravity, forces and motion, momentum",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-waves",
+        "title": "Waves",
+        "description": "Topic 23: Waves — transverse and longitudinal waves, properties of waves, reflection, refraction, sound, electromagnetic waves",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-magnetism-electromagnetism",
+        "title": "Magnetism and Electromagnetism",
+        "description": "Topic 24: Magnetism and electromagnetism — permanent and induced magnets, magnetic fields, the motor effect, electromagnetic induction",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.1 Subject content — Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Combined Science: Trilogy",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+      "pageRef": "Section 2.2 Assessments",
+      "confidence": "high",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "biology-paper-1-foundation",
+        "title": "Biology Paper 1 Foundation Tier (8464/B/1F)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Biology Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "biology-paper-1-foundation-topics",
+            "title": "Biology Topics 1–4",
+            "description": "Cell Biology; Organisation; Infection and Response; Bioenergetics",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Biology Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "biology-paper-1-higher",
+        "title": "Biology Paper 1 Higher Tier (8464/B/1H)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Biology Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "biology-paper-1-higher-topics",
+            "title": "Biology Topics 1–4",
+            "description": "Cell Biology; Organisation; Infection and Response; Bioenergetics",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Biology Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "biology-paper-2-foundation",
+        "title": "Biology Paper 2 Foundation Tier (8464/B/2F)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Biology Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "biology-paper-2-foundation-topics",
+            "title": "Biology Topics 5–7",
+            "description": "Homeostasis and Response; Inheritance, Variation and Evolution; Ecology",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Biology Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "biology-paper-2-higher",
+        "title": "Biology Paper 2 Higher Tier (8464/B/2H)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Biology Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "biology-paper-2-higher-topics",
+            "title": "Biology Topics 5–7",
+            "description": "Homeostasis and Response; Inheritance, Variation and Evolution; Ecology",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Biology Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "chemistry-paper-1-foundation",
+        "title": "Chemistry Paper 1 Foundation Tier (8464/C/1F)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Chemistry Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "chemistry-paper-1-foundation-topics",
+            "title": "Chemistry Topics 8–12",
+            "description": "Atomic Structure and the Periodic Table; Bonding, Structure, and the Properties of Matter; Quantitative Chemistry; Chemical Changes; Energy Changes",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Chemistry Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "chemistry-paper-1-higher",
+        "title": "Chemistry Paper 1 Higher Tier (8464/C/1H)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Chemistry Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "chemistry-paper-1-higher-topics",
+            "title": "Chemistry Topics 8–12",
+            "description": "Atomic Structure and the Periodic Table; Bonding, Structure, and the Properties of Matter; Quantitative Chemistry; Chemical Changes; Energy Changes",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Chemistry Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "chemistry-paper-2-foundation",
+        "title": "Chemistry Paper 2 Foundation Tier (8464/C/2F)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Chemistry Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "chemistry-paper-2-foundation-topics",
+            "title": "Chemistry Topics 13–17",
+            "description": "The Rate and Extent of Chemical Change; Organic Chemistry; Chemical Analysis; Chemistry of the Atmosphere; Using Resources",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Chemistry Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "chemistry-paper-2-higher",
+        "title": "Chemistry Paper 2 Higher Tier (8464/C/2H)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Chemistry Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "chemistry-paper-2-higher-topics",
+            "title": "Chemistry Topics 13–17",
+            "description": "The Rate and Extent of Chemical Change; Organic Chemistry; Chemical Analysis; Chemistry of the Atmosphere; Using Resources",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Chemistry Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "physics-paper-1-foundation",
+        "title": "Physics Paper 1 Foundation Tier (8464/P/1F)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Physics Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "physics-paper-1-foundation-topics",
+            "title": "Physics Topics 18–21",
+            "description": "Energy; Electricity; Particle Model of Matter; Atomic Structure",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Physics Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "physics-paper-1-higher",
+        "title": "Physics Paper 1 Higher Tier (8464/P/1H)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Physics Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "physics-paper-1-higher-topics",
+            "title": "Physics Topics 18–21",
+            "description": "Energy; Electricity; Particle Model of Matter; Atomic Structure",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Physics Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "physics-paper-2-foundation",
+        "title": "Physics Paper 2 Foundation Tier (8464/P/2F)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Physics Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "physics-paper-2-foundation-topics",
+            "title": "Physics Topics 22–24",
+            "description": "Forces; Waves; Magnetism and Electromagnetism",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Physics Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "id": "physics-paper-2-higher",
+        "title": "Physics Paper 2 Higher Tier (8464/P/2H)",
+        "durationMinutes": 75,
+        "totalMarks": 70,
+        "percentage": 16.7,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 2.2 Assessments — Physics Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "physics-paper-2-higher-topics",
+            "title": "Physics Topics 22–24",
+            "description": "Forces; Waves; Magnetism and Electromagnetism",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+              "pageRef": "Section 2.2 Assessments — Physics Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 70
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Combined Science: Trilogy",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+      "pageRef": "Section 7.2 Assessment objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of: scientific ideas; scientific techniques and procedures.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 7.2.1 Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of: scientific ideas; scientific enquiry, techniques and procedures.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 7.2.1 Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse information and ideas to: interpret and evaluate; make judgments and draw conclusions; develop and improve experimental procedures.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/science/gcse/science-8464/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Combined Science: Trilogy (8464) Specification",
+          "pageRef": "Section 7.2.1 Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Combined Science: Trilogy",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024 (combined award)",
+      "tier": "foundation",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+        "sourceDocument": "Grade Boundaries 2024 — All Exam Boards (compiled from AQA GCSE Grade Boundaries June 2024)",
+        "pageRef": "8464F COMBINED SCI:TRILOGY TIER F row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "5-5",
+          "minMark": 171,
+          "maxMark": 197,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464F COMBINED SCI:TRILOGY TIER F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4-4",
+          "minMark": 144,
+          "maxMark": 170,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464F COMBINED SCI:TRILOGY TIER F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3-3",
+          "minMark": 117,
+          "maxMark": 143,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464F COMBINED SCI:TRILOGY TIER F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2-2",
+          "minMark": 90,
+          "maxMark": 116,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464F COMBINED SCI:TRILOGY TIER F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1-1",
+          "minMark": 63,
+          "maxMark": 89,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464F COMBINED SCI:TRILOGY TIER F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "AQA",
+      "subject": "Combined Science: Trilogy",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024 (combined award)",
+      "tier": "higher",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+        "sourceDocument": "Grade Boundaries 2024 — All Exam Boards (compiled from AQA GCSE Grade Boundaries June 2024)",
+        "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9-9",
+          "minMark": 289,
+          "maxMark": 420,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "9-8",
+          "minMark": 270,
+          "maxMark": 288,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8-8",
+          "minMark": 251,
+          "maxMark": 269,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8-7",
+          "minMark": 233,
+          "maxMark": 250,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7-7",
+          "minMark": 215,
+          "maxMark": 232,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7-6",
+          "minMark": 194,
+          "maxMark": 214,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6-6",
+          "minMark": 173,
+          "maxMark": 193,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6-5",
+          "minMark": 153,
+          "maxMark": 172,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5-5",
+          "minMark": 133,
+          "maxMark": 152,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5-4",
+          "minMark": 113,
+          "maxMark": 132,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4-4",
+          "minMark": 93,
+          "maxMark": 112,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4-3",
+          "minMark": 83,
+          "maxMark": 92,
+          "_meta": {
+            "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+            "sourceDocument": "Grade Boundaries 2024 — All Exam Boards",
+            "pageRef": "8464H COMBINED SCI:TRILOGY TIER H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "AQA",
+      "subject": "Combined Science: Trilogy",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024 (component level)",
+      "tier": "foundation",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+        "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+        "pageRef": "8464 COMBINED SCIENCE: TRILOGY individual component rows",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "5 (Biology P1F)",
+          "minMark": 44,
+          "maxMark": 70,
+          "component": "8464/B/1F",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4 (Biology P1F)",
+          "minMark": 37,
+          "maxMark": 43,
+          "component": "8464/B/1F",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3 (Biology P1F)",
+          "minMark": 28,
+          "maxMark": 36,
+          "component": "8464/B/1F",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2 (Biology P1F)",
+          "minMark": 20,
+          "maxMark": 27,
+          "component": "8464/B/1F",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1 (Biology P1F)",
+          "minMark": 12,
+          "maxMark": 19,
+          "component": "8464/B/1F",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1F row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "AQA",
+      "subject": "Combined Science: Trilogy",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024 (component level)",
+      "tier": "higher",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+        "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+        "pageRef": "8464 COMBINED SCIENCE: TRILOGY individual component Higher rows",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9 (Biology P1H)",
+          "minMark": 50,
+          "maxMark": 70,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8 (Biology P1H)",
+          "minMark": 44,
+          "maxMark": 49,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7 (Biology P1H)",
+          "minMark": 39,
+          "maxMark": 43,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6 (Biology P1H)",
+          "minMark": 31,
+          "maxMark": 38,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5 (Biology P1H)",
+          "minMark": 23,
+          "maxMark": 30,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4 (Biology P1H)",
+          "minMark": 15,
+          "maxMark": 22,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3 (Biology P1H)",
+          "minMark": 11,
+          "maxMark": 14,
+          "component": "8464/B/1H",
+          "_meta": {
+            "source": "https://www.scribd.com/document/827962659/Aqa-Grade-Boundaries",
+            "sourceDocument": "AQA GCSE Grade Boundaries June 2024",
+            "pageRef": "8464/B/1H row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

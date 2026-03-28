@@ -1,0 +1,544 @@
+{
+  "board": "AQA",
+  "subject": "English Literature",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+    "pageRef": "Sections 4.1–4.3",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-28",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "English Literature",
+    "level": "GCSE",
+    "code": "8702",
+    "title": "AQA GCSE English Literature",
+    "firstExamYear": 2017,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+      "pageRef": "Scheme of assessment",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "paper1-shakespeare",
+        "title": "Shakespeare",
+        "description": "Paper 1 Section A — students answer one essay question on their studied Shakespeare play. Open book is not permitted.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "paper1-shakespeare-plays",
+            "title": "Shakespeare set texts",
+            "description": "One of: Macbeth, Romeo and Juliet, The Tempest, A Midsummer Night's Dream, The Merchant of Venice, Much Ado About Nothing, Julius Caesar, Twelfth Night.",
+            "keyTerms": ["tragedy", "comedy", "iambic pentameter", "soliloquy", "dramatic irony", "context"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper1-19th-century",
+        "title": "The 19th-century novel",
+        "description": "Paper 1 Section B — students answer one essay question on their studied 19th-century novel. Open book is not permitted.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "paper1-19th-century-novels",
+            "title": "19th-century novel set texts",
+            "description": "One of: Charles Dickens — A Christmas Carol or Great Expectations; Charlotte Brontë — Jane Eyre; Mary Shelley — Frankenstein; Robert Louis Stevenson — The Strange Case of Dr Jekyll and Mr Hyde; Arthur Conan Doyle — The Sign of the Four; Jane Austen — Pride and Prejudice.",
+            "keyTerms": ["Victorian", "Gothic", "social criticism", "narrative voice", "characterisation", "setting"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-modern-texts",
+        "title": "Modern texts",
+        "description": "Paper 2 Section A — students answer one essay question from a choice of two on their studied modern prose or drama text.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "paper2-modern-prose",
+            "title": "Modern prose set texts",
+            "description": "One of a range of modern prose texts including: J.B. Priestley — An Inspector Calls; Willy Russell — Blood Brothers or Our Day Out; Alan Bennett — The History Boys; Dennis Kelly — DNA; Simon Stephens — The Curious Incident of the Dog in the Night-Time; Shelagh Delaney — A Taste of Honey.",
+            "keyTerms": ["social context", "dramatic structure", "character motivation", "themes", "stagecraft"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-poetry-anthology",
+        "title": "Poetry anthology",
+        "description": "Paper 2 Section B — students answer one comparative question on one named poem printed on the paper and one other poem from their chosen anthology cluster.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "paper2-poetry-clusters",
+            "title": "Poetry anthology clusters",
+            "description": "Students study one cluster from the AQA anthology Poems Past and Present. Clusters: Love and Relationships; Power and Conflict.",
+            "keyTerms": ["comparison", "imagery", "structure", "tone", "theme", "poetic form", "anthology"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-unseen-poetry",
+        "title": "Unseen poetry",
+        "description": "Paper 2 Section C — students answer one question on one unseen poem and one question comparing this poem with a second unseen poem.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Specification at a glance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "paper2-unseen-poetry-analysis",
+            "title": "Unseen poem analysis and comparison",
+            "description": "Respond analytically to previously unseen poems. Question 1: analyse one unseen poem. Question 2: compare the unseen poem with a second unseen poem.",
+            "keyTerms": ["unseen", "analysis", "comparison", "language", "form", "structure", "effect"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "English Literature",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+      "pageRef": "Scheme of assessment — Section 4.3",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Shakespeare and the 19th-century novel",
+        "durationMinutes": 105,
+        "totalMarks": 64,
+        "percentage": 40,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Scheme of assessment — Section 4.3",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: Shakespeare",
+            "marks": 34,
+            "questionTypes": ["extended essay (one question from a choice of two)"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: The 19th-century novel",
+            "marks": 30,
+            "questionTypes": ["extended essay (one question from a choice of two)"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Modern texts and poetry",
+        "durationMinutes": 135,
+        "totalMarks": 96,
+        "percentage": 60,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Scheme of assessment — Section 4.3",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Section A: Modern texts",
+            "marks": 34,
+            "questionTypes": ["extended essay (one question from a choice of two)"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Section B: Poetry anthology",
+            "marks": 34,
+            "questionTypes": ["comparative essay (one named poem plus one other from cluster)"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2C",
+            "title": "Section C: Unseen poetry",
+            "marks": 28,
+            "questionTypes": ["analysis of unseen poem", "comparison of two unseen poems"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+              "pageRef": "Specification at a glance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-28",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "English Literature",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+      "pageRef": "Section 4.2",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Read, understand and respond to texts. Students should be able to: maintain a critical style and develop an informed personal response; use textual references, including quotations, to support and illustrate interpretations.",
+        "weightingMin": 37,
+        "weightingMax": 38,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Analyse the language, form and structure used by a writer to create meanings and effects, using relevant subject terminology where appropriate.",
+        "weightingMin": 42,
+        "weightingMax": 43,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Show understanding of the relationships between texts and the contexts in which they were written.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "AO4",
+        "description": "Use a range of vocabulary and sentence structures for clarity, purpose and effect, with accurate spelling and punctuation.",
+        "weightingMin": 5,
+        "weightingMax": 5,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE English Literature (8702) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "English Literature",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8702 English Literature row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 137,
+          "maxMark": 160,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 121,
+          "maxMark": 136,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 106,
+          "maxMark": 120,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 90,
+          "maxMark": 105,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 74,
+          "maxMark": 89,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 58,
+          "maxMark": 73,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 42,
+          "maxMark": 57,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 27,
+          "maxMark": 41,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 12,
+          "maxMark": 26,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8702 English Literature row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

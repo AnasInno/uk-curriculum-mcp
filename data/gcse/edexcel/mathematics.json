@@ -1,0 +1,514 @@
+{
+  "board": "Edexcel",
+  "subject": "Mathematics",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/mathematics-2015.html",
+    "pageRef": "Specification at a glance",
+    "confidence": "high",
+    "verifiedDate": "2026-03-28",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "Edexcel",
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "code": "1MA1",
+    "title": "Pearson Edexcel Level 1/Level 2 GCSE (9–1) in Mathematics",
+    "firstExamYear": 2017,
+    "topics": [
+      {
+        "id": "topic-1",
+        "title": "Number",
+        "description": "Structure and calculation; fractions, decimals and percentages; measures and accuracy",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Subject content overview",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-2",
+        "title": "Algebra",
+        "description": "Notation, vocabulary and manipulation; graphs; solving equations and inequalities; sequences",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Subject content overview",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-3",
+        "title": "Ratio, proportion and rates of change",
+        "description": "Direct and inverse proportion; percentages and compound measures; scale factors, units, and proportional reasoning",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Subject content overview",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-4",
+        "title": "Geometry and measures",
+        "description": "Properties and constructions; mensuration and calculation; vectors",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Subject content overview",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-5",
+        "title": "Probability",
+        "description": "Recording, describing and analysing probability",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Subject content overview",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-6",
+        "title": "Statistics",
+        "description": "Collecting, representing and interpreting data",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Subject content overview",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "paperStructure": {
+    "board": "Edexcel",
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "papers": [
+      {
+        "id": "1MA1/1F",
+        "title": "Paper 1: Non-Calculator (Foundation)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.33,
+        "calculator": false,
+        "sections": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1MA1/1H",
+        "title": "Paper 1: Non-Calculator (Higher)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.33,
+        "calculator": false,
+        "sections": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1MA1/2F",
+        "title": "Paper 2: Calculator (Foundation)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.33,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1MA1/2H",
+        "title": "Paper 2: Calculator (Higher)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.33,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1MA1/3F",
+        "title": "Paper 3: Calculator (Foundation)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.33,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1MA1/3H",
+        "title": "Paper 3: Calculator (Higher)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 33.33,
+        "calculator": true,
+        "sections": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "assessmentObjectives": {
+    "board": "Edexcel",
+    "subject": "Mathematics",
+    "level": "GCSE",
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "Use and apply standard techniques",
+        "description": "Using and applying standard techniques. Students should be able to: accurately recall facts, terminology and definitions; use and interpret notation correctly; accurately carry out routine procedures or set tasks requiring multi-step solutions.",
+        "weightingMin": 40,
+        "weightingMax": 50,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/teaching-and-learning-materials/Pearson-Edexcel-GCSE-Maths-Quals-iPDF.pdf",
+          "pageRef": "Assessment objectives",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "Reason, interpret and communicate mathematically",
+        "description": "Reasoning, interpreting and communicating mathematically. Students should be able to: make deductions, inferences and draw conclusions from mathematical information; construct chains of reasoning to achieve a given result; interpret and communicate information accurately; present arguments and proofs; assess the validity of an argument and critically evaluate a given way of presenting information.",
+        "weightingMin": 25,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/teaching-and-learning-materials/Pearson-Edexcel-GCSE-Maths-Quals-iPDF.pdf",
+          "pageRef": "Assessment objectives",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "Solve problems within mathematics and in other contexts",
+        "description": "Solving problems in mathematics and in other contexts. Students should be able to: translate problems in mathematical or non-mathematical contexts into a process or a series of mathematical processes; make and use connections between different parts of mathematics; interpret results in the context of the given problem; evaluate methods used and results obtained; evaluate solutions to identify how they may have been affected by assumptions made.",
+        "weightingMin": 25,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/teaching-and-learning-materials/Pearson-Edexcel-GCSE-Maths-Quals-iPDF.pdf",
+          "pageRef": "Assessment objectives",
+          "confidence": "high",
+          "verifiedDate": "2026-03-28",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/teaching-and-learning-materials/Pearson-Edexcel-GCSE-Maths-Quals-iPDF.pdf",
+      "pageRef": "Assessment objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-28",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "gradeBoundaries": [
+    {
+      "board": "Edexcel",
+      "subject": "Mathematics",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "foundation",
+      "boundaries": [
+        {
+          "grade": "5",
+          "minMark": 175,
+          "maxMark": 240,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Foundation)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 142,
+          "maxMark": 174,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Foundation)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 103,
+          "maxMark": 141,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Foundation)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 65,
+          "maxMark": 102,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Foundation)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 27,
+          "maxMark": 64,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Foundation)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 26,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Foundation)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ],
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+        "pageRef": "1MA1 Mathematics",
+        "confidence": "high",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "board": "Edexcel",
+      "subject": "Mathematics",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "higher",
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 197,
+          "maxMark": 240,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 167,
+          "maxMark": 196,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 137,
+          "maxMark": 166,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 105,
+          "maxMark": 136,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 73,
+          "maxMark": 104,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 42,
+          "maxMark": 72,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 26,
+          "maxMark": 41,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 25,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1MA1 Mathematics (Higher)",
+            "confidence": "high",
+            "verifiedDate": "2026-03-28",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ],
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+        "pageRef": "1MA1 Mathematics",
+        "confidence": "high",
+        "verifiedDate": "2026-03-28",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      }
+    }
+  ]
+}
