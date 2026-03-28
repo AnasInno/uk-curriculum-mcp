@@ -1,32 +1,50 @@
 {
   "name": "uk-curriculum-mcp",
   "version": "1.0.0",
-  "description": "MCP server for UK curriculum data (GCSE, A-Level) — specifications, papers, objectives, and grade boundaries",
+  "description": "MCP server providing UK curriculum data — GCSE/A-Level specifications, paper structures, assessment objectives, and grade boundaries for AQA, Edexcel, OCR",
   "type": "module",
   "main": "dist/src/index.js",
   "bin": {
     "uk-curriculum-mcp": "dist/src/index.js"
   },
+  "files": [
+    "dist/",
+    "data/",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
     "validate": "npx tsx scripts/validate-data.ts",
     "start": "node dist/src/index.js",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run"
+    "test": "vitest run",
+    "prepublishOnly": "npm run build && npm run test"
   },
   "keywords": [
     "mcp",
+    "model-context-protocol",
     "uk-curriculum",
     "gcse",
     "a-level",
     "education",
     "aqa",
     "edexcel",
-    "ocr"
+    "ocr",
+    "exam",
+    "specification",
+    "grade-boundaries",
+    "teaching",
+    "ai-tools"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Anas Abdi <anas@shortlistops.co.uk>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnasInno/uk-curriculum-mcp"
+  },
+  "homepage": "https://github.com/AnasInno/uk-curriculum-mcp#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.28.0",
     "@types/node": "^25.5.0",
