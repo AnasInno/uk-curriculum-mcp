@@ -1,0 +1,456 @@
+{
+  "board": "Edexcel",
+  "subject": "English Language",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+    "pageRef": "Specification at a glance",
+    "confidence": "high",
+    "verifiedDate": "2026-03-29",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "Edexcel",
+    "subject": "English Language",
+    "level": "GCSE",
+    "code": "1EN0",
+    "title": "Pearson Edexcel Level 1/Level 2 GCSE (9–1) in English Language",
+    "firstExamYear": 2017,
+    "topics": [
+      {
+        "id": "topic-1",
+        "title": "Fiction and Imaginative Writing",
+        "description": "Reading and analysis of unseen 19th-century fiction extracts; imaginative writing based on thematic prompts",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Subject content: Component 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-2",
+        "title": "Non-Fiction and Transactional Writing",
+        "description": "Reading and analysis of two thematically linked unseen 20th/21st-century non-fiction extracts; transactional writing (articles, letters, reviews, speeches, guides)",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Subject content: Component 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "topic-3",
+        "title": "Spoken Language",
+        "description": "Internally assessed spoken language endorsement: prepared presentation, listening and responding to questions/feedback, use of spoken Standard English. Reported as Pass, Merit or Distinction (not counted in GCSE grade)",
+        "subtopics": [],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Non-exam assessment: Component 3",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "paperStructure": {
+    "board": "Edexcel",
+    "subject": "English Language",
+    "level": "GCSE",
+    "papers": [
+      {
+        "id": "1EN0/01",
+        "title": "Paper 1: Fiction and Imaginative Writing",
+        "durationMinutes": 105,
+        "totalMarks": 64,
+        "percentage": 40,
+        "calculator": false,
+        "sections": [
+          {
+            "id": "1EN0/01-A",
+            "title": "Section A: Reading",
+            "marks": 24,
+            "questionTypes": [
+              "comprehension",
+              "language analysis",
+              "structure analysis",
+              "evaluation"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English-Language/2015/Exam-materials/1en0-01-rms-20240822.pdf",
+              "pageRef": "Mark scheme Section A",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1EN0/01-B",
+            "title": "Section B: Writing",
+            "marks": 40,
+            "questionTypes": [
+              "imaginative writing",
+              "descriptive writing"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English-Language/2015/Exam-materials/1en0-01-rms-20240822.pdf",
+              "pageRef": "Mark scheme Section B",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1EN0/02",
+        "title": "Paper 2: Non-Fiction and Transactional Writing",
+        "durationMinutes": 125,
+        "totalMarks": 96,
+        "percentage": 60,
+        "calculator": false,
+        "sections": [
+          {
+            "id": "1EN0/02-A",
+            "title": "Section A: Reading",
+            "marks": 56,
+            "questionTypes": [
+              "comprehension",
+              "language analysis",
+              "comparison",
+              "evaluation"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English-Language/2015/Exam-materials/1en0-02-que-20240607.pdf",
+              "pageRef": "Section A questions",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1EN0/02-B",
+            "title": "Section B: Writing",
+            "marks": 40,
+            "questionTypes": [
+              "article",
+              "letter",
+              "review",
+              "speech",
+              "guide",
+              "transactional writing"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English-Language/2015/Exam-materials/1en0-02-que-20240607.pdf",
+              "pageRef": "Section B questions",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "assessmentObjectives": {
+    "board": "Edexcel",
+    "subject": "English Language",
+    "level": "GCSE",
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "Identify and interpret information and ideas",
+        "description": "Identify and interpret explicit and implicit information and ideas. Select and synthesise evidence from different texts.",
+        "weightingMin": 9,
+        "weightingMax": 10,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Assessment objectives and weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "Explain, comment on and analyse language and structure",
+        "description": "Explain, comment on and analyse how writers use language and structure to achieve effects and influence readers, using relevant subject terminology to support their views.",
+        "weightingMin": 13,
+        "weightingMax": 14,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Assessment objectives and weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "Compare writers' ideas and perspectives",
+        "description": "Compare writers' ideas and perspectives, as well as how these are conveyed, across two or more texts.",
+        "weightingMin": 8,
+        "weightingMax": 9,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Assessment objectives and weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "Evaluate texts critically",
+        "description": "Evaluate texts critically and support this with appropriate textual references.",
+        "weightingMin": 18,
+        "weightingMax": 19,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Assessment objectives and weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO5",
+        "title": "Communicate clearly, effectively and imaginatively",
+        "description": "Communicate clearly, effectively and imaginatively, selecting and adapting tone, style and register for different forms, purposes and audiences. Organise information and ideas, using structural and grammatical features to support coherence and cohesion of texts.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Assessment objectives and weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO6",
+        "title": "Use a range of vocabulary and sentence structures",
+        "description": "Use a range of vocabulary and sentence structures for clarity, purpose and effect, with accurate spelling and punctuation.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+          "pageRef": "Assessment objectives and weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+      "pageRef": "Assessment objectives and weightings",
+      "confidence": "high",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "gradeBoundaries": [
+    {
+      "board": "Edexcel",
+      "subject": "English Language",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 132,
+          "maxMark": 160,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 123,
+          "maxMark": 131,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 114,
+          "maxMark": 122,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 104,
+          "maxMark": 113,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 94,
+          "maxMark": 103,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 84,
+          "maxMark": 93,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 64,
+          "maxMark": 83,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 45,
+          "maxMark": 63,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 26,
+          "maxMark": 44,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 25,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1EN0 English Language",
+            "confidence": "high",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ],
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+        "pageRef": "1EN0 English Language",
+        "confidence": "high",
+        "verifiedDate": "2026-03-29",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      }
+    }
+  ]
+}

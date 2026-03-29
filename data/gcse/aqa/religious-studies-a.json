@@ -1,0 +1,585 @@
+{
+  "board": "AQA",
+  "subject": "Religious Studies A",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+    "pageRef": "Sections 4.1–4.5",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-29",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Religious Studies A",
+    "level": "GCSE",
+    "code": "8062",
+    "title": "AQA GCSE Religious Studies A",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+      "pageRef": "Scheme of assessment",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "component1-study-of-religions",
+        "title": "Component 1: The study of religions: beliefs, teachings and practices",
+        "description": "Students study the beliefs, teachings and practices of two religions from: Buddhism, Christianity, Catholic Christianity, Hinduism, Islam, Judaism, Sikhism. Christianity and Catholic Christianity is a prohibited combination.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+          "pageRef": "Specification at a glance — Component 1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "c1-buddhism",
+            "title": "Buddhism",
+            "description": "Beliefs, teachings and practices of Buddhism including core beliefs, key teachings and religious practices.",
+            "keyTerms": ["Buddha", "Dharma", "Sangha", "Four Noble Truths", "Eightfold Path", "Nirvana", "karma", "samsara", "meditation", "impermanence"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Buddhism",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c1-christianity",
+            "title": "Christianity",
+            "description": "Beliefs, teachings and practices of Christianity including the nature of God, Jesus Christ, salvation and key Christian practices.",
+            "keyTerms": ["Trinity", "incarnation", "salvation", "resurrection", "Bible", "prayer", "worship", "sacraments", "Church", "afterlife"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Christianity",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c1-catholic-christianity",
+            "title": "Catholic Christianity",
+            "description": "Beliefs, teachings and practices of Catholic Christianity including the role of the Pope, sacraments, and Catholic social teaching.",
+            "keyTerms": ["Pope", "sacraments", "Mass", "purgatory", "Mary", "Magisterium", "Tradition", "social teaching", "confession", "confirmation"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Catholic Christianity",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c1-hinduism",
+            "title": "Hinduism",
+            "description": "Beliefs, teachings and practices of Hinduism including Brahman, dharma, karma, samsara and Hindu worship.",
+            "keyTerms": ["Brahman", "dharma", "karma", "samsara", "moksha", "atman", "puja", "Trimurti", "Vedas", "mandir"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Hinduism",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c1-islam",
+            "title": "Islam",
+            "description": "Beliefs, teachings and practices of Islam including the Six Beliefs, Five Pillars and key Islamic practices.",
+            "keyTerms": ["Allah", "Qur'an", "Muhammad", "Five Pillars", "Shahadah", "Salah", "Zakah", "Sawm", "Hajj", "ummah", "Shia", "Sunni"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Islam",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c1-judaism",
+            "title": "Judaism",
+            "description": "Beliefs, teachings and practices of Judaism including the nature of God, the covenant, Torah and Jewish observance.",
+            "keyTerms": ["Torah", "covenant", "Shabbat", "synagogue", "mitzvot", "Talmud", "kosher", "Pesach", "Bar/Bat Mitzvah", "monotheism"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Judaism",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c1-sikhism",
+            "title": "Sikhism",
+            "description": "Beliefs, teachings and practices of Sikhism including the nature of God (Waheguru), the Gurus and Sikh practices.",
+            "keyTerms": ["Waheguru", "Guru Granth Sahib", "Five Ks", "Gurdwara", "langar", "Khalsa", "seva", "Amrit ceremony", "Guru Nanak", "Mool Mantar"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-1-the-study-of-religions-beliefs-teachings-and-practices",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 1 subject content — Sikhism",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "component2-thematic-studies",
+        "title": "Component 2: Thematic studies",
+        "description": "Students study either four religious, philosophical and ethical studies themes (Themes A–F) or two religious, philosophical and ethical studies themes and two textual studies themes (Themes G–H: St Mark's Gospel).",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+          "pageRef": "Specification at a glance — Component 2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "c2-theme-a",
+            "title": "Theme A: Relationships and families",
+            "description": "Religious teachings and ethical perspectives on relationships, marriage, divorce, families and gender equality.",
+            "keyTerms": ["marriage", "divorce", "cohabitation", "gender equality", "homosexuality", "contraception", "family", "sexual relationships"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme A",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-b",
+            "title": "Theme B: Religion and life",
+            "description": "Religious and ethical perspectives on the origins of the universe and life, environmental ethics, animal rights, abortion and euthanasia.",
+            "keyTerms": ["creation", "evolution", "stewardship", "sanctity of life", "abortion", "euthanasia", "animal rights", "environmental ethics"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme B",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-c",
+            "title": "Theme C: The existence of God and revelation",
+            "description": "Arguments for and against the existence of God, the nature of revelation and religious experience.",
+            "keyTerms": ["cosmological argument", "design argument", "problem of evil", "revelation", "religious experience", "atheism", "agnosticism", "miracle"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme C",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-d",
+            "title": "Theme D: Religion, peace and conflict",
+            "description": "Religious and ethical teachings on war, pacifism, just war, weapons of mass destruction, terrorism and peace-making.",
+            "keyTerms": ["just war", "pacifism", "holy war", "nuclear weapons", "terrorism", "reconciliation", "forgiveness", "peacemaking"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme D",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-e",
+            "title": "Theme E: Religion, crime and punishment",
+            "description": "Religious and ethical perspectives on the causes of crime, punishment, forgiveness, the death penalty and prison reform.",
+            "keyTerms": ["justice", "punishment", "rehabilitation", "retribution", "death penalty", "forgiveness", "crime", "prison"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme E",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-f",
+            "title": "Theme F: Religion, human rights and social justice",
+            "description": "Religious perspectives on human rights, social justice, racial equality, wealth and poverty, and charitable work.",
+            "keyTerms": ["human rights", "social justice", "racial equality", "poverty", "wealth", "charity", "prejudice", "discrimination"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme F",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-g",
+            "title": "Theme G: St Mark's Gospel – the life of Jesus",
+            "description": "Textual studies theme. Study of St Mark's Gospel focusing on the life, ministry and teachings of Jesus.",
+            "keyTerms": ["miracles", "discipleship", "Kingdom of God", "Son of Man", "Messianic Secret", "Passion narrative", "resurrection", "healing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme G",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "c2-theme-h",
+            "title": "Theme H: St Mark's Gospel as a source of religious, moral and spiritual truths",
+            "description": "Textual studies theme. Analysis of St Mark's Gospel as a source of religious, moral and spiritual guidance.",
+            "keyTerms": ["authority of scripture", "moral teaching", "spiritual truth", "interpretation", "discipleship", "Kingdom of God", "Jesus's teachings"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/subject-content/component-2-thematic-studies",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Component 2 — Theme H",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Religious Studies A",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+      "pageRef": "Sections 4.3–4.4",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "The study of religions: beliefs, teachings and practices",
+        "durationMinutes": 105,
+        "totalMarks": 96,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+          "pageRef": "Section 4.4.1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: Religion 1",
+            "marks": 48,
+            "questionTypes": ["five-part questions (1, 1, 4, 6, 12 marks)", "two compulsory questions on first studied religion"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Section 4.4.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: Religion 2",
+            "marks": 48,
+            "questionTypes": ["five-part questions (1, 1, 4, 6, 12 marks)", "two compulsory questions on second studied religion"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Section 4.4.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Thematic studies",
+        "durationMinutes": 105,
+        "totalMarks": 96,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+          "pageRef": "Section 4.4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Themes (four from A–F, or two from A–F plus Themes G and H)",
+            "marks": 96,
+            "questionTypes": ["five-part questions (1, 1, 4, 6, 12 marks)", "one compulsory question per theme", "four themes total"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+              "pageRef": "Section 4.4.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Religious Studies A",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+      "pageRef": "Section 4.2",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of religion and beliefs including: beliefs, practices and sources of authority; influence on individuals, communities and societies; similarities and differences within and/or between religions and beliefs.",
+        "weightingMin": 50,
+        "weightingMax": 50,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+          "pageRef": "Section 4.2 — Assessment objective weightings table",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Analyse and evaluate aspects of religion and belief, including their significance and influence.",
+        "weightingMin": 50,
+        "weightingMax": 50,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-8062/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Religious Studies A (8062) Specification",
+          "pageRef": "Section 4.2 — Assessment objective weightings table",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Religious Studies A",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 (via Farlingaye High School)",
+        "pageRef": "8062 Religious Studies row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-29",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 177,
+          "maxMark": 204,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 165,
+          "maxMark": 176,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 154,
+          "maxMark": 164,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 138,
+          "maxMark": 153,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 122,
+          "maxMark": 137,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 107,
+          "maxMark": 121,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 78,
+          "maxMark": 106,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 49,
+          "maxMark": 77,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 21,
+          "maxMark": 48,
+          "_meta": {
+            "source": "https://www.farlingaye.suffolk.sch.uk/Post-Results-Services/Subject_Grade_Boundaries_2024.pdf",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024",
+            "pageRef": "8062 Religious Studies row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

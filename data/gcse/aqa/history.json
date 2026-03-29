@@ -1,0 +1,731 @@
+{
+  "board": "AQA",
+  "subject": "History",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE History (8145) Specification",
+    "pageRef": "Sections 4.1–4.4",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-29",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "History",
+    "level": "GCSE",
+    "code": "8145",
+    "title": "AQA GCSE History",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE History (8145) Specification",
+      "pageRef": "Section 4.1",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "paper1-period-study",
+        "title": "Period study (Paper 1 Section A)",
+        "description": "A medium-timescale study focusing on two key developments in a country's history over at least a 50-year period. Students choose one option from four available period studies.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Specification at a glance — Section 2.1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "period-study-aa",
+            "title": "AA — America, 1840–1895: Expansion and consolidation",
+            "description": "Study of American westward expansion, conflict with Native Americans, and consolidation of the United States.",
+            "keyTerms": ["manifest destiny", "Native Americans", "Civil War", "Reconstruction", "frontier"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "period-study-ab",
+            "title": "AB — Germany, 1890–1945: Democracy and dictatorship",
+            "description": "Study of Germany from the Wilhelmine era through Weimar Republic to Nazi dictatorship and World War Two.",
+            "keyTerms": ["Weimar Republic", "Nazi Party", "Hitler", "Holocaust", "propaganda", "totalitarianism"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "period-study-ac",
+            "title": "AC — Russia, 1894–1945: Tsardom and communism",
+            "description": "Study of the decline of Tsarism, the Russian Revolution, and the establishment of the Soviet state under Lenin and Stalin.",
+            "keyTerms": ["Tsar Nicholas II", "Russian Revolution", "Bolsheviks", "Lenin", "Stalin", "communism"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "period-study-ad",
+            "title": "AD — America, 1920–1973: Opportunity and inequality",
+            "description": "Study of American society from the Roaring Twenties through the Great Depression, post-war prosperity, and the Civil Rights movement.",
+            "keyTerms": ["Prohibition", "Great Depression", "New Deal", "Civil Rights", "Vietnam War", "inequality"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper1-wider-world-depth-study",
+        "title": "Wider world depth study (Paper 1 Section B)",
+        "description": "A short-timescale study focusing on international conflict and tension. Students choose one option from five available wider world depth studies.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Specification at a glance — Section 2.1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "wwds-ba",
+            "title": "BA — Conflict and tension: The First World War, 1894–1918",
+            "description": "Study of the causes, nature, and consequences of World War One.",
+            "keyTerms": ["alliance systems", "trench warfare", "Western Front", "armistice", "Treaty of Versailles"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "wwds-bb",
+            "title": "BB — Conflict and tension: The inter-war years, 1918–1939",
+            "description": "Study of the failure of peace and the origins of World War Two.",
+            "keyTerms": ["League of Nations", "appeasement", "Hitler", "Sudetenland", "Munich Agreement"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "wwds-bc",
+            "title": "BC — Conflict and tension between East and West, 1945–1972",
+            "description": "Study of the Cold War from the post-war settlement through crises to détente.",
+            "keyTerms": ["Cold War", "NATO", "Berlin", "Cuba", "nuclear deterrence", "détente"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "wwds-bd",
+            "title": "BD — Conflict and tension in Asia, 1950–1975",
+            "description": "Study of the Korean War and the Vietnam War.",
+            "keyTerms": ["Korean War", "Vietnam War", "communism", "containment", "guerrilla warfare"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "wwds-be",
+            "title": "BE — Conflict and tension in the Gulf and Afghanistan, 1990–2009",
+            "description": "Study of the Gulf War and the conflicts in Afghanistan.",
+            "keyTerms": ["Gulf War", "Afghanistan", "Taliban", "9/11", "Operation Desert Storm", "coalition"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-thematic-study",
+        "title": "Thematic study (Paper 2 Section A)",
+        "description": "A long-timescale study looking at key developments in Britain over a broad period (c.790 to present day). Students choose one option from three available thematic studies.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Specification at a glance — Section 2.1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "thematic-aa",
+            "title": "AA — Britain: Health and the people: c1000 to the present day",
+            "description": "Thematic study of medicine, public health, and healthcare in Britain over approximately 1000 years.",
+            "keyTerms": ["medieval medicine", "germ theory", "NHS", "surgery", "public health", "Pasteur", "Fleming"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "thematic-ab",
+            "title": "AB — Britain: Power and the people: c1170 to the present day",
+            "description": "Thematic study of the relationship between rulers and the people, and the development of democracy and rights in Britain.",
+            "keyTerms": ["Magna Carta", "Parliament", "democracy", "reform", "suffrage", "civil rights"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "thematic-ac",
+            "title": "AC — Britain: Migration, empires and the people: c790 to the present day",
+            "description": "Thematic study of migration to and from Britain, and the development and impact of the British Empire.",
+            "keyTerms": ["Vikings", "Norman Conquest", "Empire", "Windrush", "immigration", "colonialism"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-british-depth-study",
+        "title": "British depth study including the historic environment (Paper 2 Section B)",
+        "description": "A short-timescale depth study of a specific period in British history, incorporating the study of a specified historic environment site. Students choose one option from four available British depth studies.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Specification at a glance — Section 2.1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "bds-ba",
+            "title": "BA — Norman England, c1066–c1100",
+            "description": "Depth study of the Norman Conquest and its impact on English society, including the study of a relevant historic environment.",
+            "keyTerms": ["Battle of Hastings", "William I", "Domesday Book", "feudalism", "Norman castles", "historic environment"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "bds-bb",
+            "title": "BB — Medieval England: the reign of Edward I, 1272–1307",
+            "description": "Depth study of England under Edward I, including government, warfare, and society.",
+            "keyTerms": ["Edward I", "Parliament", "Welsh conquest", "Scotland", "common law", "historic environment"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "bds-bc",
+            "title": "BC — Elizabethan England, c1568–1603",
+            "description": "Depth study of Elizabethan England including court, religion, society, and exploration.",
+            "keyTerms": ["Elizabeth I", "Spanish Armada", "Reformation", "exploration", "poor law", "historic environment"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "bds-bd",
+            "title": "BD — Restoration England, 1660–1685",
+            "description": "Depth study of the Restoration period including monarchy, politics, religion, and society.",
+            "keyTerms": ["Charles II", "Restoration", "Exclusion Crisis", "Plague", "Great Fire of London", "historic environment"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Specification at a glance — Section 2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "History",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE History (8145) Specification",
+      "pageRef": "Section 4.4 — Assessment structure",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: Understanding the modern world",
+        "durationMinutes": 120,
+        "totalMarks": 84,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Section 2.2 — Assessments",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: Period studies",
+            "marks": 40,
+            "questionTypes": [
+              "interpretation difference (4 marks)",
+              "why interpretations differ (4 marks)",
+              "how convincing are interpretations (8 marks)",
+              "describe key features (4 marks)",
+              "explain how affected by development (8 marks)",
+              "essay with judgement (12 marks)"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Section 4.4.1 — Paper 1 Section A",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: Wider world depth studies",
+            "marks": 40,
+            "questionTypes": [
+              "source analysis (4 marks)",
+              "how useful are sources (12 marks)",
+              "write an account — narrative (8 marks)",
+              "essay — how far do you agree (16 marks, including 4 SPaG)"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Section 4.4.1 — Paper 1 Section B",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1-SPaG",
+            "title": "Spelling, punctuation and grammar (SPaG)",
+            "marks": 4,
+            "questionTypes": ["SPaG assessed on Paper 1 Section B Q4 essay"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Section 4.4.3 — SPaG",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Paper 2: Shaping the nation",
+        "durationMinutes": 120,
+        "totalMarks": 84,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Section 2.2 — Assessments",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Section A: Thematic studies",
+            "marks": 40,
+            "questionTypes": [
+              "how useful is a source (8 marks)",
+              "explain the significance of (8 marks)",
+              "explain two similarities/differences (8 marks)",
+              "essay using factors (16 marks, including 4 SPaG)"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Section 4.4.2 — Paper 2 Section A",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Section B: British depth studies including the historic environment",
+            "marks": 40,
+            "questionTypes": [
+              "how far do you agree with interpretation (8 marks)",
+              "explain development/causation (8 marks)",
+              "write an account — narrative (8 marks)",
+              "essay linked to specified historic environment site (16 marks)"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Section 4.4.2 — Paper 2 Section B",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2-SPaG",
+            "title": "Spelling, punctuation and grammar (SPaG)",
+            "marks": 4,
+            "questionTypes": ["SPaG assessed on Paper 2 Section A Q4 essay"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE History (8145) Specification",
+              "pageRef": "Section 4.4.3 — SPaG",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "History",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE History (8145) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of the key features and characteristics of the period studied.",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Explain and analyse historical events and periods studied using second-order historical concepts (continuity, change, cause, consequence, significance, similarity and difference).",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse, evaluate and use sources (contemporary to the period) to make substantiated judgements, in the context of historical events studied.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "AO4",
+        "description": "Analyse, evaluate and make substantiated judgements about interpretations (including how and why interpretations may differ) in the context of historical events studied.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE History (8145) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "History",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8145AA HISTORY AA row (representative option; total scaled mark 168)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-29",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 111,
+          "maxMark": 168,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 101,
+          "maxMark": 110,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 91,
+          "maxMark": 100,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 79,
+          "maxMark": 90,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 68,
+          "maxMark": 78,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 57,
+          "maxMark": 67,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 40,
+          "maxMark": 56,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 24,
+          "maxMark": 39,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 8,
+          "maxMark": 23,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8145AA HISTORY AA row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

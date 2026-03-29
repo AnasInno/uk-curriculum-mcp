@@ -1,0 +1,931 @@
+{
+  "board": "AQA",
+  "subject": "Physics",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Physics (8463) Specification",
+    "pageRef": "Sections 2.0–5.3",
+    "confidence": "high",
+    "verifiedDate": "2026-03-29",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Physics",
+    "level": "GCSE",
+    "code": "8463",
+    "title": "AQA GCSE Physics",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Physics (8463) Specification",
+      "pageRef": "Section 2.0 Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "topic-1",
+        "title": "Energy",
+        "description": "Paper 1 topic. Covers energy stores and systems, changes in energy, energy resources, and efficiency.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-1-1",
+            "title": "Energy changes in a system, and the ways energy is stored before and after such changes",
+            "description": "Energy stores: kinetic, gravitational potential, elastic potential, thermal, chemical, magnetic, electrostatic, nuclear. Energy transfers and pathways.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-1-2",
+            "title": "Conservation and dissipation of energy",
+            "description": "Conservation of energy principle, efficiency, ways of reducing unwanted energy transfers.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-1-3",
+            "title": "National and global energy resources",
+            "description": "Renewable and non-renewable energy resources, their uses, environmental impact, and reliability.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-2",
+        "title": "Electricity",
+        "description": "Paper 1 topic. Covers circuit components, current, potential difference, resistance, series and parallel circuits, and domestic electricity.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-2-1",
+            "title": "Current, potential difference and resistance",
+            "description": "Charge flow, current, potential difference, resistance, Ohm's law, I-V characteristics, resistors, diodes, LDRs, thermistors.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-2-2",
+            "title": "Series and parallel circuits",
+            "description": "Circuit rules for current, potential difference, resistance in series and parallel circuits.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-2-3",
+            "title": "Domestic uses and safety",
+            "description": "Mains electricity, AC/DC, plugs, fuses, earthing, safety features.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-2-4",
+            "title": "Energy transfers",
+            "description": "Power, energy transferred by electrical appliances, the National Grid, transformers.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3",
+        "title": "Particle model of matter",
+        "description": "Paper 1 topic. Covers the particle model, states of matter, changes of state, internal energy, and gas pressure.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 3",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-1",
+            "title": "Changes of state and the particle model",
+            "description": "Density, states of matter, particle arrangements, changes of state, internal energy, specific heat capacity, specific latent heat.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 3",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2",
+            "title": "Pressure in gases",
+            "description": "Gas pressure, temperature and pressure relationship, pressure-volume relationship (Boyle's Law), atmospheric pressure.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 3",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-4",
+        "title": "Atomic structure",
+        "description": "Paper 1 topic. Covers the structure of the atom, radioactive decay, nuclear radiation, half-life, and nuclear fission and fusion.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 4",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-4-1",
+            "title": "Atoms and isotopes",
+            "description": "Atomic structure, development of atomic models, protons, neutrons, electrons, isotopes.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 4",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-4-2",
+            "title": "Radioactive decay and nuclear radiation",
+            "description": "Alpha, beta and gamma radiation, nuclear equations, background radiation, uses and hazards of radiation.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 4",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-4-3",
+            "title": "Hazards and uses of radioactive emissions and nuclear radiation",
+            "description": "Half-life, contamination vs irradiation, uses of nuclear radiation in medicine and industry.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 4",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-4-4",
+            "title": "Nuclear fission and fusion",
+            "description": "Nuclear fission, chain reactions, nuclear reactors, nuclear fusion, stars.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 4",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-5",
+        "title": "Forces",
+        "description": "Paper 2 topic. Covers forces and their effects, Newton's laws, momentum, pressure, and speed.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 5",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-5-1",
+            "title": "Forces and their interactions",
+            "description": "Scalar and vector quantities, contact and non-contact forces, gravity, resultant forces, free body diagrams.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-2",
+            "title": "Work done and energy transfer",
+            "description": "Work done, energy transfer, power, efficiency in mechanical systems.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-3",
+            "title": "Forces and elasticity",
+            "description": "Elastic and inelastic deformation, spring constant, Hooke's Law, elastic potential energy.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-4",
+            "title": "Moments, levers and gears",
+            "description": "Moments, levers, gears, centre of mass.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-5",
+            "title": "Pressure and pressure differences in fluids",
+            "description": "Pressure in fluids, upthrust, atmospheric pressure, pressure differences.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-6",
+            "title": "Forces and motion",
+            "description": "Speed, velocity, acceleration, distance-time and velocity-time graphs, Newton's laws of motion, stopping distances, terminal velocity.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-7",
+            "title": "Momentum",
+            "description": "Momentum, conservation of momentum, changes in momentum, Newton's second law in terms of momentum.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 5",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-6",
+        "title": "Waves",
+        "description": "Paper 2 topic. Covers the properties of waves, the electromagnetic spectrum, reflection, refraction, and sound.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 6",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-6-1",
+            "title": "Waves in air, fluids and solids",
+            "description": "Transverse and longitudinal waves, amplitude, wavelength, frequency, period, wave speed equation, sound waves.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 6",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-6-2",
+            "title": "Electromagnetic waves",
+            "description": "The electromagnetic spectrum, properties and uses of EM waves, refraction, total internal reflection, uses and hazards.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 6",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-6-3",
+            "title": "Black body radiation",
+            "description": "Emission and absorption of radiation, the greenhouse effect, global warming.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 6",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-7",
+        "title": "Magnetism and electromagnetism",
+        "description": "Paper 2 topic. Covers magnetic fields, the motor effect, induced potential, transformers, and the generator effect.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 7",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-7-1",
+            "title": "Permanent and induced magnetism, magnetic forces and fields",
+            "description": "Magnetic fields, poles, attraction and repulsion, induced magnetism, compasses, field patterns.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 7",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-7-2",
+            "title": "The motor effect",
+            "description": "The motor effect, Fleming's left-hand rule, force on a current-carrying conductor, electric motors.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 7",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-7-3",
+            "title": "Induced potential, transformers and the National Grid",
+            "description": "Electromagnetic induction, generators, the National Grid, transformers, alternating current.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 7",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-8",
+        "title": "Space physics (physics only)",
+        "description": "Paper 2 topic. Covers the Solar System, stars, the life cycle of stars, the Universe, and red-shift.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.1 Subject content / Topic 8",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-8-1",
+            "title": "Solar system, stability of orbital motions, satellites",
+            "description": "The Solar System, orbits, gravitational field strength, satellites and their uses.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 8",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-8-2",
+            "title": "Red-shift",
+            "description": "The expanding Universe, red-shift, the Big Bang theory, cosmic microwave background radiation.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.1 Topic 8",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Physics",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Physics (8463) Specification",
+      "pageRef": "Section 2.2 Assessments",
+      "confidence": "high",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Physics Paper 1",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": true,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.2 Assessments — Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1-topics",
+            "title": "Topics 1–4",
+            "description": "Energy; Electricity; Particle model of matter; Atomic structure.",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.2 Assessments — Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 100
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Physics Paper 2",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": true,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 2.2 Assessments — Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2-topics",
+            "title": "Topics 5–8",
+            "description": "Forces; Waves; Magnetism and electromagnetism; Space physics. May also draw on understanding of energy changes from Topics 1 and 2.",
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physics (8463) Specification",
+              "pageRef": "Section 2.2 Assessments — Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 100
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Physics",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Physics (8463) Specification",
+      "pageRef": "Section 5.2 Assessment objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of: scientific ideas; scientific techniques and procedures.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 5.2.1 Assessment objective weightings for GCSE Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of: scientific ideas; scientific enquiry, techniques and procedures.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 5.2.1 Assessment objective weightings for GCSE Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse information and ideas to: interpret and evaluate; make judgments and draw conclusions; develop and improve experimental procedures.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physics (8463) Specification",
+          "pageRef": "Section 5.2.1 Assessment objective weightings for GCSE Physics",
+          "confidence": "high",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Physics",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "foundation",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+        "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Foundation)",
+        "pageRef": "Physics Tier F 2024 Jun row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-29",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "5",
+          "minMark": 136,
+          "maxMark": 200,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Foundation)",
+            "pageRef": "Physics Tier F 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 122,
+          "maxMark": 135,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Foundation)",
+            "pageRef": "Physics Tier F 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 89,
+          "maxMark": 121,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Foundation)",
+            "pageRef": "Physics Tier F 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 56,
+          "maxMark": 88,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Foundation)",
+            "pageRef": "Physics Tier F 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 24,
+          "maxMark": 55,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Foundation)",
+            "pageRef": "Physics Tier F 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "AQA",
+      "subject": "Physics",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "higher",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+        "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+        "pageRef": "Physics Tier H 2024 Jun row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-29",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 151,
+          "maxMark": 200,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 136,
+          "maxMark": 150,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 122,
+          "maxMark": 135,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 103,
+          "maxMark": 121,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 85,
+          "maxMark": 102,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 67,
+          "maxMark": 84,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 58,
+          "maxMark": 66,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physics/",
+            "sourceDocument": "AQA GCSE Physics Grade Boundaries — June 2024 (Higher)",
+            "pageRef": "Physics Tier H 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

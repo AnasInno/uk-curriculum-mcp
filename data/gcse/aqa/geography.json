@@ -1,0 +1,653 @@
+{
+  "board": "AQA",
+  "subject": "Geography",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Geography (8035) Specification",
+    "pageRef": "Sections 4.1–4.4",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-29",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Geography",
+    "level": "GCSE",
+    "code": "8035",
+    "title": "AQA GCSE Geography",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Geography (8035) Specification",
+      "pageRef": "Scheme of assessment",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "paper1-physical-environment",
+        "title": "Living with the Physical Environment",
+        "description": "Paper 1 content — physical geography covering natural hazards, the living world, and physical landscapes in the UK.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Specification at a glance — Paper 1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3-1-1-natural-hazards",
+            "title": "Section A: The challenge of natural hazards",
+            "description": "Tectonic hazards (earthquakes and volcanic eruptions), weather hazards (tropical storms), and climate change — causes, effects and responses.",
+            "keyTerms": ["tectonic hazards", "tropical storms", "climate change", "risk", "mitigation", "adaptation", "plate tectonics"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.1.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3-1-2-living-world",
+            "title": "Section B: The living world",
+            "description": "Ecosystems at a local and global scale, tropical rainforests and either hot deserts or cold environments — characteristics, interdependence, opportunities and challenges.",
+            "keyTerms": ["ecosystems", "biodiversity", "tropical rainforest", "hot desert", "cold environments", "deforestation", "sustainability"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.1.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3-1-3-physical-landscapes-uk",
+            "title": "Section C: Physical landscapes in the UK",
+            "description": "UK physical landscapes overview plus two from: coastal landscapes, river landscapes, glacial landscapes — processes, landforms and management.",
+            "keyTerms": ["coastal erosion", "river processes", "glaciation", "landforms", "management", "flooding", "erosion", "deposition"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.1.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-human-environment",
+        "title": "Challenges in the Human Environment",
+        "description": "Paper 2 content — human geography covering urban issues, the changing economic world, and resource management.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Specification at a glance — Paper 2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3-2-1-urban-issues",
+            "title": "Section A: Urban issues and challenges",
+            "description": "Global urban growth, urbanisation in LICs/NEEs and HICs, sustainable urban development — case studies from a LIC/NEE and a UK city.",
+            "keyTerms": ["urbanisation", "megacities", "squatter settlements", "urban regeneration", "sustainable cities", "migration"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3-2-2-changing-economic-world",
+            "title": "Section B: The changing economic world",
+            "description": "Global variations in economic development and quality of life, strategies to reduce the development gap, economic change in the UK.",
+            "keyTerms": ["development", "HDI", "LIC", "NEE", "HIC", "globalisation", "trade", "aid", "economic change", "employment"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.2.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3-2-3-resource-management",
+            "title": "Section C: The challenge of resource management",
+            "description": "Global significance of food, water and energy resources, plus one in-depth study of food, water or energy resource management.",
+            "keyTerms": ["food security", "water stress", "energy mix", "sustainability", "resource management", "supply and demand"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.2.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper3-geographical-applications",
+        "title": "Geographical Applications",
+        "description": "Paper 3 content — issue evaluation using pre-release resources booklet, and fieldwork (two enquiries).",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Specification at a glance — Paper 3",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3-3-1-issue-evaluation",
+            "title": "Section A: Issue evaluation",
+            "description": "Students evaluate a geographical issue using a pre-release resources booklet made available 12 weeks before the exam. Questions require application of knowledge and skills.",
+            "keyTerms": ["issue evaluation", "pre-release", "decision making", "evidence", "analysis", "evaluation", "judgement"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.3.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3-3-2-fieldwork",
+            "title": "Section B: Fieldwork",
+            "description": "Students undertake two geographical enquiries (one physical, one human) and respond to questions about their own fieldwork and unfamiliar fieldwork data.",
+            "keyTerms": ["fieldwork", "enquiry", "data collection", "primary data", "secondary data", "risk assessment", "analysis", "conclusion"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.3.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "geographical-skills",
+        "title": "Geographical Skills",
+        "description": "Core skills assessed across all three papers including cartographic, graphical, numerical, and statistical skills. Also includes GIS and fieldwork skills.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Section 3.4",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3-4-skills",
+            "title": "Geographical skills",
+            "description": "Atlas and map skills, OS maps, GIS, photographs, statistical and graphical skills, fieldwork planning, data collection and presentation techniques.",
+            "keyTerms": ["OS maps", "GIS", "grid references", "cross-sections", "choropleth maps", "dispersion diagrams", "Spearman's rank", "fieldwork"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Section 3.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Geography",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Geography (8035) Specification",
+      "pageRef": "Scheme of assessment — Section 4.3",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Living with the Physical Environment",
+        "durationMinutes": 90,
+        "totalMarks": 88,
+        "percentage": 35,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Specification at a glance — Paper 1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: The challenge of natural hazards",
+            "marks": 33,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 1, Section A",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: The living world",
+            "marks": 25,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 1, Section B",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1C",
+            "title": "Section C: Physical landscapes in the UK",
+            "marks": 30,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 1, Section C",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Challenges in the Human Environment",
+        "durationMinutes": 90,
+        "totalMarks": 88,
+        "percentage": 35,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Specification at a glance — Paper 2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Section A: Urban issues and challenges",
+            "marks": 33,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 2, Section A",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Section B: The changing economic world",
+            "marks": 30,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 2, Section B",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2C",
+            "title": "Section C: The challenge of resource management",
+            "marks": 25,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 2, Section C",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Geographical Applications",
+        "durationMinutes": 75,
+        "totalMarks": 76,
+        "percentage": 30,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Specification at a glance — Paper 3",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "3A",
+            "title": "Section A: Issue evaluation",
+            "marks": 37,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 3, Section A",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3B",
+            "title": "Section B: Fieldwork",
+            "marks": 39,
+            "questionTypes": ["multiple-choice", "short answer", "levels of response", "extended prose"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Geography (8035) Specification",
+              "pageRef": "Specification at a glance — Paper 3, Section B",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-29",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Geography",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Geography (8035) Specification",
+      "pageRef": "Section 4.2",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-29",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge of locations, places, processes, environments and different scales.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Demonstrate geographical understanding of: concepts and how they are used in relation to places, environments and processes; the interrelationships between places, environments and processes.",
+        "weightingMin": 25,
+        "weightingMax": 25,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Apply knowledge and understanding to interpret, analyse and evaluate geographical information and issues to make judgements (includes 10% applied to fieldwork contexts).",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "AO4",
+        "description": "Select, adapt and use a variety of skills and techniques to investigate questions and issues and communicate findings (includes 5% used to respond to fieldwork data and contexts).",
+        "weightingMin": 25,
+        "weightingMax": 25,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Geography (8035) Specification",
+          "pageRef": "Section 4.2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-29",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Geography",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8035 Geography row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-29",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 202,
+          "maxMark": 252,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 182,
+          "maxMark": 201,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 162,
+          "maxMark": 181,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 142,
+          "maxMark": 161,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 123,
+          "maxMark": 141,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 104,
+          "maxMark": 122,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 76,
+          "maxMark": 103,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 48,
+          "maxMark": 75,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 20,
+          "maxMark": 47,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8035 Geography row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-29",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}
