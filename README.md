@@ -2,18 +2,23 @@
 
 An [MCP](https://modelcontextprotocol.io) server that gives AI assistants structured access to UK exam specifications — paper structures, assessment objectives, topic breakdowns, and grade boundaries.
 
-**7 GCSE specs and growing.** New specs added daily via automated extraction.
+**12 GCSE specs and growing.** New specs added daily via automated extraction.
 
 ## Available data
 
 | Board | Subject | Code |
 |-------|---------|------|
-| AQA | Mathematics | 8300 |
-| AQA | English Language | 8700 |
-| AQA | English Literature | 8702 |
 | AQA | Biology | 8461 |
 | AQA | Chemistry | 8462 |
 | AQA | Combined Science Trilogy | 8464 |
+| AQA | English Language | 8700 |
+| AQA | English Literature | 8702 |
+| AQA | Geography | 8035 |
+| AQA | History | 8145 |
+| AQA | Mathematics | 8300 |
+| AQA | Physics | 8463 |
+| AQA | Religious Studies A | 8062 |
+| Edexcel | English Language | 1EN0 |
 | Edexcel | Mathematics | 1MA1 |
 
 ## Quick start
