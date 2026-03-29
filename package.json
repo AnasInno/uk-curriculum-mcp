@@ -1,6 +1,6 @@
 {
   "name": "uk-curriculum-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server providing UK curriculum data — GCSE/A-Level specifications, paper structures, assessment objectives, and grade boundaries for AQA, Edexcel, OCR",
   "type": "module",
   "main": "dist/src/index.js",
