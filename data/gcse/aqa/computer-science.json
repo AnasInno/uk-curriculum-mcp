@@ -1,0 +1,1112 @@
+{
+  "board": "AQA",
+  "subject": "Computer Science",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification",
+    "sourceDocument": "AQA GCSE Computer Science (8525) Specification — first teaching September 2025, first exams Summer 2027",
+    "pageRef": "Specification overview",
+    "confidence": "high",
+    "verifiedDate": "2026-03-30",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "code": "8525",
+    "title": "AQA GCSE Computer Science",
+    "firstExamYear": 2027,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+      "pageRef": "Section 2.1 Subject content — Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "topic-3-1",
+        "title": "3.1 Fundamentals of algorithms",
+        "description": "Paper 1 topic. Covers representing algorithms, efficiency of algorithms, searching algorithms, and sorting algorithms.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-algorithms",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.1 Fundamentals of algorithms",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-1-1",
+            "title": "3.1.1 Representing algorithms",
+            "description": "Understand and explain algorithms, decomposition, and abstraction. Use pseudo-code, program code and flowcharts. Determine purpose of simple algorithms using trace tables.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-algorithms",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.1.1 Representing algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-1-2",
+            "title": "3.1.2 Efficiency of algorithms",
+            "description": "Understand that more than one algorithm can solve the same problem. Compare efficiency of algorithms (time efficiency only).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-algorithms",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.1.2 Efficiency of algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-1-3",
+            "title": "3.1.3 Searching algorithms",
+            "description": "Understand and explain linear search and binary search algorithms. Compare and contrast advantages and disadvantages of both.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-algorithms",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.1.3 Searching algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-1-4",
+            "title": "3.1.4 Sorting algorithms",
+            "description": "Understand and explain merge sort and bubble sort algorithms. Compare and contrast advantages and disadvantages of both.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-algorithms",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.1.4 Sorting algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-2",
+        "title": "3.2 Programming",
+        "description": "Paper 1 topic. Covers data types, programming concepts, arithmetic/relational/Boolean operations, data structures, I/O, string handling, random numbers, structured programming, and robust/secure programming.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.2 Programming",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-2-1",
+            "title": "3.2.1 Data types",
+            "description": "Understand and use integer, real, Boolean, character, and string data types appropriately.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.1 Data types",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-2",
+            "title": "3.2.2 Programming concepts",
+            "description": "Use variable/constant declaration, assignment, iteration, selection, and subroutines. Definite and indefinite iteration, nested selection and iteration. Use meaningful identifier names.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.2 Programming concepts",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-3",
+            "title": "3.2.3 Arithmetic operations in a programming language",
+            "description": "Use addition, subtraction, multiplication, real division, integer division (DIV) and remainder (MOD).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.3 Arithmetic operations in a programming language",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-4",
+            "title": "3.2.4 Relational operations in a programming language",
+            "description": "Use equal to, not equal to, less than, greater than, less than or equal to, and greater than or equal to operators.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.4 Relational operations in a programming language",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-5",
+            "title": "3.2.5 Boolean operations in a programming language",
+            "description": "Use NOT, AND, and OR Boolean operators within conditions for iterative and selection structures.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.5 Boolean operations in a programming language",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-6",
+            "title": "3.2.6 Data structures",
+            "description": "Understand data structures. Use one and two-dimensional arrays. Use records in the design of solutions.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.6 Data structures",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-7",
+            "title": "3.2.7 Input/output",
+            "description": "Obtain user input from keyboard. Output data and information to the computer display.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.7 Input/output",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-8",
+            "title": "3.2.8 String handling operations in a programming language",
+            "description": "Use length, position, substring, concatenation, character/character code conversion, and string conversion operations (string↔integer, string↔real).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.8 String handling operations in a programming language",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-9",
+            "title": "3.2.9 Random number generation in a programming language",
+            "description": "Be able to use random number generation within computer programs.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.9 Random number generation in a programming language",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-10",
+            "title": "3.2.10 Structured programming and subroutines",
+            "description": "Understand subroutines (procedures/functions), parameters, return values, local variables, and the structured approach to programming. Explain advantages of structured programming.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.10 Structured programming and subroutines",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2-11",
+            "title": "3.2.11 Robust and secure programming",
+            "description": "Write simple data validation and authentication routines. Understand testing, types of test data (normal, boundary, erroneous), and types of error (syntax, logic). Identify and categorise errors in algorithms and programs.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/programming",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.2.11 Robust and secure programming",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-3",
+        "title": "3.3 Fundamentals of data representation",
+        "description": "Paper 2 topic. Covers number bases, converting between number bases, units of information, binary arithmetic, character encoding, representing images, representing sound, and data compression.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.3 Fundamentals of data representation",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-3-1",
+            "title": "3.3.1 Number bases",
+            "description": "Understand decimal (base 10), binary (base 2) and hexadecimal (base 16). Computers use binary to represent all data and instructions. Explain why hexadecimal is often used in computer science.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.1 Number bases",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-2",
+            "title": "3.3.2 Converting between number bases",
+            "description": "Convert between binary, decimal and hexadecimal (values 0–255). Convert in both directions between binary↔decimal, binary↔hexadecimal, and decimal↔hexadecimal.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.2 Converting between number bases",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-3",
+            "title": "3.3.3 Units of information",
+            "description": "Know that a bit is the fundamental unit of information, a byte is 8 bits. Know decimal prefixes: kilo (kB = 1,000 bytes), mega (MB), giga (GB), tera (TB).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.3 Units of information",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-4",
+            "title": "3.3.4 Binary arithmetic",
+            "description": "Add up to three binary numbers (max 8-bit). Apply logical binary shifts and describe situations where shifts can be used (multiplication/division by powers of 2).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.4 Binary arithmetic",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-5",
+            "title": "3.3.5 Character encoding",
+            "description": "Understand character sets and describe 7-bit ASCII and Unicode encoding. Describe purpose and advantages of Unicode over ASCII. Use encoding tables to convert characters to/from character codes.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.5 Character encoding",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-6",
+            "title": "3.3.6 Representing images",
+            "description": "Understand pixels and bitmaps. Describe image size, colour depth. Calculate bitmap file sizes (Size = W × H × D bits). Convert binary data to/from bitmap images.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.6 Representing images",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-7",
+            "title": "3.3.7 Representing sound",
+            "description": "Understand analogue-to-digital conversion of sound. Describe sampling rate and sample resolution. Calculate sound file sizes (bits = rate × resolution × seconds).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.7 Representing sound",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3-8",
+            "title": "3.3.8 Data compression",
+            "description": "Explain data compression and why it is used. Explain Huffman coding and interpret Huffman trees. Calculate bits saved by Huffman compression. Explain and represent run-length encoding (RLE) using frequency/data pairs.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-data-representation",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.3.8 Data compression",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-4",
+        "title": "3.4 Computer systems",
+        "description": "Paper 2 topic. Covers hardware/software, Boolean logic, software classification, programming languages and translators, and systems architecture.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/computer-systems",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.4 Computer systems",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-4-1",
+            "title": "3.4.1 Hardware and software",
+            "description": "Define hardware and software and understand the relationship between them.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/computer-systems",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.4.1 Hardware and software",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-4-2",
+            "title": "3.4.2 Boolean logic",
+            "description": "Construct truth tables for NOT, AND, OR, XOR gates. Construct/interpret truth tables for simple logic circuits (up to 3 inputs). Create, modify and interpret logic circuit diagrams. Create and interpret Boolean expressions using NOT, AND, OR and XOR.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/computer-systems",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.4.2 Boolean logic",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-4-3",
+            "title": "3.4.3 Software classification",
+            "description": "Explain system software and application software. Understand the need for and functions of operating systems (processor, memory, I/O, applications, security management) and utility programs.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/computer-systems",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.4.3 Software classification",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-4-4",
+            "title": "3.4.4 Classification of programming languages and translators",
+            "description": "Know low-level and high-level languages. Explain machine code and assembly language. Understand interpreters, compilers, and assemblers. Advantages/disadvantages of low-level vs high-level programming.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/computer-systems",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.4.4 Classification of programming languages and translators",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-4-5",
+            "title": "3.4.5 Systems architecture",
+            "description": "Explain role of main memory and CPU components: ALU, control unit, clock, registers, buses. Effect of clock speed, cores, and cache on CPU performance. Fetch-Execute cycle. Types of memory: RAM, ROM, Cache, Registers. Secondary storage (solid state, magnetic). Cloud storage. Embedded systems.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/computer-systems",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.4.5 Systems architecture",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-5",
+        "title": "3.5 Fundamentals of computer networks",
+        "description": "Paper 2 topic. Covers network types (PAN, LAN, WAN), wired and wireless networks, network protocols (TCP, IP, HTTP, HTTPS, SMTP, IMAP), network security, and the TCP/IP 4-layer model.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-computer-networks",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.5 Fundamentals of computer networks",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-5-1",
+            "title": "3.5.1 Networks and topologies",
+            "description": "Define computer networks. Describe PAN, LAN and WAN. Advantages/disadvantages of networks. Wired vs wireless networks (copper, fibre). Network protocols: TCP, IP, HTTP, HTTPS, SMTP, IMAP. Network security: authentication, encryption, firewall, MAC address filtering. TCP/IP 4-layer model: application, transport, internet and link layers.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/fundamentals-of-computer-networks",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.5 Fundamentals of computer networks",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-6",
+        "title": "3.6 Cyber security",
+        "description": "Paper 2 topic. Covers fundamentals of cyber security, cyber security threats, and methods to detect and prevent threats.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/cyber-security",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.6 Cyber security",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-6-1",
+            "title": "3.6.1 Fundamentals of cyber security",
+            "description": "Define cyber security and describe its main purposes. Cyber security consists of processes, practices and technologies protecting networks, computers, programs and data from attack, damage or unauthorised access.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/cyber-security",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.6.1 Fundamentals of cyber security",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-6-2",
+            "title": "3.6.2 Cyber security threats",
+            "description": "Explain social engineering (blagging/pretexting, phishing, shouldering), malicious code/malware (viruses, trojans, spyware), pharming, weak/default passwords, misconfigured access rights, removable media, unpatched software. Explain penetration testing (insider and external attack simulation).",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/cyber-security",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.6.2 Cyber security threats",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-6-3",
+            "title": "3.6.3 Methods to detect and prevent cyber security threats",
+            "description": "Explain biometric measures, password systems, CAPTCHA, email confirmations, and automatic software updates as security measures.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/cyber-security",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.6.3 Methods to detect and prevent cyber security threats",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-7",
+        "title": "3.7 Relational databases and SQL",
+        "description": "Paper 2 topic. Covers relational database concepts and structured query language (SQL).",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/relational-databases-and-structured-query-language-sql",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.7 Relational databases and structured query language (SQL)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-7-1",
+            "title": "3.7.1 Relational databases",
+            "description": "Explain concepts of database and relational database. Understand table, record, field, data type, primary key, and foreign key. Understand that relational databases eliminate data inconsistency and redundancy.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/relational-databases-and-structured-query-language-sql",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.7.1 Relational databases",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-7-2",
+            "title": "3.7.2 Structured query language (SQL)",
+            "description": "Use SQL to retrieve data: SELECT, FROM, WHERE, ORDER BY ASC|DESC (up to two tables). Insert data: INSERT INTO ... VALUES. Edit and delete data: UPDATE ... SET ... WHERE; DELETE FROM ... WHERE.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/relational-databases-and-structured-query-language-sql",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.7.2 Structured query language (SQL)",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3-8",
+        "title": "3.8 Ethical, legal and environmental impacts of digital technology",
+        "description": "Paper 2 topic. Covers ethical, legal and environmental impacts and risks of digital technology on wider society, including issues of privacy. Exam topics include cyber security, mobile technologies, wireless networking, cloud storage, hacking, wearable technologies, computer-based implants, and autonomous vehicles.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/ethical-legal-and-environmental-impacts-of-digital-technology-on-wider-society-including-issues-of-privacy",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 3.8 Ethical, legal and environmental impacts of digital technology on wider society, including issues of privacy",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-8-1",
+            "title": "3.8.1 Ethical, legal and environmental impacts",
+            "description": "Explain current ethical, legal and environmental impacts and risks of digital technology on society, including privacy issues. Areas: cyber security, mobile technologies, wireless networking, cloud storage, hacking, wearable technologies, computer-based implants, autonomous vehicles.",
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/subject-content/ethical-legal-and-environmental-impacts-of-digital-technology-on-wider-society-including-issues-of-privacy",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 3.8 Ethical, legal and environmental impacts of digital technology on wider society",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+      "pageRef": "Section 2.2 Assessments",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: Computational thinking and programming skills",
+        "durationMinutes": 120,
+        "totalMarks": 90,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 2.2 Assessments — Paper 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1-content",
+            "title": "Computational thinking and programming skills",
+            "description": "Content drawn from sections 3.1 (Fundamentals of algorithms) and 3.2 (Programming). Mix of multiple choice, short answer and longer answer questions assessing programming, practical problem-solving and computational thinking skills.",
+            "questionTypes": [
+              "multiple choice",
+              "short answer",
+              "longer answer"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 2.2 Assessments — Paper 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 90
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Paper 2: Computing concepts",
+        "durationMinutes": 105,
+        "totalMarks": 90,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 2.2 Assessments — Paper 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2-content",
+            "title": "Computing concepts",
+            "description": "Content drawn from sections 3.3–3.8. Mix of multiple choice, short answer, longer answer and extended response questions assessing SQL programming skills and theoretical knowledge.",
+            "questionTypes": [
+              "multiple choice",
+              "short answer",
+              "longer answer",
+              "extended response"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+              "pageRef": "Section 2.2 Assessments — Paper 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            },
+            "marks": 90
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+      "pageRef": "Section 4.2 Assessment objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of the key concepts and principles of computer science.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 4.2.1 Assessment objective weightings for GCSE Computer Science",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of key concepts and principles of computer science.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 4.2.1 Assessment objective weightings for GCSE Computer Science",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse problems in computational terms: to make reasoned judgements and to design, program, evaluate and refine solutions.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Computer Science (8525) Specification",
+          "pageRef": "Section 4.2.1 Assessment objective weightings for GCSE Computer Science",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Computer Science",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+        "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024 (old 8525 spec, Opt B Python shown; all options identical)",
+        "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 152,
+          "maxMark": 180,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 140,
+          "maxMark": 151,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 128,
+          "maxMark": 139,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 108,
+          "maxMark": 127,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 88,
+          "maxMark": 107,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 68,
+          "maxMark": 87,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 50,
+          "maxMark": 67,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 32,
+          "maxMark": 49,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 14,
+          "maxMark": 31,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2024",
+            "pageRef": "Computer Science Opt B (Python) 2024 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "AQA",
+      "subject": "Computer Science",
+      "level": "GCSE",
+      "year": 2023,
+      "series": "June 2023",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+        "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023 (all options identical)",
+        "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 150,
+          "maxMark": 180,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 136,
+          "maxMark": 149,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 123,
+          "maxMark": 135,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 105,
+          "maxMark": 122,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 88,
+          "maxMark": 104,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 71,
+          "maxMark": 87,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 52,
+          "maxMark": 70,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 33,
+          "maxMark": 51,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 15,
+          "maxMark": 32,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/computer-science/",
+            "sourceDocument": "AQA GCSE Computer Science Grade Boundaries — June 2023",
+            "pageRef": "Computer Science Opt B (Python) 2023 Jun row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

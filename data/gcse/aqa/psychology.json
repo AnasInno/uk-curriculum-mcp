@@ -1,0 +1,571 @@
+{
+  "board": "AQA",
+  "subject": "Psychology",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+    "pageRef": "Sections 4.1–4.3",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-30",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Psychology",
+    "level": "GCSE",
+    "code": "8182",
+    "title": "AQA GCSE Psychology",
+    "firstExamYear": 2019,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+      "pageRef": "Section 4.1 — Aims and learning outcomes",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "paper1-cognition-and-behaviour",
+        "title": "Paper 1: Cognition and behaviour",
+        "description": "Students study Memory, Perception, Development and Research methods. Students are expected to draw on knowledge of the entire course to show deeper understanding.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/cognition-and-behaviour",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 3.1 — Cognition and behaviour",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "memory",
+            "title": "3.1.1 Memory",
+            "description": "Processes of memory (encoding, storage, retrieval); types of memory (episodic, semantic, procedural); multi-store model (sensory, STM, LTM); primacy and recency effects; Murdock's serial position curve; reconstructive memory and Bartlett's War of the Ghosts study; factors affecting accuracy (interference, context, false memories).",
+            "keyTerms": ["encoding", "storage", "retrieval", "episodic memory", "semantic memory", "procedural memory", "multi-store model", "sensory store", "short-term memory", "long-term memory", "primacy effect", "recency effect", "serial position curve", "reconstructive memory", "effort after meaning", "false memories", "interference"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/cognition-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.1.1 — Memory",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "perception",
+            "title": "3.1.2 Perception",
+            "description": "Sensation vs perception; monocular depth cues (height in plane, relative size, occlusion, linear perspective); binocular depth cues (retinal disparity, convergence); Gibson's direct theory; visual illusions (Ponzo, Müller-Lyer, Rubin's vase, Ames Room, Kanizsa triangle, Necker cube); Gregory's constructivist theory; perceptual set and factors affecting perception (culture, motivation, emotion, expectation); Gilchrist & Nesberg and Bruner & Minturn studies.",
+            "keyTerms": ["sensation", "perception", "monocular depth cues", "binocular depth cues", "retinal disparity", "convergence", "motion parallax", "Gibson", "Gregory", "visual illusions", "perceptual set", "culture", "motivation", "emotion", "expectation"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/cognition-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.1.2 — Perception",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "development",
+            "title": "3.1.3 Development",
+            "description": "Early brain development (brain stem, thalamus, cerebellum, cortex); nature and nurture; Piaget's stage theory (sensorimotor, pre-operational, concrete operational, formal operational); assimilation and accommodation; egocentricity and conservation; McGarrigle & Donaldson naughty teddy study; Hughes' policeman doll study; Dweck's Mindset Theory; learning styles and Willingham's critique.",
+            "keyTerms": ["brain development", "nature", "nurture", "Piaget", "sensorimotor", "pre-operational", "concrete operational", "formal operational", "assimilation", "accommodation", "egocentricity", "conservation", "fixed mindset", "growth mindset", "self-efficacy", "learning styles"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/cognition-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.1.3 — Development",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "research-methods",
+            "title": "3.1.4 Research methods",
+            "description": "Hypotheses (null and alternative); variables (IV, DV, extraneous); sampling methods (random, opportunity, systematic, stratified); experimental designs (independent groups, repeated measures, matched pairs); research methods (laboratory, field, natural experiments, interviews, questionnaires, case studies, observations); correlation and scatter diagrams; standardised procedures; ethics (BPS guidelines); data handling (quantitative/qualitative, primary/secondary, descriptive statistics, charts).",
+            "keyTerms": ["hypothesis", "null hypothesis", "independent variable", "dependent variable", "extraneous variable", "random sampling", "opportunity sampling", "systematic sampling", "stratified sampling", "laboratory experiment", "field experiment", "natural experiment", "interview", "questionnaire", "case study", "observation", "interobserver reliability", "correlation", "scatter diagram", "ethics", "BPS guidelines", "mean", "median", "mode", "range"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/cognition-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.1.4 — Research methods",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-social-context-and-behaviour",
+        "title": "Paper 2: Social context and behaviour",
+        "description": "Students study Social influence, Language thought and communication, Brain and neuropsychology, and Psychological problems. Students are expected to draw on knowledge of the entire course to show deeper understanding.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 3.2 — Social context and behaviour",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "social-influence",
+            "title": "3.2.1 Social influence",
+            "description": "Conformity: social factors (group size, anonymity, task difficulty) and dispositional factors (personality, expertise); Asch's study. Obedience: Milgram's Agency Theory (agency, authority, culture, proximity); Adorno's Authoritarian Personality. Prosocial behaviour: bystander behaviour, Piliavin's subway study. Crowd and collective behaviour: social loafing, deindividuation, culture, personality and morality.",
+            "keyTerms": ["conformity", "obedience", "majority influence", "Asch", "Milgram", "agency theory", "agentic state", "autonomous state", "authoritarian personality", "Adorno", "bystander behaviour", "bystander effect", "Piliavin", "prosocial behaviour", "antisocial behaviour", "social loafing", "deindividuation"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.2.1 — Social influence",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "language-thought-communication",
+            "title": "3.2.2 Language, thought and communication",
+            "description": "Relationship between language and thought: Piaget (language depends on thought) and Sapir-Whorf hypothesis (thought depends on language). Animal vs human communication: Von Frisch's bee study. Non-verbal communication: eye contact, body language, personal space. Explanations: Darwin's evolutionary theory; innate vs learned non-verbal behaviour; Yuki's emoticons study.",
+            "keyTerms": ["language", "thought", "Sapir-Whorf hypothesis", "linguistic relativity", "Piaget", "animal communication", "Von Frisch", "non-verbal communication", "eye contact", "body language", "posture", "postural echo", "personal space", "proxemics", "Darwin", "evolutionary theory", "innate", "learned"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.2.2 — Language, thought and communication",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "brain-and-neuropsychology",
+            "title": "3.2.3 Brain and neuropsychology",
+            "description": "Nervous system divisions (central, peripheral, somatic, autonomic); fight or flight; James-Lange theory of emotion. Neuron structure (sensory, relay, motor); synaptic transmission; excitation and inhibition; Hebb's theory. Brain structure (frontal, temporal, parietal, occipital lobes, cerebellum); localisation of function; Penfield's study. Cognitive neuroscience; scanning techniques (CT, PET, fMRI); Tulving's gold memory study; neurological damage.",
+            "keyTerms": ["central nervous system", "peripheral nervous system", "autonomic nervous system", "somatic nervous system", "fight or flight", "James-Lange theory", "sensory neuron", "relay neuron", "motor neuron", "synapse", "neurotransmitter", "excitation", "inhibition", "Hebb", "frontal lobe", "temporal lobe", "parietal lobe", "occipital lobe", "cerebellum", "localisation of function", "Penfield", "CT scan", "PET scan", "fMRI", "Tulving", "cognitive neuroscience"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.2.3 — Brain and neuropsychology",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "psychological-problems",
+            "title": "3.2.4 Psychological problems",
+            "description": "Mental health characteristics; cultural variations; effects of mental health problems on individuals and society. Clinical depression: unipolar vs bipolar; ICD diagnosis criteria. Theories of depression: biological (serotonin imbalance) and psychological (negative schemas); treatments (antidepressants, CBT); Wiles' study. Addiction: dependence vs misuse; ICD criteria; biological (dopamine) and learning theory explanations; treatments (drug therapy, counselling, cognitive behavioural therapy).",
+            "keyTerms": ["mental health", "clinical depression", "unipolar depression", "bipolar depression", "ICD", "serotonin", "negative schemas", "attribution", "antidepressants", "CBT", "cognitive behaviour therapy", "Wiles", "addiction", "dependence", "substance misuse", "dopamine", "learning theory", "counselling"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 3.2.4 — Psychological problems",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Psychology",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+      "pageRef": "Section 2.2 — Assessments",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: Cognition and behaviour",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 2.2 — Paper 1 assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: Memory",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: Perception",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1C",
+            "title": "Section C: Development",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1D",
+            "title": "Section D: Research methods",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Paper 2: Social context and behaviour",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 2.2 — Paper 2 assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Section A: Social influence",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Section B: Language, thought and communication",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2C",
+            "title": "Section C: Brain and neuropsychology",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2D",
+            "title": "Section D: Psychological problems",
+            "marks": 25,
+            "questionTypes": ["multiple choice", "short answer", "extended writing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Psychology",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of psychological ideas, processes and procedures.",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings for GCSE Psychology",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of psychological ideas, processes and procedures.",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings for GCSE Psychology",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse and evaluate psychological information, ideas, processes and procedures to make judgements and draw conclusions.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Psychology (8182) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings for GCSE Psychology",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Psychology",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8182 PSYCHOLOGY row (total scaled mark 200)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 158,
+          "maxMark": 200,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 144,
+          "maxMark": 157,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 130,
+          "maxMark": 143,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 111,
+          "maxMark": 129,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 92,
+          "maxMark": 110,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 74,
+          "maxMark": 91,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 53,
+          "maxMark": 73,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 32,
+          "maxMark": 52,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 11,
+          "maxMark": 31,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8182 PSYCHOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

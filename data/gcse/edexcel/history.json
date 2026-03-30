@@ -1,0 +1,715 @@
+{
+  "board": "Edexcel",
+  "subject": "History",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+    "pageRef": "Specification at a glance",
+    "confidence": "high",
+    "verifiedDate": "2026-03-30",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "Edexcel",
+    "subject": "History",
+    "level": "GCSE",
+    "code": "1HI0",
+    "title": "Pearson Edexcel Level 1/Level 2 GCSE (9–1) in History",
+    "firstExamYear": 2018,
+    "topics": [
+      {
+        "id": "paper1-thematic",
+        "title": "Paper 1: Thematic Study and Historic Environment",
+        "description": "A thematic study covering a broad sweep of history, plus a study of the historic environment of a specific site in its historical context. Options include: Crime and Punishment in Britain, c1000–present; Castles: Form and Function, c1000–present; Medicine in Britain, c1250–present; Anglo-Saxon and Norman England, c1060–88 (historic environment); and others.",
+        "subtopics": [
+          {
+            "id": "p1-crime-punishment",
+            "title": "Crime and Punishment in Britain, c1000–present",
+            "description": "Thematic study of crime and punishment across British history from c1000 to the present day.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 1: Thematic study and historic environment",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "p1-medicine",
+            "title": "Medicine in Britain, c1250–present",
+            "description": "Thematic study of developments in medicine across British history from c1250 to the present day, including the historic environment of the Western Front.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 1: Thematic study and historic environment",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "p1-migration",
+            "title": "Migrants in Britain, c800–present",
+            "description": "Thematic study of migration and its impact on British society from c800 to the present day.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 1: Thematic study and historic environment",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+          "pageRef": "Paper 1: Thematic study and historic environment",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "paper2-period-british",
+        "title": "Paper 2: Period Study and British Depth Study",
+        "description": "A period study covering a substantial historical period (c30 years) and a British depth study. Period study options include: Spain and the New World; British America; The American West; Superpower Relations and the Cold War; Conflict in the Middle East. British depth study options include: Anglo-Saxon and Norman England; King Richard I and King John; Henry VIII and his Ministers; Early Elizabethan England.",
+        "subtopics": [
+          {
+            "id": "p2-superpower",
+            "title": "Superpower Relations and the Cold War, 1941–91",
+            "description": "Period study examining the development of Cold War tensions between the superpowers from 1941 to 1991.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 2: Period study",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "p2-elizabethan",
+            "title": "Early Elizabethan England, 1558–88",
+            "description": "British depth study examining the reign of Elizabeth I from 1558 to 1588, including the Religious Settlement, challenges to Elizabeth, and Elizabethan society.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 2: British depth study",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+          "pageRef": "Paper 2: Period study and British depth study",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "paper3-modern-depth",
+        "title": "Paper 3: Modern Depth Study",
+        "description": "An in-depth study of a modern period. Options include: Weimar and Nazi Germany, 1918–39; Mao's China, 1945–76; The USA, 1954–75: conflict at home and abroad; Vietnam: conflict and division.",
+        "subtopics": [
+          {
+            "id": "p3-weimar-nazi",
+            "title": "Weimar and Nazi Germany, 1918–39",
+            "description": "In-depth study of the Weimar Republic, its rise and fall, and the establishment and consolidation of Nazi rule in Germany from 1918 to 1939.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 3: Modern depth study",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "p3-usa-conflict",
+            "title": "The USA, 1954–75: conflict at home and abroad",
+            "description": "In-depth study of the USA from 1954 to 1975, covering the Civil Rights movement and the Vietnam War.",
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 3: Modern depth study",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+          "pageRef": "Paper 3: Modern depth study",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "paperStructure": {
+    "board": "Edexcel",
+    "subject": "History",
+    "level": "GCSE",
+    "papers": [
+      {
+        "id": "1HI0/1",
+        "title": "Paper 1: Thematic Study and Historic Environment",
+        "durationMinutes": 75,
+        "totalMarks": 52,
+        "percentage": 30,
+        "calculator": false,
+        "sections": [
+          {
+            "id": "1HI0/1-A",
+            "title": "Section A: Historic Environment",
+            "marks": 16,
+            "questionTypes": [
+              "source analysis",
+              "structured questions"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 1: Structure",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1HI0/1-B",
+            "title": "Section B: Thematic Study",
+            "marks": 36,
+            "questionTypes": [
+              "structured questions",
+              "extended writing"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 1: Structure",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1HI0/2",
+        "title": "Paper 2: Period Study and British Depth Study",
+        "durationMinutes": 105,
+        "totalMarks": 64,
+        "percentage": 40,
+        "calculator": false,
+        "sections": [
+          {
+            "id": "1HI0/2-A",
+            "title": "Section A: Period Study",
+            "marks": 32,
+            "questionTypes": [
+              "structured questions",
+              "extended writing"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 2: Structure",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1HI0/2-B",
+            "title": "Section B: British Depth Study",
+            "marks": 32,
+            "questionTypes": [
+              "source analysis",
+              "interpretations",
+              "extended writing"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 2: Structure",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "1HI0/3",
+        "title": "Paper 3: Modern Depth Study",
+        "durationMinutes": 80,
+        "totalMarks": 52,
+        "percentage": 30,
+        "calculator": false,
+        "sections": [
+          {
+            "id": "1HI0/3-A",
+            "title": "Section A: Sources",
+            "marks": 20,
+            "questionTypes": [
+              "source analysis",
+              "source evaluation"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 3: Structure",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1HI0/3-B",
+            "title": "Section B: Depth Study",
+            "marks": 32,
+            "questionTypes": [
+              "structured questions",
+              "interpretations",
+              "extended writing"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+              "pageRef": "Paper 3: Structure",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+          "pageRef": "Specification at a glance",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "assessmentObjectives": {
+    "board": "Edexcel",
+    "subject": "History",
+    "level": "GCSE",
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "Demonstrate knowledge and understanding",
+        "description": "Demonstrate knowledge and understanding of the key features and characteristics of the periods studied.",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.gov.uk/government/publications/assessment-objectives-ancient-languages-geography-and-mfl/gcse-as-and-a-level-assessment-objectives",
+          "pageRef": "1.21 History",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "Explain and analyse historical events",
+        "description": "Explain and analyse historical events and periods studied using second-order historical concepts (e.g. causation, consequence, change, continuity, similarity, difference, significance).",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.gov.uk/government/publications/assessment-objectives-ancient-languages-geography-and-mfl/gcse-as-and-a-level-assessment-objectives",
+          "pageRef": "1.21 History",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "Analyse, evaluate and use sources",
+        "description": "Analyse, evaluate and use sources (contemporary to the period) to make substantiated judgements, in the context of historical events studied.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.gov.uk/government/publications/assessment-objectives-ancient-languages-geography-and-mfl/gcse-as-and-a-level-assessment-objectives",
+          "pageRef": "1.21 History",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "Analyse, evaluate and make judgements about interpretations",
+        "description": "Analyse, evaluate and make substantiated judgements about interpretations (including how and why interpretations may differ) in the context of historical events studied.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.gov.uk/government/publications/assessment-objectives-ancient-languages-geography-and-mfl/gcse-as-and-a-level-assessment-objectives",
+          "pageRef": "1.21 History",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ],
+    "_meta": {
+      "source": "https://www.gov.uk/government/publications/assessment-objectives-ancient-languages-geography-and-mfl/gcse-as-and-a-level-assessment-objectives",
+      "pageRef": "1.21 History",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    }
+  },
+  "gradeBoundaries": [
+    {
+      "board": "Edexcel",
+      "subject": "History",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 145,
+          "maxMark": 168,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 133,
+          "maxMark": 144,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 121,
+          "maxMark": 132,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 108,
+          "maxMark": 120,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 95,
+          "maxMark": 107,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 82,
+          "maxMark": 94,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 61,
+          "maxMark": 81,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 40,
+          "maxMark": 60,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 19,
+          "maxMark": 39,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 18,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "pageRef": "1HI0 History — route 10 2E 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ],
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+        "pageRef": "1HI0 History — route 10 2E 30 (Paper 1 option 10, Paper 2 option 2E: British America + Anglo-Saxon, Paper 3 option 30). Boundaries vary by option combination; total subject mark is out of 168.",
+        "confidence": "high",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "board": "Edexcel",
+      "subject": "History",
+      "level": "GCSE",
+      "year": 2023,
+      "series": "June 2023",
+      "tier": "all",
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 141,
+          "maxMark": 168,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 127,
+          "maxMark": 140,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 114,
+          "maxMark": 126,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 99,
+          "maxMark": 113,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 84,
+          "maxMark": 98,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 70,
+          "maxMark": 83,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 51,
+          "maxMark": 69,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 32,
+          "maxMark": 50,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 14,
+          "maxMark": 31,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 13,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+            "pageRef": "1HI0 History — route 10 2F 30",
+            "confidence": "high",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ],
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/2306-gcse-9-1-subject-grade-boundaries.pdf",
+        "pageRef": "1HI0 History — route 10 2F 30 (Paper 1 option 10, Paper 2 option 2F: British America + King Richard I, Paper 3 option 30). Boundaries vary by option combination; total subject mark is out of 168.",
+        "confidence": "high",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+{
+  "board": "OCR",
+  "subject": "Computer Science",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+    "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+    "pageRef": "Specification at a Glance — Components 01 and 02",
+    "confidence": "high",
+    "verifiedDate": "2026-03-30",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "OCR",
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "code": "J277",
+    "title": "OCR GCSE Computer Science (9-1)",
+    "firstExamYear": 2022,
+    "_meta": {
+      "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+      "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+      "pageRef": "Specification at a Glance — Content Overview",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "topic-1",
+        "title": "Systems architecture",
+        "description": "Component 01 topic. The purpose and function of the CPU, the fetch-execute cycle, CPU components and their functions, Von Neumann architecture, and factors affecting CPU performance.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Systems architecture (1.1)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-1-1",
+            "title": "The purpose of the CPU",
+            "description": "The role of the CPU to fetch and execute instructions stored in memory. Von Neumann architecture.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.1 Systems architecture",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-1-2",
+            "title": "CPU components and their functions",
+            "description": "ALU, CU, cache, registers (MAR, MDR, program counter, accumulator) and their roles in the fetch-execute cycle.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.1 Systems architecture",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-1-3",
+            "title": "Factors affecting CPU performance",
+            "description": "Clock speed, number of cores, cache size and their effect on CPU performance.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.1 Systems architecture",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-2",
+        "title": "Memory and storage",
+        "description": "Component 01 topic. Primary storage (RAM and ROM), secondary storage types and uses, virtual memory, data storage and compression.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Memory and storage (1.2)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-2-1",
+            "title": "Primary storage",
+            "description": "The need for primary storage; RAM (volatile, read/write) and ROM (non-volatile, read only); virtual memory.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.2 Memory and storage",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-2-2",
+            "title": "Secondary storage",
+            "description": "The need for secondary storage; types including optical, magnetic and solid state; suitability for different use cases.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.2 Memory and storage",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-2-3",
+            "title": "Units, data storage and compression",
+            "description": "Units of data storage (bits, bytes, kilobytes etc.); calculating file sizes; lossless and lossy compression.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.2 Memory and storage",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-3",
+        "title": "Computer networks, connections and protocols",
+        "description": "Component 01 topic. Types of network, factors affecting network performance, network hardware, topologies, protocols, and layers.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Networks (1.3)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-3-1",
+            "title": "Networks and topologies",
+            "description": "LAN and WAN; wired vs wireless; factors affecting network performance; star and mesh topologies.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.3 Networks",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-2",
+            "title": "Network hardware",
+            "description": "Routers, switches, WAPs, NIC; the role of each device in a network.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.3 Networks",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-3-3",
+            "title": "Protocols and layers",
+            "description": "TCP/IP, HTTP, HTTPS, FTP, POP, IMAP, SMTP; the concept of layers; the role of protocols.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.3 Networks",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-4",
+        "title": "Network security",
+        "description": "Component 01 topic. Threats to computer systems and networks, and methods of prevention and protection.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Network security (1.4)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-4-1",
+            "title": "Threats to computer systems and networks",
+            "description": "Malware types (viruses, ransomware, spyware, adware, trojans, worms); social engineering attacks (phishing, pharming); brute force attacks; denial of service; SQL injection; man-in-the-middle attacks.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.4 Network security",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-4-2",
+            "title": "Prevention methods",
+            "description": "Anti-malware, firewalls, encryption, strong passwords, two-factor authentication, biometrics, CAPTCHA, email filtering, automatic software updates.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.4 Network security",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-5",
+        "title": "Systems software",
+        "description": "Component 01 topic. The role of the operating system and utility software.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Systems software (1.5)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-5-1",
+            "title": "Operating systems",
+            "description": "The purpose and role of an operating system: user interface, memory management, multitasking, peripherals and drivers, user and file management.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.5 Systems software",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-5-2",
+            "title": "Utility software",
+            "description": "The purpose of utility software including: encryption software, defragmentation, data compression.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.5 Systems software",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-6",
+        "title": "Ethical, legal, cultural and environmental impacts",
+        "description": "Component 01 topic. The impact of digital technology on society, legislation and ethical issues.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Ethical/legal/cultural/environmental (1.6)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-6-1",
+            "title": "Ethical and cultural issues",
+            "description": "Ethical issues in computing; impacts of technology on society and culture; moral implications of AI, data collection, and automated systems.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.6 Ethical, legal, cultural and environmental impacts",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-6-2",
+            "title": "Legal issues",
+            "description": "Key legislation including the Data Protection Act 2018, Computer Misuse Act 1990, Copyright Designs and Patents Act 1988, and the Freedom of Information Act 2000.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.6 Ethical, legal, cultural and environmental impacts",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-6-3",
+            "title": "Environmental impacts",
+            "description": "The environmental impact of digital systems: energy usage, e-waste, manufacturing and disposal of hardware.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.6 Ethical, legal, cultural and environmental impacts",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-7",
+        "title": "Algorithms",
+        "description": "Component 02 topic. Computational thinking, designing algorithms, searching and sorting algorithms, and trace tables.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 02: Computational thinking — Algorithms (2.1)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-7-1",
+            "title": "Computational thinking",
+            "description": "Decomposition, abstraction, and algorithmic thinking as key principles of computational thinking.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.1 Algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-7-2",
+            "title": "Designing and refining algorithms",
+            "description": "Pseudocode and flowcharts to represent algorithms; identifying and correcting errors in algorithms.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.1 Algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-7-3",
+            "title": "Searching and sorting algorithms",
+            "description": "Linear search and binary search; bubble sort, merge sort, and insertion sort — how they work and their relative efficiency.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.1 Algorithms",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-8",
+        "title": "Programming techniques",
+        "description": "Component 02 topic. Core programming constructs, data structures, file handling, and programming paradigms.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 02: Computational thinking — Programming techniques (2.2)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-8-1",
+            "title": "Programming constructs",
+            "description": "Sequence, selection (if/elif/else, switch/case), and iteration (for and while loops); variables, constants, and data types.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.2 Programming techniques",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-8-2",
+            "title": "Data structures",
+            "description": "Arrays (one and two-dimensional); records; files; use of appropriate data structures in programs.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.2 Programming techniques",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-8-3",
+            "title": "Procedures and functions",
+            "description": "Use of procedures and functions to modularise programs; parameters; return values; local and global variables.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.2 Programming techniques",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-8-4",
+            "title": "String handling",
+            "description": "String operations: length, substring, concatenation, upper/lower case conversion, ASCII conversion.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.2 Programming techniques",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-8-5",
+            "title": "File handling",
+            "description": "Reading from and writing to text files; opening and closing files.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.2 Programming techniques",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-8-6",
+            "title": "Robust programs",
+            "description": "Input validation; authentication; testing (types of testing, test plans, test data); identifying and fixing errors.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.2 Programming techniques",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-9",
+        "title": "Producing robust programs",
+        "description": "Component 02 topic. Defensive design considerations, testing and maintainability of programs.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 02: Computational thinking — Producing robust programs (2.3)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-9-1",
+            "title": "Defensive design",
+            "description": "Anticipating misuse; input sanitisation and validation; planning for contingencies.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.3 Producing robust programs",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-9-2",
+            "title": "Testing",
+            "description": "Types of testing: iterative and final testing; test data types (normal, boundary, erroneous); trace tables; syntax and logic errors.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.3 Producing robust programs",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-10",
+        "title": "Boolean logic",
+        "description": "Component 02 topic. Logic gates, truth tables, and Boolean expressions.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 02: Computational thinking — Boolean logic (2.4)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-10-1",
+            "title": "Logic gates",
+            "description": "AND, OR, NOT, NAND, NOR, and XOR gates; their symbols, truth tables, and combinations.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.4 Boolean logic",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-10-2",
+            "title": "Boolean expressions",
+            "description": "Writing and evaluating Boolean expressions; applying Boolean algebra; constructing and reading logic diagrams.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.4 Boolean logic",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-11",
+        "title": "Languages and Integrated Development Environments",
+        "description": "Component 02 topic. Types of programming languages, translators, and the features of IDEs.",
+        "paper": "Paper 2",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 02: Computational thinking — Languages and IDEs (2.5)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-11-1",
+            "title": "Types of programming languages",
+            "description": "High-level vs low-level languages; assembly language; machine code; advantages and disadvantages of each.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.5 Languages and IDEs",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-11-2",
+            "title": "Translators",
+            "description": "Compilers, interpreters, and assemblers — their purpose, differences, and when each is used.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.5 Languages and IDEs",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-11-3",
+            "title": "Integrated Development Environments (IDEs)",
+            "description": "The features of an IDE: editor, error diagnostics, run-time environment, translator, auto-completion, auto-indentation.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 02 — 2.5 Languages and IDEs",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "topic-12",
+        "title": "Data representation",
+        "description": "Component 01 topic. Binary, hexadecimal, ASCII, Unicode, images, and sound representation.",
+        "paper": "Paper 1",
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Component 01: Computer systems — Data representation (1.2)",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "topic-12-1",
+            "title": "Number systems",
+            "description": "Binary, denary and hexadecimal number systems; conversion between bases; binary arithmetic (addition, overflow); two's complement for negative numbers.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.2 Data representation",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-12-2",
+            "title": "Character encoding",
+            "description": "ASCII and Unicode character sets; the need for Unicode over ASCII; representing characters in binary.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.2 Data representation",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "topic-12-3",
+            "title": "Images and sound",
+            "description": "Representing images using pixels: resolution, colour depth, file size. Representing sound: sampling rate, bit depth, file size calculations.",
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Component 01 — 1.2 Data representation",
+              "confidence": "high",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "OCR",
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+      "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+      "pageRef": "Specification at a Glance — Assessment Overview",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "01",
+        "title": "Computer systems (01)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Specification at a Glance — Component 01",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "01-A",
+            "title": "Section A — Short answer questions",
+            "description": "Short answer questions covering all Component 01 topics: systems architecture, memory and storage, data representation, networks, security, and systems software.",
+            "questionTypes": [
+              "short answer",
+              "multiple choice",
+              "structured"
+            ],
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Specification at a Glance — Component 01",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "derived"
+            },
+            "marks": 80
+          }
+        ]
+      },
+      {
+        "id": "02",
+        "title": "Computational thinking, algorithms and programming (02)",
+        "durationMinutes": 90,
+        "totalMarks": 80,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Specification at a Glance — Component 02",
+          "confidence": "high",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "02-A",
+            "title": "Section A — Computational thinking and algorithms",
+            "description": "Questions on algorithms, computational thinking, logic, and translators.",
+            "questionTypes": [
+              "short answer",
+              "structured"
+            ],
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Specification at a Glance — Component 02",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "derived"
+            },
+            "marks": 40
+          },
+          {
+            "id": "02-B",
+            "title": "Section B — Programming",
+            "description": "Extended programming questions; students are expected to have practical programming skills and will write, trace, and correct programs.",
+            "questionTypes": [
+              "programming",
+              "extended answer",
+              "trace"
+            ],
+            "_meta": {
+              "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+              "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+              "pageRef": "Specification at a Glance — Component 02",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "derived"
+            },
+            "marks": 40
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "OCR",
+    "subject": "Computer Science",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+      "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+      "pageRef": "Specification at a Glance — Assessment Objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1 — Demonstrate knowledge and understanding",
+        "description": "Demonstrate knowledge and understanding of the principles and concepts of computer science, including abstraction, logic, algorithms, and data representation.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Specification at a Glance — Assessment Objectives",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "derived"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2 — Apply knowledge and understanding",
+        "description": "Apply knowledge and understanding of computer science principles and concepts in a variety of contexts, including problem-solving, designing algorithms, and analysing programs.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Specification at a Glance — Assessment Objectives",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "derived"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3 — Evaluate and improve",
+        "description": "Evaluate problems, solutions, and the impact of computing; design, write, test and refine programs; select and justify the choice of algorithms and data structures.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/specification-at-a-glance/",
+          "sourceDocument": "OCR GCSE Computer Science (J277) Specification",
+          "pageRef": "Specification at a Glance — Assessment Objectives",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "derived"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "OCR",
+      "subject": "Computer Science",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+        "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+        "pageRef": "Computer Science 2024 Jun row (max 160 marks — combined both components)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 136,
+          "maxMark": 160,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 9",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 126,
+          "maxMark": 135,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 8",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 117,
+          "maxMark": 125,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 7",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 102,
+          "maxMark": 116,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 6",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 87,
+          "maxMark": 101,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 5",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 72,
+          "maxMark": 86,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 4",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 52,
+          "maxMark": 71,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 3",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 32,
+          "maxMark": 51,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 2",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 13,
+          "maxMark": 31,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2024",
+            "pageRef": "Computer Science 2024 Jun row — Grade 1",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "OCR",
+      "subject": "Computer Science",
+      "level": "GCSE",
+      "year": 2023,
+      "series": "June 2023",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+        "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+        "pageRef": "Computer Science 2023 Jun row (max 160 marks — combined both components)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 133,
+          "maxMark": 160,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 9",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 119,
+          "maxMark": 132,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 8",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 106,
+          "maxMark": 118,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 7",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 91,
+          "maxMark": 105,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 6",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 77,
+          "maxMark": 90,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 5",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 63,
+          "maxMark": 76,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 4",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 46,
+          "maxMark": 62,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 3",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 29,
+          "maxMark": 45,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 2",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 12,
+          "maxMark": 28,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2023",
+            "pageRef": "Computer Science 2023 Jun row — Grade 1",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "OCR",
+      "subject": "Computer Science",
+      "level": "GCSE",
+      "year": 2022,
+      "series": "June 2022",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+        "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+        "pageRef": "Computer Science 2022 Jun row (max 160 marks — combined both components)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 132,
+          "maxMark": 160,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 9",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 119,
+          "maxMark": 131,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 8",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 106,
+          "maxMark": 118,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 7",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 90,
+          "maxMark": 105,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 6",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 75,
+          "maxMark": 89,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 5",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 60,
+          "maxMark": 74,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 4",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 45,
+          "maxMark": 59,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 3",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 30,
+          "maxMark": 44,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 2",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 16,
+          "maxMark": 29,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/ocr/computer-science/",
+            "sourceDocument": "OCR GCSE Computer Science J277 Grade Boundaries — June 2022",
+            "pageRef": "Computer Science 2022 Jun row — Grade 1",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

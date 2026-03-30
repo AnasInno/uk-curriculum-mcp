@@ -1,0 +1,1182 @@
+{
+  "board": "AQA",
+  "subject": "Business",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Business (8132) Specification",
+    "pageRef": "Sections 4.1–4.3",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-30",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Business",
+    "level": "GCSE",
+    "code": "8132",
+    "title": "AQA GCSE Business",
+    "firstExamYear": 2019,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Business (8132) Specification",
+      "pageRef": "Section 4.1 — Aims and learning outcomes",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "business-in-the-real-world",
+        "title": "1. Business in the real world",
+        "description": "The purpose of business activity, the role of business enterprise and entrepreneurship, and the dynamic nature of business. Students need to be aware of the impact business in the real world has on the four functional areas: business operations, human resources, marketing and finance.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 3.1 — Business in the real world",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3.1.1-purpose-nature-businesses",
+            "title": "3.1.1 The purpose and nature of businesses",
+            "description": "Purpose of business, reasons for starting a business, basic functions and types of business, business enterprise and entrepreneurship, dynamic nature of business.",
+            "keyTerms": [
+              "goods",
+              "services",
+              "needs",
+              "wants",
+              "factors of production",
+              "opportunity cost",
+              "primary sector",
+              "secondary sector",
+              "tertiary sector",
+              "enterprise",
+              "entrepreneur"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.1.2-business-ownership",
+            "title": "3.1.2 Business ownership",
+            "description": "Sole traders, partnerships, private limited companies (Ltd), public limited companies (plc), and not-for-profit organisations.",
+            "keyTerms": [
+              "sole trader",
+              "partnership",
+              "private limited company",
+              "public limited company",
+              "not-for-profit",
+              "limited liability",
+              "incorporation",
+              "profit distribution"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.1.3-business-aims-objectives",
+            "title": "3.1.3 Setting business aims and objectives",
+            "description": "What are business aims and objectives, purpose of setting objectives, role of objectives in running a business, changing objectives, use of objectives in judging success.",
+            "keyTerms": [
+              "business aims",
+              "business objectives",
+              "survival",
+              "profit maximisation",
+              "market share",
+              "customer satisfaction",
+              "social objectives",
+              "shareholder value"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.1.4-stakeholders",
+            "title": "3.1.4 Stakeholders",
+            "description": "Main stakeholders of businesses, objectives of stakeholders, impact of business activity on stakeholders, impact and influence stakeholders have on businesses.",
+            "keyTerms": [
+              "stakeholder",
+              "owners",
+              "employees",
+              "customers",
+              "local community",
+              "suppliers",
+              "stakeholder conflict"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.1.5-business-location",
+            "title": "3.1.5 Business location",
+            "description": "Factors influencing the location decision of a business, including proximity to market, availability of raw materials, labour, competition and costs.",
+            "keyTerms": [
+              "location",
+              "proximity to market",
+              "raw materials",
+              "labour",
+              "competition",
+              "costs"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.5",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.1.6-business-planning",
+            "title": "3.1.6 Business planning",
+            "description": "The purpose of business planning, the main sections within a business plan, basic financial terms and calculations.",
+            "keyTerms": [
+              "business plan",
+              "variable costs",
+              "fixed costs",
+              "total costs",
+              "revenue",
+              "profit",
+              "loss"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.6",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.1.7-expanding-a-business",
+            "title": "3.1.7 Expanding a business",
+            "description": "Methods of expansion, benefits and drawbacks of expansion, economies of scale, diseconomies of scale.",
+            "keyTerms": [
+              "organic growth",
+              "franchising",
+              "e-commerce",
+              "outsourcing",
+              "merger",
+              "takeover",
+              "economies of scale",
+              "diseconomies of scale",
+              "average unit cost"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-in-the-real-world",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.1.7",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "influences-on-business",
+        "title": "2. Influences on business",
+        "description": "The importance of external influences on business and how businesses change in response to these influences.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 3.2 — Influences on business",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3.2.1-technology",
+            "title": "3.2.1 Technology",
+            "description": "E-commerce and digital communication — the impact of changing use of ICT and how it influences business activity.",
+            "keyTerms": [
+              "e-commerce",
+              "digital communication",
+              "ICT",
+              "technology"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.2.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.2.2-ethical-environmental",
+            "title": "3.2.2 Ethical and environmental considerations",
+            "description": "Ethical behaviour, environmental considerations (traffic congestion, recycling, waste, pollution), sustainability (global warming, scarce resources).",
+            "keyTerms": [
+              "ethics",
+              "environmental responsibility",
+              "sustainability",
+              "global warming",
+              "recycling",
+              "waste disposal",
+              "pollution"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.2.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.2.3-economic-climate",
+            "title": "3.2.3 The economic climate on businesses",
+            "description": "Interest rates, level of employment, consumer spending and how economic changes affect businesses.",
+            "keyTerms": [
+              "interest rates",
+              "employment",
+              "consumer spending",
+              "income",
+              "demand"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.2.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.2.4-globalisation",
+            "title": "3.2.4 Globalisation",
+            "description": "How UK businesses compete internationally through better designs, higher quality or lower prices. Exchange rates and their impact on imports/exports.",
+            "keyTerms": [
+              "globalisation",
+              "international competition",
+              "exchange rates",
+              "imports",
+              "exports",
+              "profit"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.2.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.2.5-legislation",
+            "title": "3.2.5 Legislation",
+            "description": "Employment law (National Minimum Wage, Equality Act 2010), Health and Safety law (Health and Safety at Work Act 1974), Consumer law (trade descriptions).",
+            "keyTerms": [
+              "employment law",
+              "national minimum wage",
+              "Equality Act",
+              "health and safety",
+              "consumer law",
+              "trade descriptions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.2.5",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.2.6-competitive-environment",
+            "title": "3.2.6 Competitive environment",
+            "description": "Impact on businesses of operating in competitive markets, uncertainty and risks businesses face.",
+            "keyTerms": [
+              "market",
+              "competition",
+              "risk",
+              "uncertainty"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/influences-on-business",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.2.6",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "business-operations",
+        "title": "3. Business operations",
+        "description": "What business operations involve, their role within the production of goods and the provision of services, and how they influence business activity.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-operations",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 3.3 — Business operations",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3.3.1-production-processes",
+            "title": "3.3.1 Production processes",
+            "description": "Methods of production (job, flow), efficiency in production (lean production, just in time).",
+            "keyTerms": [
+              "job production",
+              "flow production",
+              "lean production",
+              "just in time (JIT)"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-operations",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.3.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.3.2-procurement",
+            "title": "3.3.2 The role of procurement",
+            "description": "Managing stock (JIT, JIC), factors affecting choice of suppliers (price, quality, reliability), effects of procurement and logistics on a business.",
+            "keyTerms": [
+              "procurement",
+              "logistics",
+              "just in time (JIT)",
+              "just in case (JIC)",
+              "stock management",
+              "supply chain",
+              "suppliers"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-operations",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.3.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.3.3-quality",
+            "title": "3.3.3 The concept of quality",
+            "description": "Consequences of quality issues, methods of maintaining consistent quality (TQM), costs and benefits of maintaining quality.",
+            "keyTerms": [
+              "quality",
+              "total quality management (TQM)",
+              "quality control",
+              "product recalls",
+              "reputation"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-operations",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.3.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.3.4-customer-service",
+            "title": "3.3.4 Good customer service",
+            "description": "Methods of good service (product knowledge, customer engagement, post-sales services), benefits of good customer service, dangers of poor customer service. Role of ICT (websites, e-commerce, social media).",
+            "keyTerms": [
+              "customer service",
+              "product knowledge",
+              "customer engagement",
+              "post-sales service",
+              "customer loyalty",
+              "e-commerce",
+              "social media"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/business-operations",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.3.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "human-resources",
+        "title": "4. Human resources",
+        "description": "The purpose of human resources, its role within business and how it influences business activity.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/human-resources",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 3.4 — Human resources",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3.4.1-organisational-structures",
+            "title": "3.4.1 Organisational structures",
+            "description": "Organisational structures, appropriateness of organisational structures, centralisation and decentralisation.",
+            "keyTerms": [
+              "organisational structure",
+              "span of control",
+              "chain of command",
+              "delayering",
+              "delegation",
+              "tall structure",
+              "flat structure",
+              "centralisation",
+              "decentralisation"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/human-resources",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.4.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.4.2-recruitment-selection",
+            "title": "3.4.2 Recruitment and selection of employees",
+            "description": "The need for recruitment, methods of recruitment and selection of employees, contracts of employment.",
+            "keyTerms": [
+              "internal recruitment",
+              "external recruitment",
+              "job analysis",
+              "job description",
+              "person specification",
+              "selection",
+              "full-time",
+              "part-time",
+              "zero hours contract"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/human-resources",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.4.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.4.3-motivating-employees",
+            "title": "3.4.3 Motivating employees",
+            "description": "Importance of motivation in the workforce, financial methods (salary, wage, commission, profit sharing), non-financial methods (management styles, training, responsibility, fringe benefits).",
+            "keyTerms": [
+              "motivation",
+              "salary",
+              "wage",
+              "commission",
+              "profit sharing",
+              "fringe benefits",
+              "staff retention",
+              "productivity"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/human-resources",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.4.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.4.4-training",
+            "title": "3.4.4 Training",
+            "description": "Importance of training the workforce, types of training (induction, on the job, off the job).",
+            "keyTerms": [
+              "induction training",
+              "on the job training",
+              "off the job training",
+              "productivity",
+              "staff retention"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/human-resources",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.4.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "title": "5. Marketing",
+        "description": "The purpose of marketing, its role within business and how it influences business activity.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/marketing",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 3.5 — Marketing",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3.5.1-identifying-customers",
+            "title": "3.5.1 Identifying and understanding customers",
+            "description": "The importance of identifying and satisfying customer needs to provide products customers will buy, increase sales, select the correct marketing mix, avoid costly mistakes and be competitive.",
+            "keyTerms": [
+              "customer needs",
+              "target market",
+              "marketing mix",
+              "competitive advantage"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/marketing",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.5.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.5.2-segmentation",
+            "title": "3.5.2 Segmentation",
+            "description": "Types of segmentation: gender, age, location, income.",
+            "keyTerms": [
+              "market segmentation",
+              "gender",
+              "age",
+              "location",
+              "income",
+              "target market"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/marketing",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.5.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.5.3-market-research",
+            "title": "3.5.3 The purpose and methods of market research",
+            "description": "Purpose of market research (demand, competition, target market). Primary methods (questionnaires, surveys, interviews, focus groups) and secondary methods (internet, newspapers). Qualitative vs quantitative research.",
+            "keyTerms": [
+              "market research",
+              "primary research",
+              "secondary research",
+              "questionnaire",
+              "survey",
+              "focus group",
+              "qualitative",
+              "quantitative",
+              "market size",
+              "market share"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/marketing",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.5.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.5.4-marketing-mix",
+            "title": "3.5.4 The elements of the marketing mix: price, product, promotion and place (4Ps)",
+            "description": "Pricing methods (skimming, penetration, competitive, loss leader, cost-plus), product (USP, brand, product life cycle, Boston Matrix), promotion (advertising, PR, sales promotion, sponsorship, social media), place (retailers, wholesalers, telesales, e-commerce, m-commerce).",
+            "keyTerms": [
+              "marketing mix",
+              "4Ps",
+              "price skimming",
+              "penetration pricing",
+              "competitive pricing",
+              "loss leader",
+              "cost-plus",
+              "USP",
+              "brand image",
+              "product life cycle",
+              "Boston Matrix",
+              "advertising",
+              "sales promotion",
+              "sponsorship",
+              "social media",
+              "distribution",
+              "e-commerce",
+              "m-commerce"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/marketing",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.5.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "finance",
+        "title": "6. Finance",
+        "description": "The purpose of the finance function, its role within business and how it influences business activity.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/finance",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 3.6 — Finance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "3.6.1-sources-of-finance",
+            "title": "3.6.1 Sources of finance",
+            "description": "Internal and external sources of finance: family and friends, retained profit, new share issue, loans, mortgages, selling assets, overdrafts, trade credit, hire purchase, government grants.",
+            "keyTerms": [
+              "internal finance",
+              "external finance",
+              "retained profit",
+              "share issue",
+              "loan",
+              "overdraft",
+              "trade credit",
+              "hire purchase",
+              "government grant"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/finance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.6.1",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.6.2-cash-flow",
+            "title": "3.6.2 Cash flow",
+            "description": "Importance of cash, interpreting cash flow forecasts, difference between cash and profit. Cash inflows and outflows, net cash flow, opening and closing balance.",
+            "keyTerms": [
+              "cash flow",
+              "cash flow forecast",
+              "cash inflow",
+              "cash outflow",
+              "net cash flow",
+              "opening balance",
+              "closing balance",
+              "overdraft",
+              "profit vs cash"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/finance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.6.2",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.6.3-financial-terms-calculations",
+            "title": "3.6.3 Financial terms and calculations",
+            "description": "Variable costs, fixed costs, total costs, revenue, profit, loss, average rate of return, break-even analysis.",
+            "keyTerms": [
+              "variable costs",
+              "fixed costs",
+              "total costs",
+              "revenue",
+              "profit",
+              "loss",
+              "average rate of return",
+              "break-even",
+              "margin of safety"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/finance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.6.3",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3.6.4-financial-performance",
+            "title": "3.6.4 Analysing the financial performance of a business",
+            "description": "Purpose and components of financial statements, income statement, statement of financial position, gross profit margin and net profit margin calculations.",
+            "keyTerms": [
+              "financial statements",
+              "income statement",
+              "statement of financial position",
+              "assets",
+              "liabilities",
+              "gross profit margin",
+              "net profit margin"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content/finance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 3.6.4",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Business",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Business (8132) Specification",
+      "pageRef": "Section 2.2 — Assessments",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: Influences of operations and HRM on business activity",
+        "durationMinutes": 105,
+        "totalMarks": 90,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 2.2 — Paper 1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: Multiple choice and short answer questions",
+            "marks": 20,
+            "questionTypes": [
+              "multiple choice questions",
+              "short answer questions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 2.2 — Paper 1 question structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: Case study/data response stimuli",
+            "marks": 34,
+            "questionTypes": [
+              "case study questions",
+              "data response questions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 2.2 — Paper 1 question structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1C",
+            "title": "Section C: Case study/data response stimuli",
+            "marks": 36,
+            "questionTypes": [
+              "case study questions",
+              "data response questions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 2.2 — Paper 1 question structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Paper 2: Influences of marketing and finance on business activity",
+        "durationMinutes": 105,
+        "totalMarks": 90,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 2.2 — Paper 2",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Section A: Multiple choice and short answer questions",
+            "marks": 20,
+            "questionTypes": [
+              "multiple choice questions",
+              "short answer questions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 2.2 — Paper 2 question structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Section B: Case study/data response stimuli",
+            "marks": 34,
+            "questionTypes": [
+              "case study questions",
+              "data response questions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 2.2 — Paper 2 question structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2C",
+            "title": "Section C: Case study/data response stimuli",
+            "marks": 36,
+            "questionTypes": [
+              "case study questions",
+              "data response questions"
+            ],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Business (8132) Specification",
+              "pageRef": "Section 2.2 — Paper 2 question structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-30",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Business",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Business (8132) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-30",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of business concepts and issues.",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of business concepts and issues to a variety of contexts.",
+        "weightingMin": 35,
+        "weightingMax": 35,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse and evaluate business information and issues to demonstrate understanding of business activity, make judgements and draw conclusions.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Business (8132) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-30",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Business",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "paperCode": "8132/1",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8132/1 BUSINESS PAPER 1 row (max 90 marks)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-30",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 67,
+          "maxMark": 90,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 62,
+          "maxMark": 66,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 58,
+          "maxMark": 61,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 52,
+          "maxMark": 57,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 46,
+          "maxMark": 51,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 41,
+          "maxMark": 45,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 29,
+          "maxMark": 40,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 18,
+          "maxMark": 28,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 7,
+          "maxMark": 17,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8132/1 BUSINESS PAPER 1 row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-30",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}
