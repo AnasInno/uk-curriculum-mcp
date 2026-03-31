@@ -1,0 +1,401 @@
+{
+  "board": "Eduqas",
+  "subject": "English Language",
+  "level": "GCSE",
+  "specCode": "C700QS",
+  "firstExamYear": 2017,
+  "specification": {
+    "topicAreas": [
+      {
+        "name": "Component 1: 20th Century Literature Reading and Creative Prose Writing",
+        "code": "C700U10",
+        "subtopics": [
+          {
+            "name": "Section A: Reading",
+            "code": "C700U10-A",
+            "description": "Understanding of one unseen extract from a 20th century literary prose text (about 60-100 lines), assessed through a range of structured questions. Assesses AO1, AO2 and AO4.",
+            "_meta": {
+              "source": "Eduqas GCSE English Language Specification",
+              "pageRef": "p.8",
+              "confidence": "high",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "name": "Section B: Creative Prose Writing",
+            "code": "C700U10-B",
+            "description": "One creative prose writing task (40 marks) selected from a choice of four titles, giving opportunities for writing to describe and narrate, and imaginative and creative use of language. The response should be a narrative/recount. Assesses AO5 and AO6.",
+            "_meta": {
+              "source": "Eduqas GCSE English Language Specification",
+              "pageRef": "p.8",
+              "confidence": "high",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "Eduqas GCSE English Language Specification",
+          "pageRef": "p.2, p.8",
+          "confidence": "high",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "name": "Component 2: 19th and 21st Century Non-Fiction Reading and Transactional/Persuasive Writing",
+        "code": "C700U20",
+        "subtopics": [
+          {
+            "name": "Section A: Reading",
+            "code": "C700U20-A",
+            "description": "Understanding of two high-quality unseen non-fiction texts (about 900-1200 words in total), one from the 19th century and one from the 21st century, assessed through a range of structured questions. Non-fiction texts may include letters, extracts from autobiographies or biographies, diaries, reports, articles and digital and multi-modal texts. Assesses AO1, AO2, AO3 and AO4.",
+            "_meta": {
+              "source": "Eduqas GCSE English Language Specification",
+              "pageRef": "p.8",
+              "confidence": "high",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "name": "Section B: Transactional/Persuasive Writing",
+            "code": "C700U20-B",
+            "description": "Two equally weighted compulsory transactional, persuasive and/or discursive writing tasks (20 marks each). Candidates write for a range of audiences and purposes, adapting style to form and to real-life contexts in letters, articles, reviews, speeches, etc. Assesses AO5 and AO6.",
+            "_meta": {
+              "source": "Eduqas GCSE English Language Specification",
+              "pageRef": "p.8",
+              "confidence": "high",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "Eduqas GCSE English Language Specification",
+          "pageRef": "p.2, p.8",
+          "confidence": "high",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "name": "Component 3: Spoken Language",
+        "code": "C700U30",
+        "subtopics": [
+          {
+            "name": "Spoken Language Endorsement",
+            "code": "C700U30-SL",
+            "description": "One formal presentation or speech on a specific topic, including responses to questions and feedback. Assessed holistically as Pass, Merit, Distinction or Not Classified. Standard English should be a feature of all parts of the candidates' work. Assesses AO7, AO8 and AO9. Does not form part of the final mark and grade; reported separately alongside the qualification grade.",
+            "_meta": {
+              "source": "Eduqas GCSE English Language Specification",
+              "pageRef": "p.9, p.11",
+              "confidence": "high",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "_meta": {
+          "source": "Eduqas GCSE English Language Specification",
+          "pageRef": "p.2, p.9",
+          "confidence": "high",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "1",
+      "name": "Component 1: 20th Century Literature Reading and Creative Prose Writing",
+      "duration": "1h 45m",
+      "totalMarks": 80,
+      "percentage": 40,
+      "calculator": false,
+      "sections": [
+        {
+          "name": "Section A: Reading",
+          "marks": 40,
+          "percentage": 20,
+          "description": "Structured questions on one unseen 20th century literary prose extract"
+        },
+        {
+          "name": "Section B: Creative Prose Writing",
+          "marks": 40,
+          "percentage": 20,
+          "description": "One creative writing task from a choice of four titles"
+        }
+      ],
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.2, p.8",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Component 2: 19th and 21st Century Non-Fiction Reading and Transactional/Persuasive Writing",
+      "duration": "2h",
+      "totalMarks": 80,
+      "percentage": 60,
+      "calculator": false,
+      "sections": [
+        {
+          "name": "Section A: Reading",
+          "marks": 40,
+          "percentage": 30,
+          "description": "Structured questions on two unseen non-fiction texts (19th and 21st century)"
+        },
+        {
+          "name": "Section B: Transactional/Persuasive Writing",
+          "marks": 40,
+          "percentage": 30,
+          "description": "Two compulsory transactional/persuasive writing tasks (20 marks each)"
+        }
+      ],
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.2, p.8",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Component 3: Spoken Language",
+      "duration": "Approx. 10 minutes",
+      "totalMarks": 0,
+      "percentage": 0,
+      "calculator": false,
+      "notes": "Non-examination assessment. Reported as a separate endorsement grade (Pass, Merit, Distinction or Not Classified). Does not contribute to the overall GCSE grade.",
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.9, p.11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    }
+  ],
+  "assessmentObjectives": [
+    {
+      "id": "AO1",
+      "title": "Reading: Identify and interpret",
+      "description": "Identify and interpret explicit and implicit information and ideas. Select and synthesise evidence from different texts.",
+      "weightingMin": 10,
+      "weightingMax": 10,
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10-11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO2",
+      "title": "Reading: Language and structure analysis",
+      "description": "Explain, comment on and analyse how writers use language and structure to achieve effects and influence readers, using relevant subject terminology to support their views.",
+      "weightingMin": 20,
+      "weightingMax": 20,
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10-11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO3",
+      "title": "Reading: Compare writers' ideas",
+      "description": "Compare writers' ideas and perspectives, as well as how these are conveyed, across two or more texts.",
+      "weightingMin": 7.5,
+      "weightingMax": 7.5,
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10-11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO4",
+      "title": "Reading: Evaluate texts critically",
+      "description": "Evaluate texts critically and support this with appropriate textual references.",
+      "weightingMin": 12.5,
+      "weightingMax": 12.5,
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10-11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO5",
+      "title": "Writing: Communicate clearly and effectively",
+      "description": "Communicate clearly, effectively, and imaginatively, selecting and adapting tone, style and register for different forms, purposes and audiences. Organise information and ideas, using structural and grammatical features to support coherence and cohesion of texts.",
+      "weightingMin": 30,
+      "weightingMax": 30,
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10-11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO6",
+      "title": "Writing: Vocabulary, sentence structures, spelling and punctuation",
+      "description": "Candidates must use a range of vocabulary and sentence structures for clarity, purpose and effect, with accurate spelling and punctuation. This requirement must constitute 20% of the marks for each specification as a whole.",
+      "weightingMin": 20,
+      "weightingMax": 20,
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10-11",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO7",
+      "title": "Spoken Language: Presentation skills",
+      "description": "Demonstrate presentation skills in a formal setting.",
+      "weightingMin": 0,
+      "weightingMax": 0,
+      "notes": "Unweighted in qualification. Assessed as part of the Spoken Language endorsement.",
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO8",
+      "title": "Spoken Language: Listen and respond",
+      "description": "Listen and respond appropriately to spoken language, including to questions and feedback to presentations.",
+      "weightingMin": 0,
+      "weightingMax": 0,
+      "notes": "Unweighted in qualification. Assessed as part of the Spoken Language endorsement.",
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "id": "AO9",
+      "title": "Spoken Language: Spoken Standard English",
+      "description": "Use spoken Standard English effectively in speeches and presentations.",
+      "weightingMin": 0,
+      "weightingMax": 0,
+      "notes": "Unweighted in qualification. Assessed as part of the Spoken Language endorsement.",
+      "_meta": {
+        "source": "Eduqas GCSE English Language Specification",
+        "pageRef": "p.10",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    }
+  ],
+  "gradeBoundaries": [
+    {
+      "year": 2024,
+      "series": "Summer 2024",
+      "overall": {
+        "9": 150,
+        "8": 138,
+        "7": 126,
+        "6": 112,
+        "5": 98,
+        "4": 84,
+        "3": 64,
+        "2": 44,
+        "1": 24
+      },
+      "maxMark": 200,
+      "components": {
+        "Component 1": {
+          "code": "C700U10",
+          "maxMark": 80,
+          "weightingFactor": 1.0,
+          "9": 60,
+          "8": 55,
+          "7": 51,
+          "6": 46,
+          "5": 39,
+          "4": 33,
+          "3": 26,
+          "2": 18,
+          "1": 10
+        },
+        "Component 2": {
+          "code": "C700U20",
+          "maxMark": 80,
+          "weightingFactor": 1.5,
+          "9": 60,
+          "8": 55,
+          "7": 50,
+          "6": 44,
+          "5": 39,
+          "4": 34,
+          "3": 25,
+          "2": 17,
+          "1": 9
+        }
+      },
+      "_meta": {
+        "source": "Eduqas GCSE Grade Points June 2024",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    },
+    {
+      "year": 2024,
+      "series": "November 2024",
+      "overall": {
+        "9": 148,
+        "8": 136,
+        "7": 124,
+        "6": 110,
+        "5": 96,
+        "4": 82,
+        "3": 61,
+        "2": 41,
+        "1": 21
+      },
+      "maxMark": 200,
+      "components": {
+        "Component 1": {
+          "code": "C700U1",
+          "maxMark": 80,
+          "weightingFactor": 1.0,
+          "9": 59,
+          "8": 55,
+          "7": 50,
+          "6": 45,
+          "5": 39,
+          "4": 32,
+          "3": 25,
+          "2": 17,
+          "1": 9
+        },
+        "Component 2": {
+          "code": "C700U2",
+          "maxMark": 80,
+          "weightingFactor": 1.5,
+          "9": 59,
+          "8": 54,
+          "7": 49,
+          "6": 43,
+          "5": 38,
+          "4": 33,
+          "3": 24,
+          "2": 16,
+          "1": 8
+        }
+      },
+      "_meta": {
+        "source": "Eduqas GCSE Grade Points November 2024",
+        "confidence": "high",
+        "tier": "authoritative"
+      }
+    }
+  ]
+}

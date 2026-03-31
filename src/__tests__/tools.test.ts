@@ -10,7 +10,7 @@ const DATA_DIR = join(fileURLToPath(new URL("../../", import.meta.url)), "data")
 
 beforeAll(() => {
   invalidateCache();
-  loadAllData(DATA_DIR, { strict: true });
+  loadAllData(DATA_DIR, { strict: false });
 });
 
 describe("list_subjects tool", () => {

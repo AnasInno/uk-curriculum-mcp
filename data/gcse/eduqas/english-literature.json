@@ -1,0 +1,405 @@
+{
+  "board": "Eduqas",
+  "subject": "English Literature",
+  "level": "GCSE",
+  "specCode": "C720QS",
+  "firstExamYear": 2017,
+  "_meta": {
+    "source": "https://www.eduqas.co.uk/qualifications/english-literature-gcse/",
+    "pageRef": "Eduqas GCSE English Literature qualification page",
+    "confidence": "high",
+    "tier": "untiered",
+    "notes": "WJEC Eduqas GCSE (9-1) English Literature. For teaching from 2015, first award 2017. Untiered (single tier). Component paper codes: C720U10-1 (Component 1), C720U20-1 (Component 2)."
+  },
+  "specification": {
+    "_meta": {
+      "source": "https://www.eduqas.co.uk/media/ryylno20/gcse-english-literature-specification.pdf",
+      "pageRef": "WJEC Eduqas GCSE in ENGLISH LITERATURE SPECIFICATION Teaching from 2015",
+      "confidence": "high",
+      "tier": "untiered"
+    },
+    "topicAreas": [
+      {
+        "id": "component1",
+        "name": "Component 1: Shakespeare and Poetry",
+        "code": "C720U10-1",
+        "_meta": {
+          "source": "https://www.eduqas.co.uk/media/ryylno20/gcse-english-literature-specification.pdf",
+          "pageRef": "Section 2.1 Component 1",
+          "confidence": "high",
+          "tier": "untiered"
+        },
+        "subtopics": [
+          {
+            "id": "component1-sectionA",
+            "name": "Section A: Shakespeare",
+            "description": "Candidates answer on one Shakespeare play from the prescribed list. Questions are source-based ('exploding extract') combining an extract question and an extended essay question assessing knowledge of the complete text.",
+            "assessmentObjectives": ["AO1", "AO2", "AO4"],
+            "weighting": "20%",
+            "marks": 40,
+            "prescribedTexts": [
+              {
+                "title": "Romeo and Juliet",
+                "author": "William Shakespeare"
+              },
+              {
+                "title": "Macbeth",
+                "author": "William Shakespeare"
+              },
+              {
+                "title": "Othello",
+                "author": "William Shakespeare"
+              },
+              {
+                "title": "Much Ado About Nothing",
+                "author": "William Shakespeare"
+              },
+              {
+                "title": "Henry V",
+                "author": "William Shakespeare"
+              },
+              {
+                "title": "The Merchant of Venice",
+                "author": "William Shakespeare"
+              }
+            ],
+            "_meta": {
+              "source": "https://www.eduqas.co.uk/media/dv4jhle3/11-english-literature-component-1-paper-2019.pdf",
+              "pageRef": "GCSE C720U10-1 ENGLISH LITERATURE COMPONENT 1 Section A pages listing, June 2019 past paper",
+              "confidence": "high",
+              "tier": "untiered",
+              "notes": "Texts confirmed from official 2019 past paper question paper published on eduqas.co.uk. Closed-book: candidates provided with extract as part of exam."
+            }
+          },
+          {
+            "id": "component1-sectionB",
+            "name": "Section B: Poetry from 1789 to the Present Day (Anthology)",
+            "description": "Candidates answer two questions on the WJEC Eduqas Poetry Anthology. Question (a) asks about a named poem given in the paper; question (b) requires comparison of that poem with another thematically linked poem from the anthology of their choice. The anthology is not permitted in the examination room.",
+            "assessmentObjectives": ["AO1", "AO2", "AO3"],
+            "weighting": "20%",
+            "marks": 40,
+            "notes": "One question on a given named poem (15 marks) + one comparative question linking to a second poem of own choice from the anthology (25 marks). WJEC Eduqas Poetry Anthology is studied in full.",
+            "_meta": {
+              "source": "https://www.eduqas.co.uk/media/txnpqebt/component-1-section-b-the-poetry-anthology.pdf",
+              "pageRef": "WJEC Eduqas GCSE in ENGLISH LITERATURE COMPONENT 1 SECTION B: POETRY FROM 1789",
+              "confidence": "high",
+              "tier": "untiered"
+            }
+          }
+        ]
+      },
+      {
+        "id": "component2",
+        "name": "Component 2: Post-1914 Prose/Drama, 19th Century Prose and Unseen Poetry",
+        "code": "C720U20-1",
+        "_meta": {
+          "source": "https://www.eduqas.co.uk/media/ryylno20/gcse-english-literature-specification.pdf",
+          "pageRef": "Section 2.2 Component 2",
+          "confidence": "high",
+          "tier": "untiered"
+        },
+        "subtopics": [
+          {
+            "id": "component2-sectionA",
+            "name": "Section A: Post-1914 Prose/Drama",
+            "description": "Candidates answer one source-based question on the post-1914 prose or drama text they have studied. The question combines an extract-based element with extended essay assessing knowledge of the complete text.",
+            "assessmentObjectives": ["AO1", "AO2", "AO4"],
+            "weighting": "20%",
+            "marks": 40,
+            "prescribedTexts": [
+              {
+                "title": "Lord of the Flies",
+                "author": "William Golding",
+                "genre": "prose"
+              },
+              {
+                "title": "An Inspector Calls",
+                "author": "J.B. Priestley",
+                "genre": "drama"
+              },
+              {
+                "title": "Blood Brothers",
+                "author": "Willy Russell",
+                "genre": "drama"
+              },
+              {
+                "title": "The Curious Incident of the Dog in the Night-Time",
+                "author": "Mark Haddon",
+                "genre": "prose"
+              },
+              {
+                "title": "A Taste of Honey",
+                "author": "Shelagh Delaney",
+                "genre": "drama"
+              },
+              {
+                "title": "Anita and Me",
+                "author": "Meera Syal",
+                "genre": "prose"
+              },
+              {
+                "title": "Never Let Me Go",
+                "author": "Kazuo Ishiguro",
+                "genre": "prose"
+              },
+              {
+                "title": "Boys Don't Cry",
+                "author": "Malorie Blackman",
+                "genre": "prose"
+              },
+              {
+                "title": "Leave Taking",
+                "author": "Winsome Pinnock",
+                "genre": "drama"
+              }
+            ],
+            "_meta": {
+              "source": "https://pastpapers.download.wjec.co.uk/S24/S24-C720U20-1.pdf",
+              "pageRef": "GCSE C720U201-01 Component 2 Section A text list, May 2024; corroborated by Eduqas Examiners' Report Summer 2025 (eduqas.co.uk/media/tbdhukmq/eduqas-gcse-english-literature-s25-e.pdf) and WJEC drama exemplar (wjec.co.uk/media/prcje0rw/post-1914-drama-exemplar.pdf)",
+              "confidence": "high",
+              "tier": "untiered",
+              "notes": "Text list confirmed from official 2024 past paper cover pages and 2025 examiner report. 'Boys Don't Cry' and 'Leave Taking' noted as new additions in 2025 examiner report. List may not be exhaustive — consult current spec for full approved list."
+            }
+          },
+          {
+            "id": "component2-sectionB",
+            "name": "Section B: 19th Century Prose",
+            "description": "Candidates answer one source-based question on a 19th-century prose text they have studied. The question combines an extract-based element with extended essay assessing knowledge of the complete text.",
+            "assessmentObjectives": ["AO1", "AO2", "AO3"],
+            "weighting": "20%",
+            "marks": 40,
+            "prescribedTexts": [
+              {
+                "title": "A Christmas Carol",
+                "author": "Charles Dickens"
+              },
+              {
+                "title": "Silas Marner",
+                "author": "George Eliot"
+              },
+              {
+                "title": "The War of the Worlds",
+                "author": "H.G. Wells"
+              },
+              {
+                "title": "Pride and Prejudice",
+                "author": "Jane Austen"
+              },
+              {
+                "title": "Jane Eyre",
+                "author": "Charlotte Brontë"
+              },
+              {
+                "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+                "author": "Robert Louis Stevenson"
+              }
+            ],
+            "_meta": {
+              "source": "https://www.eduqas.co.uk/media/tbdhukmq/eduqas-gcse-english-literature-s25-e.pdf",
+              "pageRef": "Eduqas GCSE Examiners' Report English Literature Summer 2025, Section B commentary",
+              "confidence": "high",
+              "tier": "untiered",
+              "notes": "Texts confirmed from official Eduqas Examiners' Report Summer 2025 published on eduqas.co.uk, and corroborated by June 2022 past paper cover (pmt.physicsandmathstutor.com/download/...Component-2 19th Century Prose)."
+            }
+          },
+          {
+            "id": "component2-sectionC",
+            "name": "Section C: Unseen Poetry",
+            "description": "Candidates answer questions on previously unseen poems (20th/21st century). Two questions: one on a single unseen poem, one comparing two unseen poems or responding to a second unseen poem.",
+            "assessmentObjectives": ["AO1", "AO2"],
+            "weighting": "20%",
+            "marks": 40,
+            "_meta": {
+              "source": "https://www.savemyexams.com/gcse/english-literature/wjec-eduqas/15/revision-notes/post-1914-prosedrama/post-1914-prosedrama-overview/component-2-section-a-overview-post-1914-prosedrama/",
+              "pageRef": "Save My Exams Eduqas Component 2 overview — Section C Unseen Poetry description",
+              "confidence": "high",
+              "tier": "untiered",
+              "notes": "Unseen poems are 20th/21st century. Candidates have not studied these poems in advance."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "C1",
+      "code": "C720U10-1",
+      "name": "Component 1: Shakespeare and Poetry",
+      "duration": "2 hours",
+      "durationMinutes": 120,
+      "totalMarks": 80,
+      "weightingPercent": 40,
+      "calculator": false,
+      "openBook": false,
+      "sections": [
+        {
+          "id": "C1-A",
+          "name": "Section A: Shakespeare",
+          "marks": 40,
+          "weightingPercent": 20,
+          "assessmentObjectives": ["AO1", "AO2", "AO4"],
+          "notes": "AO1 and AO2 equally weighted. AO4 (SPaG) worth 5 marks within the 40-mark total."
+        },
+        {
+          "id": "C1-B",
+          "name": "Section B: Poetry Anthology",
+          "marks": 40,
+          "weightingPercent": 20,
+          "assessmentObjectives": ["AO1", "AO2", "AO3"],
+          "notes": "Part (a): one named poem question (15 marks). Part (b): comparative question linking to a second poem of own choice (25 marks). AO1 and AO2 equally weighted across section."
+        }
+      ],
+      "_meta": {
+        "source": "https://www.eduqas.co.uk/media/ryylno20/gcse-english-literature-specification.pdf",
+        "pageRef": "WJEC Eduqas GCSE English Literature Specification, Summary of Assessment / Section 3",
+        "confidence": "high",
+        "tier": "untiered",
+        "notes": "Confirmed by Save My Exams component overview (savemyexams.com) and official Eduqas past papers."
+      }
+    },
+    {
+      "id": "C2",
+      "code": "C720U20-1",
+      "name": "Component 2: Post-1914 Prose/Drama, 19th Century Prose and Unseen Poetry",
+      "duration": "2 hours 30 minutes",
+      "durationMinutes": 150,
+      "totalMarks": 120,
+      "weightingPercent": 60,
+      "calculator": false,
+      "openBook": false,
+      "sections": [
+        {
+          "id": "C2-A",
+          "name": "Section A: Post-1914 Prose/Drama",
+          "marks": 40,
+          "weightingPercent": 20,
+          "assessmentObjectives": ["AO1", "AO2", "AO4"],
+          "notes": "AO1 and AO2 equally weighted. AO4 (SPaG) worth 5 marks within the 40-mark total. Source-based question."
+        },
+        {
+          "id": "C2-B",
+          "name": "Section B: 19th Century Prose",
+          "marks": 40,
+          "weightingPercent": 20,
+          "assessmentObjectives": ["AO1", "AO2", "AO3"],
+          "notes": "AO1, AO2, and AO3 assessed. Context (AO3) specifically required. Source-based question."
+        },
+        {
+          "id": "C2-C",
+          "name": "Section C: Unseen Poetry",
+          "marks": 40,
+          "weightingPercent": 20,
+          "assessmentObjectives": ["AO1", "AO2"],
+          "notes": "Two unseen poems. AO1 and AO2 assessed. No AO3 or AO4 in this section."
+        }
+      ],
+      "_meta": {
+        "source": "https://www.savemyexams.com/gcse/english-literature/wjec-eduqas/15/revision-notes/post-1914-prosedrama/post-1914-prosedrama-overview/component-2-section-a-overview-post-1914-prosedrama/",
+        "pageRef": "Save My Exams Eduqas Component 2 Section A overview — confirmed structure 2h30m, 60%, three sections",
+        "confidence": "high",
+        "tier": "untiered",
+        "notes": "Corroborated by lawrencesheriffschool.net C2 breakdown document and official Eduqas past paper front covers."
+      }
+    }
+  ],
+  "assessmentObjectives": [
+    {
+      "id": "AO1",
+      "title": "Informed Personal Response and Textual Evidence",
+      "description": "Read, understand and respond to texts. Students should be able to: maintain a critical style and develop an informed personal response; use textual references, including quotations, to support and illustrate interpretations.",
+      "weightingPercent": {
+        "min": 30,
+        "max": 35,
+        "notes": "Approx. 30–35% of overall qualification marks. AO1 and AO2 are equally weighted within each assessed question."
+      },
+      "assessedIn": ["C1-A", "C1-B", "C2-A", "C2-B", "C2-C"],
+      "_meta": {
+        "source": "https://www.eduqas.co.uk/media/ryylno20/gcse-english-literature-specification.pdf",
+        "pageRef": "Section 3.1 Assessment Objectives and Weightings, Eduqas GCSE English Literature Specification",
+        "confidence": "high",
+        "tier": "untiered",
+        "notes": "Percentage range based on Ofqual subject-level requirements for GCSE English Literature (DfE/Ofqual: AO1 approx 30–35%). Exact Eduqas weighting confirmed as aligned with national requirements."
+      }
+    },
+    {
+      "id": "AO2",
+      "title": "Language, Form and Structure Analysis",
+      "description": "Analyse the language, form and structure used by a writer to create meanings and effects, using relevant subject terminology where appropriate.",
+      "weightingPercent": {
+        "min": 30,
+        "max": 35,
+        "notes": "Approx. 30–35% of overall qualification marks. AO1 and AO2 are equally weighted within each assessed question across all sections."
+      },
+      "assessedIn": ["C1-A", "C1-B", "C2-A", "C2-B", "C2-C"],
+      "_meta": {
+        "source": "https://www.eduqas.co.uk/media/ryylno20/gcse-english-literature-specification.pdf",
+        "pageRef": "Section 3.1 Assessment Objectives and Weightings, Eduqas GCSE English Literature Specification",
+        "confidence": "high",
+        "tier": "untiered",
+        "notes": "Corroborated by Eduqas CPD assessment grids (eduqas.co.uk/media/yeshkdiw/12-gcse-english-literature-assessment-grids.pdf): 'AO1 and AO2 are equally weighted in this question.'"
+      }
+    },
+    {
+      "id": "AO3",
+      "title": "Contexts",
+      "description": "Show understanding of the relationships between texts and the contexts in which they were written.",
+      "weightingPercent": {
+        "min": 15,
+        "max": 20,
+        "notes": "Approx. 15–20% of overall qualification marks (Ofqual requirement). Assessed only in Component 1 Section B (Poetry Anthology) and Component 2 Section B (19th Century Prose)."
+      },
+      "assessedIn": ["C1-B", "C2-B"],
+      "_meta": {
+        "source": "https://assets.publishing.service.gov.uk/media/5a7ca069e5274a29d8363d20/GCSE_English_literature.pdf",
+        "pageRef": "Ofqual GCSE English Literature subject content and assessment objectives — AO3 weighting 15–20%",
+        "confidence": "high",
+        "tier": "untiered",
+        "notes": "DfE/Ofqual mandated range. AO3 not assessed in Shakespeare (Section A) or Unseen Poetry (Section C)."
+      }
+    },
+    {
+      "id": "AO4",
+      "title": "Spelling, Punctuation and Grammar (SPaG)",
+      "description": "Use a range of vocabulary and sentence structures for clarity, purpose and effect, with accurate spelling and punctuation.",
+      "weightingPercent": {
+        "min": 5,
+        "max": 5,
+        "notes": "Exactly 5% of overall qualification marks (Ofqual requirement). Assessed only in Component 1 Section A (Shakespeare) and Component 2 Section A (Post-1914 Prose/Drama). Worth 5 marks within the 40-mark section total."
+      },
+      "assessedIn": ["C1-A", "C2-A"],
+      "_meta": {
+        "source": "https://www.eduqas.co.uk/media/yeshkdiw/12-gcse-english-literature-assessment-grids.pdf",
+        "pageRef": "GCSE ENGLISH LITERATURE CPD AUTUMN 2017 ASSESSMENT GRIDS — AO4 note",
+        "confidence": "high",
+        "tier": "untiered",
+        "notes": "Confirmed from Eduqas CPD assessment grids: 'This assessment also includes 5 marks for accuracy in spelling, punctuation and the use of vocabulary and sentence structures (AO4).' 5% Ofqual mandated."
+      }
+    }
+  ],
+  "gradeBoundaries": [
+    {
+      "year": 2024,
+      "series": "Summer 2024",
+      "overall": {
+        "maxMark": 200,
+        "grade9": 148,
+        "grade8": 136,
+        "grade7": 124,
+        "grade6": 110,
+        "grade5": 96,
+        "grade4": 82,
+        "grade3": 60,
+        "grade2": 38,
+        "grade1": 17
+      },
+      "_meta": {
+        "source": "https://files.schudio.com/balshaws/files/documents/Grade_Boundaries_2024_-_All_Exam_Boards(1).pdf",
+        "pageRef": "Grade Boundaries 2024 - All Exam Boards, Balshaw's School document — EDUQAS C720QS ENGLISH LITERATURE row",
+        "confidence": "medium",
+        "tier": "untiered",
+        "notes": "Source is a third-party school-compiled collation of official grade boundaries. Original official data published by Eduqas at eduqas.co.uk/media/giydmniq/eduqas-gcse-grade-points-june-2024.pdf on results day. Historical data only — must NOT be used to predict future grade boundaries. Maximum mark of 200 is qualification-level scaled mark (Component 1 raw 80 marks × weighting factor + Component 2 raw 120 marks × weighting factor = 200 scaled)."
+      }
+    }
+  ]
+}
