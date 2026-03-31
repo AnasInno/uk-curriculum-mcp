@@ -1,0 +1,496 @@
+{
+  "board": "AQA",
+  "subject": "Sociology",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+    "pageRef": "Sections 4.1–4.3",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-31",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Sociology",
+    "level": "GCSE",
+    "code": "8192",
+    "title": "AQA GCSE Sociology",
+    "firstExamYear": 2019,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+      "pageRef": "Section 4.1 — Aims and learning outcomes",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "paper1-families-and-education",
+        "title": "Paper 1: The Sociology of Families and Education",
+        "description": "Students study the sociology of families, the sociology of education, and relevant areas of social theory and methodology. Students are expected to draw on knowledge and understanding of the entire course of study to show a deeper understanding of these topics.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 2.2 — Paper 1: The sociology of families and education",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "the-sociological-approach",
+            "title": "3.1 The sociological approach",
+            "description": "Debates within sociology including conflict versus consensus. How sociological knowledge changes over time. The work of key classical sociologists Durkheim, Marx and Weber. Different sociological perspectives: feminism, functionalism, interactionism and Marxism. Key sociological terms and concepts: society, socialisation, norms, values, roles, labelling, discrimination, power and authority.",
+            "keyTerms": ["sociology", "socialisation", "norms", "values", "roles", "labelling", "discrimination", "power", "authority", "consensus", "conflict", "feminism", "functionalism", "interactionism", "Marxism", "Durkheim", "Marx", "Weber"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/the-sociological-approach",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.1 — The sociological approach",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "social-structures-processes-issues",
+            "title": "3.2 Social structures, social processes and social issues",
+            "description": "Understanding social structures, social processes and social issues within a UK and global context. Interrelationships between the core areas of sociology.",
+            "keyTerms": ["social structure", "social process", "social issue", "social control", "inequality", "power"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/social-structures-social-processes-and-social-issues",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.2 — Social structures, social processes and social issues",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "families",
+            "title": "3.3 Families",
+            "description": "Functions of families, family forms, conjugal role relationships, changing relationships within families, criticisms of families, and divorce. Key theorists include Parsons, Rapoports, Oakley, Willmott and Young, Zaretsky, Delphy and Leonard.",
+            "keyTerms": ["nuclear family", "extended family", "reconstituted family", "lone parent family", "same-sex family", "conjugal roles", "domestic division of labour", "primary socialisation", "functionalism", "feminism", "Marxism", "divorce", "marital breakdown", "family diversity", "symmetrical family", "Parsons", "Oakley", "Willmott and Young", "Zaretsky", "Delphy and Leonard", "Rapoports"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/families",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.3 — Families",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "education",
+            "title": "3.4 Education",
+            "description": "Roles and functions of education, education and capitalism, educational achievement, and processes within schools. Key theorists include Durkheim, Parsons, Bowles and Gintis, Halsey, Ball, and Willis.",
+            "keyTerms": ["education", "social mobility", "social cohesion", "meritocracy", "correspondence principle", "hidden curriculum", "streaming", "setting", "labelling", "self-fulfilling prophecy", "educational achievement", "class", "gender", "ethnicity", "counter school culture", "Durkheim", "Parsons", "Bowles and Gintis", "Halsey", "Ball", "Willis"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/education",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.4 — Education",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-crime-deviance-stratification",
+        "title": "Paper 2: The Sociology of Crime and Deviance and Social Stratification",
+        "description": "Students study the sociology of crime and deviance, the sociology of social stratification, and relevant areas of social theory and methodology. Students are expected to draw on knowledge and understanding of the entire course of study to show a deeper understanding of these topics.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 2.2 — Paper 2: The sociology of crime and deviance and social stratification",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "crime-and-deviance",
+            "title": "3.5 Crime and deviance",
+            "description": "Social construction of crime and deviance, social control, criminal and deviant behaviour, and data on crime. Key theorists include Merton, Becker, Heidensohn, Albert Cohen, and Carlen.",
+            "keyTerms": ["crime", "deviance", "social construction", "anomie", "labelling", "subcultural theory", "interactionism", "formal social control", "informal social control", "dark figure of crime", "official statistics", "crime survey", "gender and crime", "ethnicity and crime", "age and crime", "class and crime", "Merton", "Becker", "Heidensohn", "Albert Cohen", "Carlen"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/crime-and-deviance",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.5 — Crime and deviance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "social-stratification",
+            "title": "3.6 Social stratification",
+            "description": "Functionalist theory of stratification, socio-economic class, life chances, poverty, power and authority, and power relationships. Key theorists include Davis and Moore, Marx, Weber, Devine, Townsend, Murray, and Walby.",
+            "keyTerms": ["social stratification", "social class", "socio-economic class", "life chances", "poverty", "relative deprivation", "absolute poverty", "underclass", "power", "authority", "traditional authority", "charismatic authority", "rational-legal authority", "patriarchy", "gender inequality", "class inequality", "ethnic inequality", "Davis and Moore", "Marx", "Weber", "Devine", "Townsend", "Murray", "Walby"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/social-stratification",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.6 — Social stratification",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "sociological-research-methods",
+            "title": "3.7 Sociological research methods",
+            "description": "Research design, qualitative and quantitative methods, different types of data, primary and secondary sources, interpretation of data, practical issues, and ethical issues. Applied in contexts of families, education, crime and deviance, and social stratification.",
+            "keyTerms": ["research design", "hypothesis", "pilot study", "sampling", "quantitative methods", "qualitative methods", "questionnaires", "interviews", "observations", "primary data", "secondary data", "official statistics", "non-official statistics", "mixed methods", "validity", "reliability", "representativeness", "ethics", "consent", "confidentiality"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content/sociological-research-methods",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 3.7 — Sociological research methods",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Sociology",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+      "pageRef": "Section 2.2 — Assessments",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: The Sociology of Families and Education",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 2.2 — Paper 1 assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: The Sociology of Families",
+            "marks": 50,
+            "questionTypes": ["multiple choice", "short answer", "extended response"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: The Sociology of Education",
+            "marks": 50,
+            "questionTypes": ["multiple choice", "short answer", "extended response"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Paper 2: The Sociology of Crime and Deviance and Social Stratification",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 2.2 — Paper 2 assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Section A: The Sociology of Crime and Deviance",
+            "marks": 50,
+            "questionTypes": ["multiple choice", "short answer", "extended response"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Section B: The Sociology of Social Stratification",
+            "marks": 50,
+            "questionTypes": ["multiple choice", "short answer", "extended response"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Sociology",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of sociological theories, concepts, evidence and methods.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings for GCSE Sociology",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of sociological theories, concepts, evidence and methods.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings for GCSE Sociology",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse and evaluate sociological theories, concepts, evidence and methods in order to construct arguments, make judgements and draw conclusions.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Sociology (8192) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings for GCSE Sociology",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Sociology",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8192 SOCIOLOGY row (total scaled mark 200)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-31",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 158,
+          "maxMark": 200,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 147,
+          "maxMark": 157,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 136,
+          "maxMark": 146,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 120,
+          "maxMark": 135,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 105,
+          "maxMark": 119,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 90,
+          "maxMark": 104,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 64,
+          "maxMark": 89,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 38,
+          "maxMark": 63,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 12,
+          "maxMark": 37,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8192 SOCIOLOGY row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

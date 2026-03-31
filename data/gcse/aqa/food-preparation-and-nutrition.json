@@ -1,0 +1,621 @@
+{
+  "board": "AQA",
+  "subject": "Food Preparation and Nutrition",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+    "pageRef": "Sections 4.1–4.3",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-31",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Food Preparation and Nutrition",
+    "level": "GCSE",
+    "code": "8585",
+    "title": "AQA GCSE Food Preparation and Nutrition",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+      "pageRef": "Section 4.1 — Aims and learning outcomes",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "food-preparation-skills",
+        "title": "3.1 Food preparation skills",
+        "description": "Students develop a range of practical food preparation skills including general practical skills, knife skills, preparing fruit and vegetables, use of the cooker, use of equipment, cooking methods, preparing, combining and shaping, sauce making, tenderising and marinating, dough, raising agents, setting mixtures.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-preparation-skills",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 3.1 — Food preparation skills",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "general-practical-skills",
+            "title": "3.1.1 General practical skills",
+            "description": "Skills including weighing and measuring, preparing ingredients and equipment, using techniques for fruit and vegetables, meat, fish and alternatives, cooking and finishing dishes.",
+            "keyTerms": ["weighing", "measuring", "preparing ingredients", "cooking techniques", "finishing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-preparation-skills",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.1 — Food preparation skills",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "food-nutrition-and-health",
+        "title": "3.2 Food, nutrition and health",
+        "description": "Macronutrients (proteins, fats, carbohydrates), micronutrients (vitamins, minerals), water and fibre, nutritional needs across life stages, energy balance, diet-related health conditions, dietary guidelines.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-nutrition-and-health",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 3.2 — Food, nutrition and health",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "macronutrients",
+            "title": "3.2.1 Macronutrients",
+            "description": "Proteins (biological value, complementation), lipids (saturated and unsaturated fats), carbohydrates (sugar, starch, NSP/fibre). Functions, sources, effects of excess or deficiency.",
+            "keyTerms": ["protein", "amino acids", "biological value", "complementation", "lipids", "saturated fat", "unsaturated fat", "cholesterol", "carbohydrates", "sugar", "starch", "dietary fibre", "NSP"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-nutrition-and-health",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.2 — Food, nutrition and health",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "micronutrients",
+            "title": "3.2.2 Micronutrients",
+            "description": "Vitamins (A, B group, C, D) and minerals (calcium, iron) — functions, sources, effects of excess or deficiency.",
+            "keyTerms": ["vitamin A", "vitamin B", "vitamin C", "vitamin D", "calcium", "iron", "deficiency", "sources"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-nutrition-and-health",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.2 — Food, nutrition and health",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "diet-and-health",
+            "title": "3.2.3 Diet, nutrition and health",
+            "description": "Energy balance, BMR, PAL, dietary reference values, nutritional needs across different life stages (babies, children, teenagers, adults, elderly, pregnancy), diet-related health conditions (cardiovascular disease, obesity, type 2 diabetes, osteoporosis, dental caries, anaemia), dietary guidelines including the Eatwell Guide.",
+            "keyTerms": ["energy balance", "BMR", "PAL", "DRV", "Eatwell Guide", "cardiovascular disease", "obesity", "type 2 diabetes", "osteoporosis", "dental caries", "anaemia", "pregnancy", "life stages"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-nutrition-and-health",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.2 — Food, nutrition and health",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "food-science",
+        "title": "3.3 Food science",
+        "description": "Cooking of food and heat transfer; functional and chemical properties of food including proteins (denaturation, coagulation, gluten formation, foam formation), carbohydrates (gelatinisation, dextrinisation, caramelisation), fats (shortening, plasticity, aeration, emulsification), raising agents, setting mixtures.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-science",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 3.3 — Food science",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "cooking-and-heat-transfer",
+            "title": "3.3.1 Cooking of food and heat transfer",
+            "description": "Why food is cooked, methods of heat transfer (conduction, convection, radiation), cooking methods and their effects on nutrients and sensory properties.",
+            "keyTerms": ["conduction", "convection", "radiation", "heat transfer", "cooking methods", "nutrient loss"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-science",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.3 — Food science",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "functional-properties-of-food",
+            "title": "3.3.2 Functional and chemical properties of food",
+            "description": "Protein: denaturation, coagulation, gluten formation, foam formation. Carbohydrates: gelatinisation, dextrinisation, caramelisation. Fats: shortening, plasticity, aeration, emulsification. Raising agents: biological (yeast), chemical (baking powder), mechanical (whisking), steam. Setting agents: gelatin, pectin.",
+            "keyTerms": ["denaturation", "coagulation", "gluten", "foam formation", "gelatinisation", "dextrinisation", "caramelisation", "shortening", "plasticity", "aeration", "emulsification", "raising agents", "yeast", "baking powder", "gelatin", "pectin"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-science",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.3 — Food science",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "food-safety",
+        "title": "3.4 Food safety",
+        "description": "Microorganisms and food safety: bacteria, moulds and yeasts. Food poisoning, bacterial contamination and prevention. Food storage, preparation, cooking and preservation. HACCP principles. Food labelling and packaging.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-safety",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 3.4 — Food safety",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "microorganisms-and-food-safety",
+            "title": "3.4.1 Microorganisms and food safety",
+            "description": "Bacteria, moulds and yeasts — beneficial and harmful. Food poisoning bacteria (Salmonella, Campylobacter, E. coli, Listeria, Staphylococcus aureus). Conditions for bacterial growth (food, acidity, temperature, time, oxygen, moisture — FATTOM). Cross contamination and prevention.",
+            "keyTerms": ["bacteria", "mould", "yeast", "Salmonella", "Campylobacter", "E. coli", "Listeria", "Staphylococcus aureus", "FATTOM", "food poisoning", "cross contamination", "temperature control"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-safety",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.4 — Food safety",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "food-storage-preservation",
+            "title": "3.4.2 Buying and storing food, food preservation",
+            "description": "Safe food storage (refrigeration, freezing, dry goods). Food preservation methods (drying, salting, pickling, jam making, vacuum packing, modified atmosphere packaging, canning, cook-chill). Food labelling (use-by, best before, ingredients, nutritional information). HACCP.",
+            "keyTerms": ["refrigeration", "freezing", "food preservation", "drying", "salting", "pickling", "canning", "vacuum packing", "modified atmosphere", "use-by date", "best before", "food labels", "HACCP"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-safety",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.4 — Food safety",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "food-choice",
+        "title": "3.5 Food choice",
+        "description": "Factors affecting food choice: sensory evaluation, food labelling, marketing, cost, religion, culture, ethical and moral issues. Special diets: vegetarian, vegan, coeliac, lactose intolerance, allergies. Influences on food choice including British and international cuisine.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-choice",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 3.5 — Food choice",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "factors-affecting-food-choice",
+            "title": "3.5.1 Factors affecting food choice",
+            "description": "Sensory evaluation (taste, smell, texture, appearance), food labelling, marketing, cost, religion and culture, ethical and moral issues, special dietary needs (vegetarian, vegan, coeliac disease, lactose intolerance, food allergies and intolerances).",
+            "keyTerms": ["sensory evaluation", "taste", "smell", "texture", "appearance", "food labelling", "marketing", "religion", "culture", "vegetarian", "vegan", "coeliac", "lactose intolerance", "food allergy", "food intolerance"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-choice",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.5 — Food choice",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "food-provenance",
+        "title": "3.6 Food provenance",
+        "description": "Food origins and production: where food comes from, food processing, impact of food production on the environment, sustainability, food miles, seasonal food, locally sourced food, Fairtrade, organic food production, food security.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-provenance",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 3.6 — Food provenance",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "food-origins",
+            "title": "3.6.1 Where food comes from",
+            "description": "Primary and secondary processing of food. Food production methods: intensive farming, organic farming, fish farming. Environmental impact of food production: carbon footprint, food miles, packaging waste, sustainability. Food security and its global challenges.",
+            "keyTerms": ["primary processing", "secondary processing", "intensive farming", "organic farming", "fish farming", "carbon footprint", "food miles", "sustainability", "food security", "seasonal food", "Fairtrade"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/subject-content/food-provenance",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 3.6 — Food provenance",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Food Preparation and Nutrition",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+      "pageRef": "Specification at a glance — assessment overview",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "8585W",
+        "title": "Paper 1: Food Preparation and Nutrition (Written exam)",
+        "durationMinutes": 105,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Specification at a glance — Paper 1",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "8585W-S1",
+            "title": "Section A: Multiple choice questions",
+            "marks": 20,
+            "questionTypes": ["multiple choice"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Specification at a glance — Paper 1 structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "8585W-S2",
+            "title": "Section B: Five questions on food preparation and nutrition",
+            "marks": 80,
+            "questionTypes": ["short answer", "extended answer"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Specification at a glance — Paper 1 structure",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8585C",
+        "title": "Paper 2: Food Preparation and Nutrition (Non-Exam Assessment — NEA)",
+        "durationMinutes": 1800,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Specification at a glance — NEA (non-exam assessment)",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "8585C-T1",
+            "title": "Task 1: Food investigation",
+            "marks": 30,
+            "questionTypes": ["non-exam assessment", "practical investigation", "written report"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 4.3.5 — Marking criteria: Task 1 Food investigation",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "8585C-T2",
+            "title": "Task 2: Food preparation assessment",
+            "marks": 70,
+            "questionTypes": ["non-exam assessment", "practical cooking", "portfolio"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+              "pageRef": "Section 4.3.6 — Marking criteria: Task 2 Food preparation assessment",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Food Preparation and Nutrition",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of nutrition, food, cooking and preparation.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of nutrition, food, cooking and preparation.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Plan, prepare, cook and present dishes, combining appropriate techniques.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "AO4",
+        "description": "Analyse and evaluate different aspects of nutrition, food, cooking and preparation including food made by themselves and others.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/food-preparation-and-nutrition/gcse/food-preparation-and-nutrition-8585/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Food Preparation and Nutrition (8585) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Food Preparation and Nutrition",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8585 FOOD PREP AND NUTRITION row (total scaled mark 200)",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-31",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 174,
+          "maxMark": 200,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 160,
+          "maxMark": 173,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 146,
+          "maxMark": 159,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 129,
+          "maxMark": 145,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 112,
+          "maxMark": 128,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 96,
+          "maxMark": 111,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 71,
+          "maxMark": 95,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 46,
+          "maxMark": 70,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 21,
+          "maxMark": 45,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8585 FOOD PREP AND NUTRITION row",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

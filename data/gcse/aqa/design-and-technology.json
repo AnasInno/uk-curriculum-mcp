@@ -1,0 +1,797 @@
+{
+  "board": "AQA",
+  "subject": "Design and Technology",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+    "pageRef": "Sections 4.1–4.4",
+    "confidence": "high",
+    "verifiedDate": "2026-03-31",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Design and Technology",
+    "level": "GCSE",
+    "code": "8552",
+    "title": "AQA GCSE Design and Technology",
+    "firstExamYear": 2019,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+      "pageRef": "Section 4.1 — Aims and learning outcomes",
+      "confidence": "high",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "core-technical-principles",
+        "title": "Core Technical Principles",
+        "description": "Knowledge and understanding of new and emerging technologies, energy generation and storage, developments in new materials, systems approaches to designing, mechanical devices, materials and their working properties.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 3.1 — Core technical principles",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "new-and-emerging-technologies",
+            "title": "New and Emerging Technologies",
+            "description": "Industry, enterprise, sustainability, people, culture, society, environment and production techniques. Impact of new and emerging technologies on industry, people and society, including implications for the environment.",
+            "keyTerms": ["industry 4.0", "automation", "sustainability", "circular economy", "planned obsolescence", "fair trade", "carbon footprint", "enterprise", "globalisation", "crowdfunding"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.1 — New and emerging technologies",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "energy-generation-storage",
+            "title": "Energy Generation and Storage",
+            "description": "Fossil fuels, nuclear power, renewable sources of energy (solar, wind, hydroelectric, tidal, geothermal, biomass). Energy storage: batteries, fuel cells, capacitors.",
+            "keyTerms": ["fossil fuels", "renewable energy", "solar power", "wind turbine", "hydroelectric", "tidal energy", "geothermal", "biomass", "battery", "fuel cell", "capacitor"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.1 — Energy generation and storage",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "developments-in-new-materials",
+            "title": "Developments in New Materials",
+            "description": "Modern materials, smart materials, composite materials and technical textiles. Understanding their working properties and applications.",
+            "keyTerms": ["modern materials", "smart materials", "composite materials", "technical textiles", "graphene", "shape memory alloys", "thermochromic", "photochromic", "piezoelectric", "carbon fibre"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.1 — Developments in new materials",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "systems-approach-to-designing",
+            "title": "Systems Approach to Designing",
+            "description": "Input, process, output. Feedback, open and closed loop systems. Mechanical, electrical/electronic and programmable systems.",
+            "keyTerms": ["input", "process", "output", "feedback", "open loop", "closed loop", "system", "sub-system", "mechanical system", "electronic system", "programmable system"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.1 — Systems approach to designing",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "mechanical-devices",
+            "title": "Mechanical Devices",
+            "description": "Movement and forces. Levers, linkages, cams, gears, pulleys, screws. Calculating gear ratios and mechanical advantage.",
+            "keyTerms": ["lever", "linkage", "cam", "gear", "pulley", "screw", "mechanical advantage", "gear ratio", "velocity ratio", "force", "torque", "rotation", "linear motion", "reciprocating motion", "oscillating motion"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.1 — Mechanical devices",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "materials-and-their-working-properties",
+            "title": "Materials and Their Working Properties",
+            "description": "Papers and boards, natural and manufactured timber, metals and alloys, polymers, textiles, and other modern and smart materials. Properties include: hardness, toughness, malleability, ductility, strength, elasticity, conductivity.",
+            "keyTerms": ["hardness", "toughness", "malleability", "ductility", "tensile strength", "compressive strength", "elasticity", "conductivity", "timber", "metal", "polymer", "textile", "paper", "board", "alloy", "thermoplastic", "thermosetting"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.1 — Materials and their working properties",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "specialist-technical-principles",
+        "title": "Specialist Technical Principles",
+        "description": "In-depth knowledge of a chosen material area: papers and boards; timber-based materials; metal and alloys; polymers; textiles; electronic and mechanical systems. Covers sources, origins, physical and working properties, stock forms, manufacturing processes.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 3.2 — Specialist technical principles",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "selection-of-materials-or-components",
+            "title": "Selection of Materials or Components",
+            "description": "Factors affecting selection of materials and components including function, aesthetics, environmental factors, availability, cost, social, cultural and ethical factors.",
+            "keyTerms": ["function", "aesthetics", "environmental impact", "availability", "cost", "social factors", "cultural factors", "ethical factors", "life cycle assessment"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Selection of materials or components",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "forces-and-stresses",
+            "title": "Forces and Stresses",
+            "description": "Compression, tension, bending, torsion, shear forces. How these affect the structural integrity of a product. How to reinforce structures to withstand forces.",
+            "keyTerms": ["compression", "tension", "bending", "torsion", "shear", "structural integrity", "triangulation", "reinforcement", "cantilever", "beam"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Forces and stresses",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "ecological-and-social-footprint",
+            "title": "Ecological and Social Footprint",
+            "description": "Impact of manufacturing and materials on society and the environment. 6 Rs (Reuse, Recycle, Reduce, Rethink, Repair, Refuse). Life cycle assessment.",
+            "keyTerms": ["6Rs", "reuse", "recycle", "reduce", "rethink", "repair", "refuse", "life cycle assessment", "carbon footprint", "ecological footprint", "sustainability"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Ecological and social footprint",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "sources-and-origins",
+            "title": "Sources and Origins",
+            "description": "Where materials and components originate from. How materials are extracted, processed and converted into usable stock forms. Finite and infinite resources.",
+            "keyTerms": ["finite resources", "infinite resources", "extraction", "processing", "stock form", "raw material", "primary processing", "secondary processing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Sources and origins",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "using-and-working-with-materials",
+            "title": "Using and Working with Materials",
+            "description": "Tools, equipment and processes for cutting, shaping, joining, finishing. Addition, subtraction and deformation manufacturing processes. Industrial and commercial manufacturing techniques.",
+            "keyTerms": ["cutting", "shaping", "joining", "finishing", "wasting", "addition", "deformation", "casting", "moulding", "fabrication", "assembly", "tolerance", "quality control"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Using and working with materials",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "scales-of-production",
+            "title": "Scales of Production",
+            "description": "One-off production, batch production, mass production, continuous production. Factors affecting the choice of production method.",
+            "keyTerms": ["one-off production", "batch production", "mass production", "continuous production", "just in time", "lean manufacturing", "economy of scale", "automation", "CAM", "CNC"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Scales of production",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "specialist-material-categories",
+            "title": "Specialist Material Categories",
+            "description": "Students develop in-depth knowledge of one or more specialist areas: papers and boards; timber-based materials; metals and alloys; polymers; textiles; electronic systems; mechanical systems.",
+            "keyTerms": ["papers and boards", "timber", "hardwood", "softwood", "manufactured board", "ferrous metal", "non-ferrous metal", "alloy", "thermoplastic", "thermosetting polymer", "woven fabric", "non-woven fabric", "electronics", "components"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.2 — Specialist material categories",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "designing-and-making-principles",
+        "title": "Designing and Making Principles",
+        "description": "Investigation, primary and secondary data, design strategies, communication of design ideas, prototype development, testing and evaluating, the work of others (past and present designers).",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 3.3 — Designing and making principles",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "investigation-primary-secondary-research",
+            "title": "Investigation, Primary and Secondary Research",
+            "description": "Understanding the context and user needs. Primary research (questionnaires, interviews, observations). Secondary research (existing products, internet, books). Analysis of research to identify design requirements.",
+            "keyTerms": ["primary research", "secondary research", "questionnaire", "interview", "observation", "user need", "design context", "ergonomics", "anthropometrics", "market research"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — Investigation, primary and secondary research",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "design-strategies",
+            "title": "Design Strategies",
+            "description": "Iterative design, user-centred design, systems thinking. Exploration of ideas through sketching, modelling, CAD. Design fixation and how to avoid it.",
+            "keyTerms": ["iterative design", "user-centred design", "design fixation", "brainstorming", "mind mapping", "mood board", "CAD", "3D modelling", "prototyping", "rapid prototyping"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — Design strategies",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "communication-of-design-ideas",
+            "title": "Communication of Design Ideas",
+            "description": "Freehand sketching, 2D and 3D drawing techniques, orthographic projection, isometric drawing, perspective drawing, exploded diagrams, schematic diagrams, CAD.",
+            "keyTerms": ["freehand sketch", "orthographic projection", "isometric drawing", "perspective drawing", "exploded view", "schematic diagram", "CAD", "rendering", "annotation", "working drawing"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — Communication of design ideas",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "prototype-development",
+            "title": "Prototype Development",
+            "description": "Making models and prototypes to test and develop ideas. Using appropriate materials, tools and processes. Manufacturing specification.",
+            "keyTerms": ["prototype", "model", "mock-up", "manufacturing specification", "tolerances", "quality control", "testing", "evaluation", "feedback"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — Prototype development",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "evaluating",
+            "title": "Evaluating",
+            "description": "Testing and evaluating designs and prototypes. Criteria-based evaluation. Third party testing. Analysis of results and improvements.",
+            "keyTerms": ["evaluation", "testing", "criteria", "third party feedback", "user testing", "market testing", "improvement", "modification", "design specification"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — Evaluating",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "viability-of-design-solutions",
+            "title": "Viability of Design Solutions",
+            "description": "Commercial viability, costs, marketing, cultural, ethical, environmental and social considerations when bringing a product to market.",
+            "keyTerms": ["commercial viability", "cost analysis", "marketing", "branding", "target market", "cultural considerations", "ethical considerations", "environmental impact"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — Viability of design solutions",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "work-of-others",
+            "title": "The Work of Others",
+            "description": "Past and present designers and companies whose work has influenced the development of Design and Technology. Understanding design movements and cultural influences.",
+            "keyTerms": ["design movements", "Art Deco", "Bauhaus", "modernism", "postmodernism", "Arts and Crafts", "industrial design", "ergonomics", "form follows function"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/subject-content",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 3.3 — The work of others",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Design and Technology",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+      "pageRef": "Specification at a Glance — Assessment overview",
+      "confidence": "high",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: Design and Technology",
+        "durationMinutes": 120,
+        "totalMarks": 100,
+        "percentage": 50,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Specification at a Glance — Paper 1 assessment",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Section A: Core technical principles",
+            "marks": 20,
+            "questionTypes": ["multiple choice", "short answer"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Specification at a Glance — Section A",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Section B: Specialist technical principles",
+            "marks": 30,
+            "questionTypes": ["short answer", "extended response"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Specification at a Glance — Section B",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "1C",
+            "title": "Section C: Designing and making principles",
+            "marks": 50,
+            "questionTypes": ["short answer", "extended response"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Specification at a Glance — Section C",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "NEA",
+        "title": "Non-Exam Assessment: Design and Make Task",
+        "durationMinutes": 2100,
+        "totalMarks": 100,
+        "percentage": 50,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 4.4 — Non-exam assessment",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "NEA-A",
+            "title": "Section A: Identifying and investigating design possibilities",
+            "marks": 10,
+            "questionTypes": ["portfolio", "practical work"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 4.4.4.1 — Identifying and investigating design possibilities",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "NEA-B",
+            "title": "Section B: Producing a design brief and specification",
+            "marks": 10,
+            "questionTypes": ["portfolio"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 4.4.4.2 — Producing a design brief and specification",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "NEA-C",
+            "title": "Section C: Generating design ideas",
+            "marks": 20,
+            "questionTypes": ["portfolio", "practical work"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 4.4.4.3 — Generating design ideas",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "NEA-D",
+            "title": "Section D: Developing design ideas",
+            "marks": 20,
+            "questionTypes": ["portfolio", "practical work"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 4.4.4.4 — Developing design ideas",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "NEA-E",
+            "title": "Section E: Realising design ideas",
+            "marks": 20,
+            "questionTypes": ["practical work", "prototype"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 4.4.4.5 — Realising design ideas",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "NEA-F",
+            "title": "Section F: Analysing and evaluating",
+            "marks": 20,
+            "questionTypes": ["portfolio", "practical work"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+              "pageRef": "Section 4.4.4.6 — Analysing and evaluating",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Design and Technology",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Identify, investigate and outline design possibilities to address needs and wants.",
+        "weightingMin": 10,
+        "weightingMax": 10,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Design and make prototypes that are fit for purpose.",
+        "weightingMin": 30,
+        "weightingMax": 30,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse and evaluate: design decisions and outcomes, including for prototypes made by themselves and others; wider issues in design and technology.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "AO4",
+        "description": "Demonstrate and apply knowledge and understanding of: technical principles; designing and making principles.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Design and Technology (8552) Specification",
+          "pageRef": "Section 4.2.1 — Assessment objective weightings",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Design and Technology",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+        "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+        "pageRef": "8552 DESIGN AND TECHNOLOGY row (total scaled mark 200)",
+        "confidence": "high",
+        "verifiedDate": "2026-03-31",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 174,
+          "maxMark": 200,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 159,
+          "maxMark": 173,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 145,
+          "maxMark": 158,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 128,
+          "maxMark": 144,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 111,
+          "maxMark": 127,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 94,
+          "maxMark": 110,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 69,
+          "maxMark": 93,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 45,
+          "maxMark": 68,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 21,
+          "maxMark": 44,
+          "_meta": {
+            "source": "https://filestore.aqa.org.uk/over/stat_pdf/AQA-GCSE-GDE-BDY-JUN-2024.PDF",
+            "sourceDocument": "AQA GCSE Grade Boundaries — June 2024 exams",
+            "pageRef": "8552 DESIGN AND TECHNOLOGY row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

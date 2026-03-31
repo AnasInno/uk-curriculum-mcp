@@ -1,0 +1,1093 @@
+{
+  "board": "Edexcel",
+  "subject": "Combined Science",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+    "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+    "pageRef": "Assessment Overview",
+    "confidence": "high",
+    "verifiedDate": "2026-03-31",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "Edexcel",
+    "subject": "Combined Science",
+    "level": "GCSE",
+    "code": "1SC0",
+    "title": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+      "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+      "pageRef": "Specification at a glance",
+      "confidence": "high",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "biology-topic-1",
+        "title": "Key Concepts in Biology",
+        "description": "Topic 1: Key concepts in biology — cell structure, microscopy, eukaryotic and prokaryotic cells, cell differentiation, stem cells, transport in cells",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-2",
+        "title": "Cells and Control",
+        "description": "Topic 2: Cells and control — mitosis, growth in animals and plants, stem cells, the nervous system",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-3",
+        "title": "Genetics",
+        "description": "Topic 3: Genetics — meiosis, DNA structure, protein synthesis, inheritance, mutations",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 3",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-4",
+        "title": "Natural Selection and Genetic Modification",
+        "description": "Topic 4: Natural selection and genetic modification — natural selection, selective breeding, genetic engineering, evolution, classification",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 4",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-5",
+        "title": "Health, Disease and the Development of Medicines",
+        "description": "Topic 5: Health, disease and the development of medicines — health and disease, communicable diseases, non-communicable diseases, the immune system, developing new medicines, monoclonal antibodies",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 5",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-6",
+        "title": "Plant Structures and Their Functions",
+        "description": "Topic 6: Plant structures and their functions — plant cell organisation, transpiration, translocation, plant hormones",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 6",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-7",
+        "title": "Animal Coordination, Control and Homeostasis",
+        "description": "Topic 7: Animal coordination, control and homeostasis — hormones, the endocrine system, homeostasis, blood glucose regulation, diabetes, thermoregulation",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 7",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-8",
+        "title": "Exchange and Transport in Animals",
+        "description": "Topic 8: Exchange and transport in animals — the circulatory system, the heart, blood, the respiratory system, gas exchange",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 8",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "biology-topic-9",
+        "title": "Ecosystems and Material Cycles",
+        "description": "Topic 9: Ecosystems and material cycles — ecosystems, food webs, biodiversity, material cycles, human effects on the environment",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Biology content — Topic 9",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-1",
+        "title": "Key Concepts in Chemistry",
+        "description": "Topic 1: Key concepts in chemistry — atomic structure, the periodic table, ionic and covalent bonding, formulae and equations, hazards",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-2",
+        "title": "States of Matter and Mixtures",
+        "description": "Topic 2: States of matter and mixtures — states of matter, methods of separation, paper chromatography, water purification",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-3",
+        "title": "Chemical Changes",
+        "description": "Topic 3: Chemical changes — acids and alkalis, neutralisation, salt formation, electrolysis, reactivity series, displacement reactions",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 3",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-4",
+        "title": "Extracting Metals and Equilibria",
+        "description": "Topic 4: Extracting metals and equilibria — extraction of metals, recycling, dynamic equilibrium, reversible reactions",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 4",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-5",
+        "title": "Separate Chemistry 1",
+        "description": "Topic 5: Separate Chemistry 1 — transition metals, quantitative chemistry, moles, yield, atom economy (separate science extension)",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 5",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-6",
+        "title": "Groups in the Periodic Table",
+        "description": "Topic 6: Groups in the periodic table — Group 1 alkali metals, Group 7 halogens, Group 0 noble gases, properties and reactions",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 6",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-7",
+        "title": "Rates of Reaction and Energy Changes",
+        "description": "Topic 7: Rates of reaction and energy changes — collision theory, factors affecting rate, catalysts, exothermic and endothermic reactions, bond energies",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 7",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "chemistry-topic-8",
+        "title": "Fuels and Earth Science",
+        "description": "Topic 8: Fuels and Earth science — crude oil, fractional distillation, hydrocarbons, combustion, polymers, the Earth's atmosphere, climate change",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Chemistry content — Topic 8",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-1",
+        "title": "Key Concepts of Physics",
+        "description": "Topic 1: Key concepts of physics — units, scalar and vector quantities, equations of motion, energy, power, efficiency",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-2",
+        "title": "Motion and Forces",
+        "description": "Topic 2: Motion and forces — distance/time graphs, velocity/time graphs, Newton's laws, weight, friction, momentum",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-3",
+        "title": "Conservation of Energy",
+        "description": "Topic 3: Conservation of energy — energy stores and transfers, efficiency, the national grid, renewable and non-renewable energy resources",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 3",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-4",
+        "title": "Waves",
+        "description": "Topic 4: Waves — properties of waves, transverse and longitudinal waves, reflection, refraction, sound",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 4",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-5",
+        "title": "Light and the Electromagnetic Spectrum",
+        "description": "Topic 5: Light and the electromagnetic spectrum — electromagnetic spectrum, uses and hazards, reflection, refraction, lenses, colour",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 5",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-6",
+        "title": "Radioactivity",
+        "description": "Topic 6: Radioactivity — atomic structure, isotopes, radioactive decay, alpha/beta/gamma radiation, half-life, nuclear fission and fusion",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 6",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-8",
+        "title": "Energy — Forces Doing Work",
+        "description": "Topic 8: Energy — forces doing work — work done, power, gravitational potential energy, kinetic energy, elastic potential energy",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 8",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-9",
+        "title": "Forces and Their Effects",
+        "description": "Topic 9: Forces and their effects — resultant forces, turning effects, pressure in fluids, Hooke's law, springs",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 9",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-10",
+        "title": "Electricity and Circuits",
+        "description": "Topic 10: Electricity and circuits — circuit symbols, current, potential difference, resistance, series and parallel circuits, electrical power, mains electricity",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 10",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-12",
+        "title": "Magnetism and the Motor Effect",
+        "description": "Topic 12: Magnetism and the motor effect — permanent and induced magnets, magnetic fields, the motor effect, electric motors",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 12",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-13",
+        "title": "Electromagnetic Induction",
+        "description": "Topic 13: Electromagnetic induction — generators, transformers, the national grid",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 13",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-14",
+        "title": "Particle Model",
+        "description": "Topic 14: Particle model — states of matter, changes of state, internal energy, specific heat capacity, specific latent heat, gas pressure",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 14",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      },
+      {
+        "id": "physics-topic-15",
+        "title": "Forces and Matter",
+        "description": "Topic 15: Forces and matter — density, pressure in fluids, Hooke's law, elastic and inelastic deformation",
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Physics content — Topic 15",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": []
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "Edexcel",
+    "subject": "Combined Science",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+      "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+      "pageRef": "Assessment overview — Paper structure",
+      "confidence": "high",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "biology-paper-1",
+        "title": "Biology Paper 1 Foundation Tier (1SC0/1BF)",
+        "durationMinutes": 70,
+        "totalMarks": 60,
+        "percentage": 16.67,
+        "calculator": true,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment overview — Paper 1: Biology 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "biology-paper-1-foundation-topics",
+            "title": "Biology Topics 1–5",
+            "description": "Key Concepts in Biology; Cells and Control; Genetics; Natural Selection and Genetic Modification; Health, Disease and the Development of Medicines",
+            "marks": 60,
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+              "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+              "pageRef": "Assessment overview — Paper 1: Biology 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "tiers": [
+          "foundation",
+          "higher"
+        ]
+      },
+      {
+        "id": "biology-paper-2",
+        "title": "Biology Paper 2 Foundation Tier (1SC0/2BF)",
+        "durationMinutes": 70,
+        "totalMarks": 60,
+        "percentage": 16.67,
+        "calculator": true,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment overview — Paper 2: Biology 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "biology-paper-2-foundation-topics",
+            "title": "Biology Topics 1, 6–9",
+            "description": "Key Concepts in Biology (revisited); Plant Structures and Their Functions; Animal Coordination, Control and Homeostasis; Exchange and Transport in Animals; Ecosystems and Material Cycles",
+            "marks": 60,
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+              "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+              "pageRef": "Assessment overview — Paper 2: Biology 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "tiers": [
+          "foundation",
+          "higher"
+        ]
+      },
+      {
+        "id": "chemistry-paper-1",
+        "title": "Chemistry Paper 1 Foundation Tier (1SC0/1CF)",
+        "durationMinutes": 70,
+        "totalMarks": 60,
+        "percentage": 16.67,
+        "calculator": true,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment overview — Paper 3: Chemistry 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "chemistry-paper-1-foundation-topics",
+            "title": "Chemistry Topics 1–4",
+            "description": "Key Concepts in Chemistry; States of Matter and Mixtures; Chemical Changes; Extracting Metals and Equilibria",
+            "marks": 60,
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+              "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+              "pageRef": "Assessment overview — Paper 3: Chemistry 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "tiers": [
+          "foundation",
+          "higher"
+        ]
+      },
+      {
+        "id": "chemistry-paper-2",
+        "title": "Chemistry Paper 2 Foundation Tier (1SC0/2CF)",
+        "durationMinutes": 70,
+        "totalMarks": 60,
+        "percentage": 16.67,
+        "calculator": true,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment overview — Paper 4: Chemistry 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "chemistry-paper-2-foundation-topics",
+            "title": "Chemistry Topics 1, 6–8",
+            "description": "Key Concepts in Chemistry (revisited); Groups in the Periodic Table; Rates of Reaction and Energy Changes; Fuels and Earth Science",
+            "marks": 60,
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+              "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+              "pageRef": "Assessment overview — Paper 4: Chemistry 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "tiers": [
+          "foundation",
+          "higher"
+        ]
+      },
+      {
+        "id": "physics-paper-1",
+        "title": "Physics Paper 1 Foundation Tier (1SC0/1PF)",
+        "durationMinutes": 70,
+        "totalMarks": 60,
+        "percentage": 16.67,
+        "calculator": true,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment overview — Paper 5: Physics 1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "physics-paper-1-foundation-topics",
+            "title": "Physics Topics 1–6",
+            "description": "Key Concepts of Physics; Motion and Forces; Conservation of Energy; Waves; Light and the Electromagnetic Spectrum; Radioactivity",
+            "marks": 60,
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+              "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+              "pageRef": "Assessment overview — Paper 5: Physics 1",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "tiers": [
+          "foundation",
+          "higher"
+        ]
+      },
+      {
+        "id": "physics-paper-2",
+        "title": "Physics Paper 2 Foundation Tier (1SC0/2PF)",
+        "durationMinutes": 70,
+        "totalMarks": 60,
+        "percentage": 16.67,
+        "calculator": true,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment overview — Paper 6: Physics 2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "physics-paper-2-foundation-topics",
+            "title": "Physics Topics 1, 8–10, 12–15",
+            "description": "Key Concepts of Physics (revisited); Energy — Forces Doing Work; Forces and Their Effects; Electricity and Circuits; Magnetism and the Motor Effect; Electromagnetic Induction; Particle Model; Forces and Matter",
+            "marks": 60,
+            "questionTypes": [
+              "multiple choice",
+              "structured",
+              "closed short answer",
+              "open response"
+            ],
+            "_meta": {
+              "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+              "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+              "pageRef": "Assessment overview — Paper 6: Physics 2",
+              "confidence": "high",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ],
+        "tiers": [
+          "foundation",
+          "higher"
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "Edexcel",
+    "subject": "Combined Science",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+      "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+      "pageRef": "Assessment objectives",
+      "confidence": "high",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of: scientific ideas; scientific techniques and procedures.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment objectives — AO1",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of: scientific ideas; scientific enquiry, techniques and procedures.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment objectives — AO2",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse information and ideas to: interpret and evaluate; make judgments and draw conclusions; develop and improve experimental procedures.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-combinedscience-spec.pdf",
+          "sourceDocument": "Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Combined Science (1SC0) Specification",
+          "pageRef": "Assessment objectives — AO3",
+          "confidence": "high",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "Edexcel",
+      "subject": "Combined Science",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024 (combined award — subject level)",
+      "tier": "foundation",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+        "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+        "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+        "confidence": "high",
+        "verifiedDate": "2026-03-31",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "5-5",
+          "minMark": 217,
+          "maxMark": 360,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4-4",
+          "minMark": 197,
+          "maxMark": 216,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3-3",
+          "minMark": 178,
+          "maxMark": 196,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2-2",
+          "minMark": 155,
+          "maxMark": 177,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1-1",
+          "minMark": 132,
+          "maxMark": 154,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 131,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Foundation) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    },
+    {
+      "board": "Edexcel",
+      "subject": "Combined Science",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024 (combined award — subject level)",
+      "tier": "higher",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+        "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+        "pageRef": "1SC0 Combined Science (Higher) Subject row",
+        "confidence": "high",
+        "verifiedDate": "2026-03-31",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9-9",
+          "minMark": 272,
+          "maxMark": 360,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8-8",
+          "minMark": 256,
+          "maxMark": 271,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7-7",
+          "minMark": 240,
+          "maxMark": 255,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6-6",
+          "minMark": 225,
+          "maxMark": 239,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5-5",
+          "minMark": 210,
+          "maxMark": 224,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4-4",
+          "minMark": 190,
+          "maxMark": 209,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3-3",
+          "minMark": 170,
+          "maxMark": 189,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2-2",
+          "minMark": 151,
+          "maxMark": 169,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1-1",
+          "minMark": 132,
+          "maxMark": 150,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "U",
+          "minMark": 0,
+          "maxMark": 131,
+          "_meta": {
+            "source": "https://qualifications.pearson.com/content/dam/pdf/Support/Grade-boundaries/GCSE/grade-boundaries-june-2024-gcse.pdf",
+            "sourceDocument": "Grade Boundaries Edexcel GCSE (9-1) June 2024",
+            "pageRef": "1SC0 Combined Science (Higher) Subject row",
+            "confidence": "high",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}

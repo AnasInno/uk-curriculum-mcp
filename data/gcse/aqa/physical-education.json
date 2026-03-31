@@ -1,0 +1,545 @@
+{
+  "board": "AQA",
+  "subject": "Physical Education",
+  "level": "GCSE",
+  "_meta": {
+    "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+    "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+    "pageRef": "Sections 4.1–4.4",
+    "confidence": "medium",
+    "verifiedDate": "2026-03-31",
+    "verifiedBy": "agent",
+    "tier": "authoritative"
+  },
+  "specification": {
+    "board": "AQA",
+    "subject": "Physical Education",
+    "level": "GCSE",
+    "code": "8582",
+    "title": "AQA GCSE Physical Education",
+    "firstExamYear": 2018,
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+      "pageRef": "Section 2.1 — Subject content",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "topics": [
+      {
+        "id": "paper1-human-body-and-movement",
+        "title": "Paper 1: The Human Body and Movement in Physical Activity and Sport",
+        "description": "Students study Applied anatomy and physiology, Movement analysis, Physical training, and Use of data.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/the-human-body-and-movement-in-physical-activity-and-sport",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 3.1 — The human body and movement in physical activity and sport",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "applied-anatomy-and-physiology",
+            "title": "3.1.1 Applied anatomy and physiology",
+            "description": "The structure and function of the skeletal system; the structure and function of the muscular system; the structure and function of the cardiovascular system; the structure and function of the respiratory system; the effects of exercise on the body systems; the relationship between health and fitness.",
+            "keyTerms": ["skeleton", "joints", "cartilage", "ligaments", "tendons", "muscle contraction", "antagonistic muscle pairs", "agonist", "antagonist", "cardiovascular system", "heart rate", "stroke volume", "cardiac output", "blood pressure", "respiratory system", "tidal volume", "breathing rate", "aerobic respiration", "anaerobic respiration", "lactic acid"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/the-human-body-and-movement-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.1.1 — Applied anatomy and physiology",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "movement-analysis",
+            "title": "3.1.2 Movement analysis",
+            "description": "Levers in the body (first, second and third class levers); the planes and axes of movement; planes of movement (frontal, transverse, sagittal) and axes of rotation (frontal, longitudinal, transverse).",
+            "keyTerms": ["lever", "fulcrum", "effort", "load", "first class lever", "second class lever", "third class lever", "mechanical advantage", "sagittal plane", "frontal plane", "transverse plane", "frontal axis", "longitudinal axis", "transverse axis"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/the-human-body-and-movement-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.1.2 — Movement analysis",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "physical-training",
+            "title": "3.1.3 Physical training",
+            "description": "Principles of training (FITT, progressive overload, specificity, reversibility, variance); components of fitness; methods of training; preventing injury in training; optimising training and preventing injury.",
+            "keyTerms": ["FITT principle", "frequency", "intensity", "time", "type", "progressive overload", "specificity", "reversibility", "variance", "aerobic endurance", "muscular endurance", "flexibility", "speed", "strength", "power", "agility", "balance", "coordination", "reaction time", "continuous training", "interval training", "fartlek training", "circuit training", "weight training", "plyometrics", "flexibility training", "cross training", "VO2 max"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/the-human-body-and-movement-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.1.3 — Physical training",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "use-of-data-paper1",
+            "title": "3.1.4 Use of data",
+            "description": "Collection, interpretation and analysis of data relating to the human body and movement in physical activity and sport.",
+            "keyTerms": ["quantitative data", "qualitative data", "tables", "graphs", "mean", "median", "mode", "range"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/the-human-body-and-movement-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.1.4 — Use of data",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "paper2-socio-cultural-influences-and-wellbeing",
+        "title": "Paper 2: Socio-cultural Influences and Well-being in Physical Activity and Sport",
+        "description": "Students study Sports psychology, Socio-cultural influences, Health, fitness and well-being, and Use of data.",
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/socio-cultural-influences-and-wellbeing-in-physical-activity-and-sport",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 3.2 — Socio-cultural influences and well-being in physical activity and sport",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "subtopics": [
+          {
+            "id": "sports-psychology",
+            "title": "3.2.1 Sports psychology",
+            "description": "Classification of skills; basic information processing model; guidance and feedback; mental preparation for sport; arousal; aggression; motivation; goal setting.",
+            "keyTerms": ["skill", "open skill", "closed skill", "gross motor skill", "fine motor skill", "information processing", "input", "decision making", "output", "feedback", "guidance", "mental rehearsal", "imagery", "selective attention", "arousal", "inverted U theory", "aggression", "channelled aggression", "motivation", "intrinsic motivation", "extrinsic motivation", "goal setting", "SMART goals"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/socio-cultural-influences-and-wellbeing-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.2.1 — Sports psychology",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "socio-cultural-influences",
+            "title": "3.2.2 Socio-cultural influences",
+            "description": "Engagement patterns of different social groups in physical activity and sport; commercialisation of physical activity and sport; ethics in sport.",
+            "keyTerms": ["participation", "social groups", "age", "gender", "disability", "ethnicity", "socio-economic status", "media", "sponsorship", "commercialisation", "technology", "ethics", "sportsmanship", "gamesmanship", "fair play", "performance-enhancing drugs", "doping", "violence in sport"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/socio-cultural-influences-and-wellbeing-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.2.2 — Socio-cultural influences",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "health-fitness-and-wellbeing",
+            "title": "3.2.3 Health, fitness and well-being",
+            "description": "Physical, emotional and social health, fitness and well-being; the consequences of a sedentary lifestyle; energy use, diet, nutrition and hydration.",
+            "keyTerms": ["health", "fitness", "wellbeing", "physical health", "emotional health", "social health", "sedentary lifestyle", "obesity", "cardiovascular disease", "diabetes", "diet", "nutrition", "carbohydrates", "fats", "proteins", "vitamins", "minerals", "hydration", "energy balance", "BMI"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/socio-cultural-influences-and-wellbeing-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.2.3 — Health, fitness and well-being",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "use-of-data-paper2",
+            "title": "3.2.4 Use of data",
+            "description": "Collection, interpretation and analysis of data relating to socio-cultural influences and well-being in physical activity and sport.",
+            "keyTerms": ["quantitative data", "qualitative data", "tables", "graphs", "mean", "median", "mode", "range"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/subject-content/socio-cultural-influences-and-wellbeing-in-physical-activity-and-sport",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 3.2.4 — Use of data",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "paperStructure": {
+    "board": "AQA",
+    "subject": "Physical Education",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+      "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+      "pageRef": "Section 2.2 — Assessments",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "papers": [
+      {
+        "id": "1",
+        "title": "Paper 1: The Human Body and Movement in Physical Activity and Sport",
+        "durationMinutes": 75,
+        "totalMarks": 78,
+        "percentage": 30,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 2.2 — Paper 1 assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "1A",
+            "title": "Applied anatomy and physiology",
+            "marks": 78,
+            "questionTypes": ["multiple choice", "short answer", "extended answer"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 2.2 — Paper 1 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Paper 2: Socio-cultural Influences and Well-being in Physical Activity and Sport",
+        "durationMinutes": 75,
+        "totalMarks": 78,
+        "percentage": 30,
+        "calculator": false,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 2.2 — Paper 2 assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "2A",
+            "title": "Socio-cultural influences and well-being",
+            "marks": 78,
+            "questionTypes": ["multiple choice", "short answer", "extended answer"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 2.2 — Paper 2 questions",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Non-exam Assessment: Practical Performance in Physical Activity and Sport",
+        "durationMinutes": 600,
+        "totalMarks": 100,
+        "percentage": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/specification-at-a-glance",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 2.2 — Non-exam assessment",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        },
+        "sections": [
+          {
+            "id": "3A",
+            "title": "Performance assessment — practical performance in three activities",
+            "marks": 75,
+            "questionTypes": ["teacher assessed", "AQA moderated"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 4.4 — Performance assessment (practical performance)",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          },
+          {
+            "id": "3B",
+            "title": "Performance analysis assessment — analysis and evaluation",
+            "marks": 25,
+            "questionTypes": ["teacher assessed", "AQA moderated"],
+            "_meta": {
+              "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+              "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+              "pageRef": "Section 4.4 — Performance analysis assessment",
+              "confidence": "medium",
+              "verifiedDate": "2026-03-31",
+              "verifiedBy": "agent",
+              "tier": "authoritative"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "assessmentObjectives": {
+    "board": "AQA",
+    "subject": "Physical Education",
+    "level": "GCSE",
+    "_meta": {
+      "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+      "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+      "pageRef": "Section 4.2 — Assessment objectives",
+      "confidence": "medium",
+      "verifiedDate": "2026-03-31",
+      "verifiedBy": "agent",
+      "tier": "authoritative"
+    },
+    "objectives": [
+      {
+        "id": "AO1",
+        "title": "AO1",
+        "description": "Demonstrate knowledge and understanding of the factors that underpin performance and involvement in physical activity and sport.",
+        "weightingMin": 25,
+        "weightingMax": 25,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 4.2 — Assessment objective weightings for GCSE Physical Education",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO2",
+        "title": "AO2",
+        "description": "Apply knowledge and understanding of the factors that underpin performance and involvement in physical activity and sport.",
+        "weightingMin": 20,
+        "weightingMax": 20,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 4.2 — Assessment objective weightings for GCSE Physical Education",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO3",
+        "title": "AO3",
+        "description": "Analyse and evaluate the factors that underpin performance and involvement in physical activity and sport.",
+        "weightingMin": 15,
+        "weightingMax": 15,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 4.2 — Assessment objective weightings for GCSE Physical Education",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      },
+      {
+        "id": "AO4",
+        "title": "AO4",
+        "description": "Demonstrate and apply relevant skills and techniques in physical activity and sport. Analyse and evaluate performance.",
+        "weightingMin": 40,
+        "weightingMax": 40,
+        "_meta": {
+          "source": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification/scheme-of-assessment",
+          "sourceDocument": "AQA GCSE Physical Education (8582) Specification",
+          "pageRef": "Section 4.2 — Assessment objective weightings for GCSE Physical Education",
+          "confidence": "medium",
+          "verifiedDate": "2026-03-31",
+          "verifiedBy": "agent",
+          "tier": "authoritative"
+        }
+      }
+    ]
+  },
+  "gradeBoundaries": [
+    {
+      "board": "AQA",
+      "subject": "Physical Education",
+      "level": "GCSE",
+      "year": 2024,
+      "series": "June 2024",
+      "tier": "all",
+      "note": "Historical data only. Not predictive.",
+      "_meta": {
+        "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+        "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+        "pageRef": "Physical Education 2024 Jun — Maximum Mark 260",
+        "confidence": "medium",
+        "verifiedDate": "2026-03-31",
+        "verifiedBy": "agent",
+        "tier": "authoritative"
+      },
+      "boundaries": [
+        {
+          "grade": "9",
+          "minMark": 206,
+          "maxMark": 260,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 9",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "8",
+          "minMark": 192,
+          "maxMark": 205,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 8",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "7",
+          "minMark": 178,
+          "maxMark": 191,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 7",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "6",
+          "minMark": 160,
+          "maxMark": 177,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 6",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "5",
+          "minMark": 143,
+          "maxMark": 159,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 5",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "4",
+          "minMark": 126,
+          "maxMark": 142,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 4",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "3",
+          "minMark": 95,
+          "maxMark": 125,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 3",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "2",
+          "minMark": 64,
+          "maxMark": 94,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 2",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        },
+        {
+          "grade": "1",
+          "minMark": 34,
+          "maxMark": 63,
+          "_meta": {
+            "source": "https://www.savemyexams.com/learning-hub/grade-boundaries/gcse/aqa/physical-education/",
+            "sourceDocument": "AQA GCSE Physical Education Grade Boundaries 2018–2025",
+            "pageRef": "Physical Education 2024 Jun row — Grade 1",
+            "confidence": "medium",
+            "verifiedDate": "2026-03-31",
+            "verifiedBy": "agent",
+            "tier": "authoritative"
+          }
+        }
+      ]
+    }
+  ]
+}
